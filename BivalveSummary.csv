@@ -1,0 +1,1505 @@
+﻿taxon_name,int_midpoint,sub,size,taxon_name,is_extant,firstapp_max_ma,firstapp_min_ma,lastapp_max_ma,lastapp_min_ma,early_interval,late_interval
+Abarbatia,0.01,nonHet,65.5,Abarbatia,extant,242,235,0.0117,0,Ladinian,Cenozoic
+Abra,0.01,Het,38,Abra,extant,56,48.6,0.0117,0,Eocene,Holocene
+Abruptolopha,0.01,nonHet,98.78571429,Abruptolopha,extinct,70.6,66,70.6,66,Maastrichtian,
+Acanthocardia,0.01,Het,102.5,Acanthocardia,extant,89.8,83.6,0.0117,0,Coniacian,Cenozoic
+Acanthopecten,257.05,nonHet,12.13,Acanthopecten,extinct,364.7,360.7,254.17,252.17,Famennian,Permian
+Acar,0.01,nonHet,43,Acar,extant,83.5,66,0.0117,0,Campanian,Cenozoic
+Acesta,69.05,nonHet,185,Acesta,extant,166.1,163.5,0.126,0.0117,Callovian,Pleistocene
+Acharax,0.01,nonHet,240,Acharax,extant,345.3,339.4,0.126,0.0117,Visean,Pleistocene
+Acorylus,0.01,Het,6.71,Acorylus,extant,11.62,7.246,0.781,0.126,Tortonian,Middle Pleistocene
+Acostaea,0.01,nonHet,79.81666667,Acostaea,extant,,,,,,
+Acrosterigma,0.01,Het,128,Acrosterigma,extant,23.03,15.97,0.0117,0,Neogene,Holocene
+Actinodesma,365.55,nonHet,36.97,Actinodesma,extinct,410.8,407.6,228,208.5,Pragian,Norian
+Actinodonta,424.3,nonHet,45.01,Actinodonta,extinct,478.6,471.8,11.608,5.333,Ordovician,Miocene
+Actinopteria,327.05,nonHet,78.87,Actinopteria,extinct,443.4,440.8,254.17,252.17,Silurian,Permian
+Actinopterinia,449.1,nonHet,9.716666667,Actinopterinia,extinct,460.9,452,460.9,452,Darriwilian,Katian
+Actinostreon,0.01,nonHet,101.72,Actinostreon,extinct,232,221.5,130,125.45,Late Triassic,Barremian
+Actinotrigonia,96.9,nonHet,61.71,Actinotrigonia,extinct,,,,,,
+Acuticosta,0.01,nonHet,57.9,Acuticosta,extinct,,,,,,
+Acutostrea,69.05,nonHet,77.78,Acutostrea,extinct,100.5,93.9,28.1,23.03,Late Cretaceous,Paleogene
+Adacna,0.01,Het,50,Adacna,extant,0.126,0.0117,0.126,0.0117,Late Pleistocene,
+Adamussium,0.01,nonHet,120,Adamussium,extant,28.1,23.03,0.0117,0,Chattian,Holocene
+Adipicola,0.01,nonHet,52.9,Adipicola,extant,15.97,13.82,11.62,7.246,Langhian,Tortonian
+Adontorhina,0.01,nonHet,2.805,Adontorhina,extant,0.781,0.126,0.781,0.126,Middle Pleistocene,
+Adrana,0.01,nonHet,107,Adrana,extant,61.7,55.8,0.126,0,Cenozoic,Holocene
+Adula,0.01,nonHet,113,Adula,extant,47.8,41.3,0.126,0.0117,Lutetian,Pleistocene
+Aenona,69.05,nonHet,17.29,Aenona,extinct,99.6,93.5,70.6,66,Late Cretaceous,Maastrichtian
+Aeora,69.05,nonHet,23.8,Aeora,extinct,61.6,59.2,61.6,59.2,Selandian,
+Aequipecten,0.01,nonHet,101.3,Aequipecten,extant,247.2,242,0.0117,0,Middle Triassic,Cenozoic
+Africogryphaea,148.55,nonHet,54.22857143,Africogryphaea,extinct,174.1,168.3,163.5,155.7,Middle Jurassic,Kimmeridgian
+Afrocardium,0.01,Het,16,Afrocardium,extant,11.62,7.246,0.126,0.0117,Tortonian,Pleistocene
+Agelasina,69.05,nonHet,104.5285714,Agelasina,extinct,93.5,89.3,72.1,66,Turonian,Maastrichtian
+Agerostrea,69.05,nonHet,45.77333333,Agerostrea,extinct,100.5,72.1,5.333,3.6,Late Cretaceous,Zanclean
+Agriopleura,69.05,nonHet,50.74444444,Agriopleura,extinct,136.4,130,72.1,66,Valanginian,Late Cretaceous
+Agriopoma,0.01,nonHet,76,Agriopoma,extant,38,33.9,2.588,0.0117,Priabonian,Pleistocene
+Aguilerella,160.4,nonHet,67.12857143,Aguilerella,extinct,208.5,201.3,139.8,130,Rhaetian,Hauterivian
+Ahtioconcha,455.7,nonHet,63.95,Ahtioconcha,extinct,460.9,449.5,460.9,449.5,Darriwilian,Katian
+Alasmidonta,0.01,nonHet,62.35,Alasmidonta,extant,,,,,,
+Alectryonella,0.01,nonHet,120,Alectryonella,extant,3.6,2.588,0.126,0.0117,Piacenzian,Pleistocene
+Aligena,0.01,Het,8.92,Aligena,extant,23.03,15.97,0.0117,0,Neogene,Holocene
+Aliomactra,69.05,nonHet,36.94,Aliomactra,extinct,100.5,93.9,100.5,93.9,Cenomanian,
+Allodesma,455.7,nonHet,13.395,Allodesma,extinct,460.9,452,445.2,443.4,Darriwilian,Late Ordovician
+Allomactra,0.01,Het,46.18,Allomactra,extinct,,,,,,
+Allonychia,449.1,nonHet,68.31,Allonychia,extinct,460.9,455.8,452,443.7,Darriwilian,Late Ordovician
+Allopagus,39.65,nonHet,3.105,Allopagus,extinct,,,,,,
+Alula,262.5,nonHet,29.45,Alula,extinct,272.5,268.8,254.17,252.17,Kungurian,Lopingian
+Alveinus,12.72,nonHet,2.3,Alveinus,extinct,56,47.8,3.6,2.588,Eocene,Neogene
+Ambonychia,449.1,nonHet,39.91,Ambonychia,extinct,470,458.4,410.8,407.6,Middle Ordovician,Pragian
+Ambonychiopsis,428.95,nonHet,28.225,Ambonychiopsis,extinct,468.1,460.9,452,443.4,Middle Ordovician,Late Ordovician
+Ameghinomya,12.72,nonHet,93,Ameghinomya,extant,28.4,15.97,0.0117,0,Oligocene,Holocene
+Americardia,0.01,Het,60,Americardia,extant,47.8,41.3,0.0117,0,Lutetian,Holocene
+Amesodesma,0.01,nonHet,30,Amesodesma,extant,0.126,0.0117,0.126,0.0117,Late Pleistocene,
+Amiantis,0.01,Het,122.4,Amiantis,extant,56,37.2,0.0117,0,Eocene,Holocene
+Amonotis,231.5,nonHet,23.62,Amonotis,extinct,237,228,215.56,212,Carnian,Norian
+Amotapus,39.65,Het,99.62,Amotapus,extinct,55.8,48.6,37.2,33.9,Eocene,Priabonian
+Amphiaraus,119,Het,31.06666667,Amphiaraus,extinct,125.45,122.46,125.45,122.46,Barremian,Aptian
+Amphichaena,0.01,nonHet,48,Amphichaena,extant,,,,,,
+Amphidonte,69.05,nonHet,64.42857143,Amphidonte,extinct,161.2,155.7,70.6,66,Late Jurassic,Cretaceous
+Amphijanira,231.5,nonHet,7.713333333,Amphijanira,extinct,247.2,242,237,228,Middle Triassic,Carnian
+Amusium,0.01,nonHet,140,Amusium,extant,358.9,336,0.126,0.0117,Carboniferous,Pleistocene
+Amussiopecten,0.01,nonHet,94.12,Amussiopecten,extant,33.9,28.4,1.806,0.781,Oligocene,Calabrian
+Amygdalum,0.01,nonHet,75,Amygdalum,extant,145,130,0.126,0.0117,Cretaceous,Pleistocene
+Anadara,4.47,nonHet,152.1,Anadara,extant,139.8,132.9,0.0117,0,Valanginian,Cenozoic
+Anapteris,35.95,Het,11.50333333,Anapteris,extinct,56,47.8,47.8,41.3,Ypresian,Lutetian
+Anatimya,69.05,nonHet,56.48571429,Anatimya,extinct,100.5,93.9,70.6,66,Late Cretaceous,
+Anatina,0.01,nonHet,81.2,Anatina,extant,237,232,0.126,0.0117,Late Triassic,Pleistocene
+Anguipecten,0.01,nonHet,80,Anguipecten,extant,,,,,,
+Angulus,0.01,Het,43.59,Angulus,extant,66,56,0.0117,0,Cenozoic,
+Angusticardo,35.95,nonHet,4.006666667,Angusticardo,extinct,,,,,,
+Anisocardia,119,Het,30.41428571,Anisocardia,extinct,237,228,37.2,33.9,Late Triassic,Eocene
+Anisodonta,0.01,nonHet,7.881081081,Anisodonta,extant,56,47.8,0.126,0.0117,Eocene,Pleistocene
+Annachlamys,0.01,nonHet,102.3,Annachlamys,extant,23.03,15.97,0.126,0.0117,Neogene,Pleistocene
+Anningella,195.05,nonHet,30.86153846,Anningella,extinct,201.3,190.8,189.6,174.1,Early Jurassic,
+Annuliconcha,262.5,nonHet,18.92,Annuliconcha,extinct,358.9,326.4,254.17,252.17,Carboniferous,Permian
+Anodonta,0.01,nonHet,198.16,Anodonta,extant,364.7,360.7,0.126,0.0117,Famennian,Pleistocene
+Anodontia,0.01,Het,33.76153846,Anodontia,extant,61.6,59.2,0.0117,0,Selandian,Holocene
+Anodontites,0.01,nonHet,64.58,Anodontites,extant,70.6,66,11.608,5.333,Maastrichtian,Miocene
+Anodontopleura,119,nonHet,91.8,Anodontopleura,extinct,,,,,,
+Anodontopsis,424.3,nonHet,28.13,Anodontopsis,extinct,443.4,433.4,427.4,423,Llandovery,Ludlow
+Anomalocardia,0.01,Het,50,Anomalocardia,extant,28.4,23.03,0.0117,0,Oligocene,Holocene
+Anomalodonta,449.1,nonHet,61.26,Anomalodonta,extinct,452,445.6,449.5,443.7,Katian,Hirnantian
+Anomalokellia,57.6,nonHet,5.7484375,Anomalokellia,extinct,,,,,,
+Anomia,0.01,nonHet,93,Anomia,extant,268.8,265.1,0.0117,0,Wordian,Cenozoic
+Anopaea,106.75,nonHet,130.42,Anopaea,extinct,163.5,145,113,100.5,Late Jurassic,Early Cretaceous
+Anthonya,69.05,nonHet,44.54,Anthonya,extinct,129.4,125,72.1,66,Barremian,Late Cretaceous
+Antigona,0.01,nonHet,125,Antigona,extant,37.2,33.9,0.126,0,Priabonian,Holocene
+Antijanira,231.5,nonHet,18.67,Antijanira,extinct,237,232,235,228,Carnian,
+Antipecten,0.01,nonHet,42.11428571,Antipecten,extinct,,,,,,
+Antipleura,428.95,nonHet,43.1,Antipleura,extinct,423,410.8,407.6,391.9,Pridoli,Eifelian
+Antiquicyprina,167.2,Het,33.22857143,Antiquicyprina,extinct,175.6,166.1,166.1,152.1,Toarcian,Kimmeridgian
+Antiquilima,119,nonHet,65.6,Antiquilima,extinct,242,235,125,113,Ladinian,Aptian
+Anulostrea,84.95,nonHet,37.41,Anulostrea,extinct,,,,,,
+Aphanaia,270.55,nonHet,139.2,Aphanaia,extinct,295.5,290.1,259.9,254.17,Sakmarian,Wuchiapingian
+Aphrodina,35.95,Het,52.5,Aphrodina,extinct,140.2,136.4,66,61.6,Cretaceous,Danian
+Apolymetis,0.01,nonHet,51.18,Apolymetis,extant,33.9,23.03,0.126,0,Oligocene,Holocene
+Apulites,69.05,nonHet,18.41333333,Apulites,extinct,89.3,66,83.5,66,Coniacian,Maastrichtian
+Araeopleura,96.9,nonHet,43,Araeopleura,extinct,99.6,93.5,99.6,93.5,Cenomanian,Turonian
+Arcavicula,231.5,nonHet,9.27,Arcavicula,extinct,251.3,247.2,212,201.3,Triassic,Late Triassic
+Arcidopsis,0.01,nonHet,70.89333333,Arcidopsis,extant,,,,,,
+Arcinella,0.01,nonHet,81.4,Arcinella,extant,125,100.5,0.0117,0,Aptian,Cenozoic
+Arcomya,69.05,nonHet,73.27,Arcomya,extinct,251.3,247.2,99.6,93.5,Triassic,Turonian
+Arcomytilus,35.95,nonHet,57.36,Arcomytilus,extinct,201.3,196.5,33.9,28.4,Jurassic,Rupelian
+Arcopagella,69.05,nonHet,20.38,Arcopagella,extinct,113,100.5,113,100.5,Albian,
+Arcopagia,0.01,Het,45.46,Arcopagia,extant,130,125.45,0.0117,0,Hauterivian,Cenozoic
+Arcopaginula,0.01,Het,37.98,Arcopaginula,extant,11.608,5.333,0.0117,0,Tortonian,Holocene
+Arcopagiopsis,35.95,nonHet,12.71,Arcopagiopsis,extinct,,,,,,
+Arcopsis,0.01,nonHet,19.5,Arcopsis,extant,72.1,66,0.0117,0,Maastrichtian,Cenozoic
+Arctica,0.01,nonHet,140,Arctica,extant,247.2,237,0.126,0.0117,Middle Triassic,Pleistocene
+Arctostrea,69.05,nonHet,89.03,Arctostrea,extinct,168.3,166.1,70.6,66,Bathonian,Cretaceous
+Arctotis,131.15,nonHet,101.36,Arctotis,extinct,189.6,183,139.8,132.9,Pliensbachian,Valanginian
+Arcuatula,0.01,nonHet,76,Arcuatula,extant,66,61.6,0.0117,0,Cenozoic,
+Arginopsis,35.95,nonHet,34.41,Arginopsis,extinct,41.3,38,37.2,33.9,Bartonian,Priabonian
+Argopecten,0.01,nonHet,159.3,Argopecten,extant,122.46,109,0.0117,0,Aptian,Cenozoic
+Argyromya,39.65,nonHet,45.83,Argyromya,extinct,,,,,,
+Arisaigia,428.95,nonHet,27.91,Arisaigia,extinct,449.5,443.7,419.2,410.8,Katian,Lochkovian
+Arnaudia,77.85,nonHet,80.55714286,Arnaudia,extinct,,,,,,
+Arthritica,0.01,nonHet,4.963888889,Arthritica,extant,,,,,,
+Arvella,0.01,nonHet,43,Arvella,extant,,,,,,
+Asaphinella,35.95,Het,6.184,Asaphinella,extinct,,,,,,
+Asaphis,0.01,Het,109,Asaphis,extant,15.97,11.62,0.0117,0,Langhian,Holocene
+Ascitellina,0.01,nonHet,9.373333333,Ascitellina,extant,,,,,,
+Asiatotrigonia,96.9,nonHet,88.8,Asiatotrigonia,extinct,,,,,,
+Asoella,218.25,nonHet,4.68,Asoella,extinct,252.17,251.3,190.8,182.7,Triassic,Pliensbachian
+Aspatharia,0.01,nonHet,60.0625,Aspatharia,extant,5.333,2.588,0.0117,0,Pliocene,Holocene
+Aspidopholas,35.95,nonHet,27.70666667,Aspidopholas,extinct,48.6,33.9,15.97,11.62,Eocene,Serravallian
+Astarte,0.01,nonHet,55,Astarte,extant,419.2,410.8,0.0117,0,Devonian,Cenozoic
+Astartella,257.05,nonHet,18.2,Astartella,extinct,358.9,330.9,251.3,247.2,Carboniferous,Early Triassic
+Astartemya,69.05,Het,36.28571429,Astartemya,extinct,125,112.03,70.6,66,Aptian,Late Cretaceous
+Athlopecten,0.01,nonHet,190.8,Athlopecten,extinct,33.9,28.4,28.1,23.03,Oligocene,
+Atomodesma,251.7,nonHet,51.06,Atomodesma,extinct,298.9,295.5,252.17,247.2,Permian,Early Triassic
+Atreta,69.05,nonHet,13.265,Atreta,extinct,247.2,237,5.333,3.6,Middle Triassic,Zanclean
+Aucellina,96.9,nonHet,26.63,Aucellina,extinct,152.1,145,93.9,89.8,Tithonian,Turonian
+Aulacomya,0.01,nonHet,160,Aulacomya,extinct,259.9,252.17,180.1,175.6,Lopingian,Early Jurassic
+Aulacomyella,154.7,nonHet,36.82,Aulacomyella,extinct,161.2,152.1,150.8,145,Late Jurassic,Tithonian
+Aupouria,0.01,nonHet,2.2,Aupouria,extant,19,15.9,19,15.9,Burdigalian,Langhian
+Austronucula,0.01,nonHet,2.18,Austronucula,extant,59.2,56,59.2,56,Thanetian,
+Austrotrigonia,69.05,nonHet,96.31428571,Austrotrigonia,extinct,72.1,66,70.6,66,Maastrichtian,
+Austrovenus,0.01,Het,90.1,Austrovenus,extant,11.608,5.333,0.781,0.126,Tortonian,Middle Pleistocene
+Avicularca,204.9,nonHet,7.388,Avicularca,extinct,242,235,235,228,Ladinian,Carnian
+Avicularium,25.57,nonHet,70.5,Avicularium,extinct,37.2,33.9,37.2,33.9,Priabonian,
+Aviculolima,244.6,nonHet,23.45,Aviculolima,extinct,247.2,242,247.2,242,Anisian,
+Aviculopecten,257.05,nonHet,16.625,Aviculopecten,extinct,443.4,419.2,113,100.5,Silurian,Early Cretaceous
+Aviculoperna,35.95,nonHet,18.255,Aviculoperna,extant,254.17,252.17,0.126,0.0117,Changhsingian,Pleistocene
+Aviculovulsa,35.95,nonHet,7.576666667,Aviculovulsa,extinct,,,,,,
+Avimactra,0.01,Het,29.7,Avimactra,extinct,,,,,,
+Azorinus,0.01,Het,104,Azorinus,extant,23.03,20.44,0.0117,0,Neogene,Holocene
+Babinka,468.65,nonHet,19.05925926,Babinka,extinct,485.4,477.7,466,460.9,Early Ordovician,Middle Ordovician
+Badiotella,231.5,nonHet,8.05,Badiotella,extinct,242,235,170.3,168.3,Ladinian,Bajocian
+Bakevellia,69.05,nonHet,23.01,Bakevellia,extinct,330.9,323.2,72.1,66,Serpukhovian,Mesozoic
+Balantioselena,238.5,nonHet,10.15454546,Balantioselena,extinct,242,237,242,228,Ladinian,Carnian
+Barbatia,0.01,nonHet,90,Barbatia,extant,242,235,0.0117,0,Ladinian,Cenozoic
+Barbierella,0.01,nonHet,9.278125,Barbierella,extant,66,61.6,15.97,11.608,Paleogene,Tortonian
+Barbosaia,262.5,nonHet,23.565,Barbosaia,extinct,265.1,254.17,265.1,254.17,Capitanian,Wuchiapingian
+Barnea,0.01,Het,120,Barnea,extant,89.8,86.3,0.0117,0,Coniacian,Cenozoic
+Barrettia,69.05,nonHet,202.6,Barrettia,extinct,89.8,86.3,72.1,66,Coniacian,Maastrichtian
+Bartlettia,0.01,nonHet,101.22,Bartlettia,extant,,,,,,
+Bartrumia,6.29,nonHet,29.58,Bartrumia,extinct,19,15.9,15.97,5.333,Burdigalian,Messinian
+Baryconites,96.9,nonHet,129.6285714,Baryconites,extinct,,,,,,
+Barytellina,1.3,nonHet,30.47,Barytellina,extinct,5.333,3.6,5.333,3.6,Zanclean,
+Bassina,0.01,Het,75,Bassina,extant,23.03,15.97,3.6,2.588,Neogene,
+Bassinaria,0.01,Het,58.04285714,Bassinaria,extant,23.03,15.97,0.781,0.126,Neogene,Middle Pleistocene
+Basterotia,0.01,Het,55,Basterotia,extant,254.17,252.17,0.126,0.0117,Changhsingian,Pleistocene
+Bathyarca,0.01,nonHet,35,Bathyarca,extant,72.1,66,0.0117,0,Maastrichtian,Cenozoic
+Bathytormus,0.01,nonHet,49.77142857,Bathytormus,extant,83.6,72.1,37.2,33.9,Campanian,Eocene
+Batissa,0.01,Het,66.94,Batissa,extant,139.8,132.9,3.6,2.588,Valanginian,Neogene
+Batolites,84.95,nonHet,27.4,Batolites,extinct,83.6,72.1,83.6,72.1,Campanian,
+Beguina,0.01,nonHet,97,Beguina,extant,38,33.9,13.65,12.7,Priabonian,Serravallian
+Bellucina,0.01,Het,8.857142857,Bellucina,extant,20.44,15.97,0.0117,0,Burdigalian,Holocene
+Bentharca,0.01,nonHet,15,Bentharca,extant,23.03,15.97,3.6,2.588,Neogene,
+Benthocardiella,0.01,nonHet,2.6,Benthocardiella,extant,,,,,,
+Bicorbula,0.01,Het,40.76,Bicorbula,extant,72.1,66,5.333,2.588,Maastrichtian,Neogene
+Bicornucopina,136.35,nonHet,36.24,Bicornucopina,extinct,,,,,,
+Bicrenula,377.45,nonHet,10.755,Bicrenula,extinct,382.7,372.2,382.7,372.2,Frasnian,
+Biradiolites,69.05,nonHet,50.57333333,Biradiolites,extinct,100.5,93.9,70.6,66,Late Cretaceous,
+Birostrina,77.85,nonHet,36.82,Birostrina,extinct,125,113,93.5,86.3,Aptian,Coniacian
+Bittnerella,218.25,art,11.62666667,Bittnerella,extant,247.2,242,221.5,201.3,Middle Triassic,Late Triassic
+Blagraveia,35.95,nonHet,25.01,Blagraveia,extinct,56,48.6,38,33.9,Eocene,
+Boeuvia,31,nonHet,18.93,Boeuvia,extinct,56,47.8,33.9,23.03,Eocene,Oligocene
+Bontaea,0.01,nonHet,29.61,Bontaea,extant,,,,,,
+Boriesia,57.6,nonHet,12.41,Boriesia,extinct,,,,,,
+Bornia,0.01,Het,6.289705882,Bornia,extant,66,61.7,0.126,0.0117,Paleogene,Pleistocene
+Botula,0.01,nonHet,40,Botula,extant,235,232,0.0117,0,Late Triassic,Cenozoic
+Botulopsis,231.5,nonHet,28.29,Botulopsis,extinct,247.2,242,242,237,Middle Triassic,
+Bouleigmus,69.05,nonHet,78.42857143,Bouleigmus,extinct,,,,,,
+Bournonia,69.05,nonHet,115.975,Bournonia,extinct,99.6,93.5,70.6,66,Late Cretaceous,Maastrichtian
+Brachyanodon,0.01,nonHet,52.01,Brachyanodon,extant,,,,,,
+Brachymeris,69.05,nonHet,12.80333333,Brachymeris,extinct,83.6,72.1,83.6,72.1,Campanian,
+Bractechlamys,0.01,nonHet,74.2,Bractechlamys,extant,,,,,,
+Brazzaea,0.01,nonHet,65.52857143,Brazzaea,extant,,,,,,
+Brevinucula,0.01,nonHet,5.2,Brevinucula,extant,33.9,28.1,33.9,28.1,Rupelian,
+Bruetia,18.21,nonHet,10.95,Bruetia,extinct,61.6,59.2,41.3,38,Selandian,Bartonian
+Bucardium,0.01,Het,65,Bucardium,extant,85.8,83.5,20.44,15.97,Santonian,Burdigalian
+Buchia,69.05,nonHet,38.63,Buchia,extinct,182.7,168.3,72.1,66,Toarcian,Cretaceous
+Buchiola,365.55,nonHet,4.911666667,Buchiola,extinct,427.4,423,364.7,358.9,Ludlow,Devonian
+Buchotrigonia,77.85,nonHet,53.08,Buchotrigonia,extinct,150.8,132.9,112.03,100.5,Tithonian,Early Cretaceous
+Burckhardtia,231.5,nonHet,21.96153846,Burckhardtia,extinct,237,228,237,228,Carnian,
+Burmesia,204.9,nonHet,44.81,Burmesia,extinct,251.2,242,170.3,168.3,Olenekian,Bajocian
+Butovicella,424.3,nonHet,10.022,Butovicella,extinct,430.5,427.4,422.9,419.2,Homerian,Pridoli
+Byssocardium,18.21,nonHet,49.47142857,Byssocardium,extinct,,,,,,
+Byssodesma,449.1,nonHet,18.685,Byssodesma,extinct,457.5,455.8,453,445.2,Sandbian,Katian
+Byssopteria,377.45,nonHet,52.24,Byssopteria,extinct,410.8,407.6,387.7,382.7,Pragian,Middle Devonian
+Cabralista,6.29,nonHet,32.01,Cabralista,extinct,,,,,,
+Cadomia,462.85,nonHet,44.36,Cadomia,extinct,466,460.9,460.9,457.5,Darriwilian,Sandbian
+Caestocorbula,35.95,Het,31.33,Caestocorbula,extant,157.3,152.1,33.9,23.03,Kimmeridgian,Paleogene
+Callanaitis,0.01,nonHet,78,Callanaitis,extant,23.03,15.97,0.781,0.126,Neogene,Middle Pleistocene
+Callista,0.01,Het,106.1,Callista,extant,125.45,112.03,0.126,0.0117,Barremian,Pleistocene
+Calloarca,0.01,nonHet,46.8,Calloarca,extant,38,33.9,0.126,0.0117,Priabonian,Pleistocene
+Callocardia,0.01,Het,28.3,Callocardia,extant,66,61.6,0.0117,0,Cenozoic,
+Callodonta,449.1,nonHet,14.39,Callodonta,extinct,453,445.2,453,445.2,Katian,
+Callolima,69.05,nonHet,254,Callolima,extant,,,,,,
+Callonaia,0.01,nonHet,52.56,Callonaia,extant,11.608,5.333,11.608,5.333,Tortonian,Messinian
+Callucina,0.01,Het,18.04285714,Callucina,extant,125.45,122.46,0.126,0.0117,Barremian,Pleistocene
+Calorhadia,0.01,nonHet,45.12,Calorhadia,extinct,66,61.7,11.608,5.333,Paleogene,Miocene
+Cameleolopha,69.05,nonHet,59.93,Cameleolopha,extinct,70.6,66,70.6,66,Maastrichtian,
+Camptonectes,69.05,nonHet,38.14,Camptonectes,extinct,265.1,259.9,11.62,7.246,Capitanian,Tortonian
+Caneyella,327.05,nonHet,16.925,Caneyella,extinct,409.1,402.5,290.1,272.3,Pragian,Cisuralian
+Capistrocardia,12.72,Het,10.83,Capistrocardia,extinct,,,,,,
+Caprina,69.05,nonHet,396.4545455,Caprina,extinct,140.2,132.9,86.3,83.6,Early Cretaceous,Santonian
+Caprinula,69.05,nonHet,204.32,Caprinula,extinct,113,100.5,72.1,66,Albian,Late Cretaceous
+Caprinuloidea,96.9,nonHet,56.63,Caprinuloidea,extinct,122.46,112.03,100.5,93.9,Aptian,Cenomanian
+Cardilia,0.01,nonHet,24,Cardilia,extant,20.44,13.82,11.608,5.333,Burdigalian,Messinian
+Cardilona,31,nonHet,36.4875,Cardilona,extinct,36,34.3,36,34.3,Priabonian,
+Cardinioides,186.75,nonHet,50.6,Cardinioides,extinct,265.1,259.9,189.6,182.7,Capitanian,Pliensbachian
+Cardiocardita,0.01,Het,55,Cardiocardita,extant,48.6,37.2,0.781,0.126,Eocene,Middle Pleistocene
+Cardiola,352.8,nonHet,41.14,Cardiola,extinct,443.4,433.4,38,33.9,Silurian,Eocene
+Cardiolaria,424.3,nonHet,15.785,Cardiolaria,extinct,466,460.9,457.5,449.5,Darriwilian,Katian
+Cardiomorpha,231.5,nonHet,66.04,Cardiomorpha,extinct,407.6,393.3,232,221.5,Emsian,Norian
+Cardiomya,18.21,nonHet,40,Cardiomya,extant,83.5,70.6,0.0117,0,Campanian,Cenozoic
+Cardita,0.01,Het,90.6,Cardita,extant,251.3,247.2,0.0117,0,Mesozoic,Cenozoic
+Carditamera,0.01,Het,101.2,Carditamera,extant,208.5,201.3,0.0117,0,Rhaetian,Cenozoic
+Carditella,0.01,Het,10,Carditella,extant,61.6,59.2,0.0117,0,Selandian,Holocene
+Carditellopsis,0.01,Het,4,Carditellopsis,extant,,,,,,
+Cardites,0.01,nonHet,80.1,Cardites,extant,48.6,37.2,0.126,0,Eocene,Holocene
+Carditomantea,415,nonHet,19.57,Carditomantea,extinct,,,,,,
+Carditopsis,0.01,nonHet,10,Carditopsis,extant,23.03,20.44,23.03,20.44,Aquitanian,
+Cardium,0.01,Het,140.6,Cardium,extant,237,232,0.0117,0,Late Triassic,Cenozoic
+Caribachlamys,0.01,nonHet,66.5,Caribachlamys,extant,23.03,20.44,0.126,0.0117,Neogene,Pleistocene
+Carolia,35.95,nonHet,73.26,Carolia,extinct,61.6,59.2,20.44,15.97,Selandian,Burdigalian
+Carydium,377.45,nonHet,12.555,Carydium,extinct,443.4,419.2,358.9,323.2,Silurian,Mississippian
+Caryocorbula,0.01,nonHet,30.8,Caryocorbula,extant,125.45,122.46,0.0117,0,Barremian,Cenozoic
+Cassianella,204.9,nonHet,37.05,Cassianella,extinct,247.2,242,83.5,70.6,Middle Triassic,Cretaceous
+Castalia,0.01,nonHet,41.52,Castalia,extant,11.608,5.333,11.608,5.333,Tortonian,Messinian
+Casterella,262.5,nonHet,24.62666667,Casterella,extinct,298.9,295.5,265.1,254.17,Cisuralian,Wuchiapingian
+Cataceramus,69.05,nonHet,133.46,Cataceramus,extinct,89.8,86.3,70.6,66,Coniacian,Maastrichtian
+Catella,57.6,nonHet,36.63,Catella,extinct,247.2,242,72.1,66,Middle Triassic,Cretaceous
+Cavilinga,0.01,Het,5.350769231,Cavilinga,extant,66,61.6,0.126,0.0117,Paleogene,Pleistocene
+Cavilucina,39.65,nonHet,12.83333333,Cavilucina,extinct,196.5,189.6,2.588,0.781,Sinemurian,Calabrian
+Cerastoderma,0.01,nonHet,56.6,Cerastoderma,extant,66,61.6,0.126,0.0117,Paleogene,Pleistocene
+Ceratomya,148.55,nonHet,84.07142857,Ceratomya,extinct,201.3,199.3,132.9,129.4,Jurassic,Hauterivian
+Ceratomyopsis,148.55,nonHet,50.02,Ceratomyopsis,extinct,182.7,174.1,150.8,145,Toarcian,Late Jurassic
+Cercomya,69.05,nonHet,96.55714286,Cercomya,extinct,235,232,70.6,66,Late Triassic,Cretaceous
+Ceroniola,69.05,nonHet,37.67,Ceroniola,extinct,72.1,66,72.1,66,Maastrichtian,
+Cerullia,4.47,nonHet,3.415714286,Cerullia,extinct,,,,,,
+Cetomya,0.01,nonHet,22.95,Cetomya,,,,,,,
+Chaceia,0.01,Het,125,Chaceia,extant,15.97,13.82,0.126,0.0117,Langhian,Pleistocene
+Chaenocardia,311.1,nonHet,16.425,Chaenocardia,extinct,353.8,345.3,295.5,290.1,Carboniferous,Sakmarian
+Chaenomya,262.5,nonHet,73.36,Chaenomya,extinct,318.1,306.95,212,201.3,Pennsylvanian,Triassic
+Chalmasia,39.65,nonHet,47.07,Chalmasia,extinct,72.1,66,72.1,66,Maastrichtian,
+Chama,0.01,Het,146.7,Chama,extant,130,125.45,0.0117,0,Hauterivian,Cenozoic
+Chamelea,0.01,nonHet,48.4,Chamelea,extant,33.9,28.4,0.126,0.0117,Oligocene,Pleistocene
+Chaperia,96.9,nonHet,8.52,Chaperia,extinct,36,34.3,33.9,23.03,Priabonian,Oligocene
+Chione,0.01,Het,76.4,Chione,extant,59.2,56,0.0117,0,Thanetian,Holocene
+Chioneryx,0.01,Het,21,Chioneryx,extant,11.608,5.333,0.126,0.0117,Tortonian,Pleistocene
+Chionista,0.01,nonHet,88.5,Chionista,extant,11.62,7.246,0.126,0.0117,Tortonian,Pleistocene
+Chionopsis,0.01,Het,116.7,Chionopsis,extant,33.9,28.4,0.0117,0,Oligocene,Holocene
+Chlamydella,0.01,nonHet,3.628461539,Chlamydella,extant,,,,,,
+Chlamys,0.01,nonHet,140,Chlamys,extant,265.1,259.9,0.0117,0,Capitanian,Cenozoic
+Choromytilus,0.01,nonHet,198,Choromytilus,extant,5.333,3.6,0.126,0,Pliocene,Holocene
+Ciclopecten,0.01,nonHet,30,Ciclopecten,extant,3.6,2.588,3.6,2.588,Piacenzian,
+Ciliatocardium,0.01,nonHet,86.7,Ciliatocardium,extant,55.8,48.6,0.0117,0,Eocene,Holocene
+Circe,0.01,Het,64.9,Circe,extant,61.6,59.2,0.0117,0,Selandian,Holocene
+Circomphalus,0.01,nonHet,83,Circomphalus,extant,23.03,15.97,0.781,0.126,Neogene,Middle Pleistocene
+Claibornites,18.21,Het,29.65555556,Claibornites,extinct,72.1,66,33.9,28.1,Maastrichtian,Rupelian
+Claraia,249.2,nonHet,46.88,Claraia,extinct,268.8,265.1,161.2,155.7,Wordian,Kimmeridgian
+Clausinella,0.01,nonHet,30,Clausinella,extant,48.6,37.2,0.0117,0,Eocene,Holocene
+Clavagella,0.01,nonHet,81.3,Clavagella,extant,86.3,83.6,3.6,2.588,Santonian,Neogene
+Clavicosta,262.5,nonHet,12.56,Clavicosta,extinct,326.4,318.1,254.17,252.17,Serpukhovian,Permian
+Clavipholas,69.05,Het,26.11333333,Clavipholas,extinct,72.1,66,55.8,33.9,Maastrichtian,Eocene
+Cleidothaerus,0.01,nonHet,75,Cleidothaerus,extant,23.03,15.97,11.608,5.333,Miocene,
+Cleionychia,449.1,nonHet,46.29,Cleionychia,extinct,478.6,471.8,407.6,393.3,Ordovician,Early Devonian
+Clementia,0.01,Het,99.6,Clementia,extant,122.46,112.03,0.126,0,Aptian,Cenozoic
+Clencharia,0.01,nonHet,7.8,Clencharia,extant,,,,,,
+Clidiophora,0.01,nonHet,39,Clidiophora,extant,11.608,5.333,1.806,0.0117,Tortonian,Pleistocene
+Climacotrigonia,96.9,nonHet,56.45,Climacotrigonia,extinct,,,,,,
+Clinocardium,0.01,nonHet,146,Clinocardium,extant,56,47.8,0.126,0,Eocene,Holocene
+Cliopteria,424.3,nonHet,21.33,Cliopteria,extinct,,,,,,
+Clisocolus,69.05,nonHet,24.70666667,Clisocolus,extinct,132.9,129.4,66,56,Hauterivian,Paleocene
+Cochlodesma,0.01,nonHet,44,Cochlodesma,extant,61.6,59.2,2.588,0.781,Selandian,Calabrian
+Codakia,0.01,Het,76.4375,Codakia,extant,152.1,145,0.0117,0,Tithonian,Cenozoic
+Coelastarte,91.55,Het,62.31666667,Coelastarte,extinct,201.3,199.3,150.8,145,Jurassic,
+Coelocyprina,167.2,nonHet,45.45714286,Coelocyprina,extinct,189.6,183,189.6,183,Pliensbachian,
+Colpomya,424.3,nonHet,40.15,Colpomya,extinct,478.6,466,163.5,152.1,Ordovician,Kimmeridgian
+Colveraia,69.05,nonHet,52.6,Colveraia,extinct,83.6,72.1,70.6,66,Campanian,Maastrichtian
+Conchocele,0.01,Het,28.35714286,Conchocele,extant,72.1,66,0.781,0.0117,Maastrichtian,Pleistocene
+Conchodon,204.9,nonHet,181.6,Conchodon,extinct,212,205.6,208.5,201.3,Norian,Rhaetian
+Condylocardia,0.01,nonHet,3.1,Condylocardia,extant,47.8,41.3,2.588,0.781,Lutetian,Calabrian
+Condylocuna,0.01,nonHet,1.8,Condylocuna,extant,37.2,33.9,37.2,33.9,Priabonian,
+Congeriomorpha,377.45,nonHet,21.83,Congeriomorpha,extinct,382.7,372.2,382.7,372.2,Frasnian,
+Cooperella,0.01,Het,21.4,Cooperella,extant,3.6,2.588,0.126,0.0117,Piacenzian,Pleistocene
+Coquandia,96.9,Het,43.98571429,Coquandia,extinct,,,,,,
+Coralliochama,69.05,nonHet,217.3666667,Coralliochama,extinct,86.3,83.6,70.6,66,Santonian,Maastrichtian
+Coralliophaga,0.01,Het,63,Coralliophaga,extant,66,56,0.781,0.0117,Paleogene,Pleistocene
+Corbicula,0.01,Het,23.13,Corbicula,extant,201.3,199.3,0.0117,0,Jurassic,Cenozoic
+Corbiculopsis,119,nonHet,55.91428571,Corbiculopsis,extinct,,,,,,
+Corbula,0.01,Het,26.3,Corbula,extant,247.2,242,0.0117,0,Middle Triassic,Cenozoic
+Corbulamella,69.05,Het,2.872,Corbulamella,extinct,99.6,93.5,55.8,47.8,Late Cretaceous,Ypresian
+Corbulomima,119,Het,9.8,Corbulomima,extinct,183,182,125.45,122.46,Pliensbachian,Aptian
+Cornucardia,218.25,nonHet,64.22857143,Cornucardia,extinct,237,232,232,208.5,Carnian,Norian
+Cosa,0.01,nonHet,4.5,Cosa,extant,33.9,28.4,33.9,28.4,Rupelian,
+Cosmetodon,69.05,nonHet,42.89,Cosmetodon,extinct,290.1,279.3,66,61.6,Artinskian,Danian
+Cosmogoniophorina,449.1,nonHet,26.67,Cosmogoniophorina,extinct,478.6,470,453,443.4,Ordovician,Late Ordovician
+Cossmannella,18.21,nonHet,14.73,Cossmannella,extinct,55.8,41.3,47.8,37.2,Ypresian,Priabonian
+Costacallista,0.01,nonHet,93.3,Costacallista,extant,66,61.6,3.6,2.588,Paleogene,Neogene
+Costagyra,69.05,nonHet,176.75,Costagyra,extinct,113,100.5,72.1,66,Albian,Late Cretaceous
+Costatoleda,0.01,nonHet,37.32,Costatoleda,extant,,,,,,
+Costatoria,218.25,nonHet,20.9375,Costatoria,extinct,259.9,254.17,170.3,168.3,Lopingian,Bajocian
+Costeina,0.01,nonHet,69.56666667,Costeina,extinct,,,,,,
+Costelloleda,0.01,nonHet,40,Costelloleda,extant,66,56,1.806,0.781,Paleogene,Calabrian
+Costigervillia,154.7,nonHet,61.88,Costigervillia,extinct,242,237,155.7,150.8,Ladinian,Jurassic
+Costokidderia,0.01,nonHet,7,Costokidderia,extant,5.333,2.588,5.333,2.588,Pliocene,
+Coxesia,262.5,nonHet,19.61,Coxesia,extinct,268.8,254.17,265.1,254.17,Wordian,Wuchiapingian
+Crassadoma,0.01,nonHet,266.7,Crassadoma,extant,201.3,189.6,0.126,0,Jurassic,Cenozoic
+Crassatella,0.01,Het,102.36,Crassatella,extant,145,130,0.126,0,Cretaceous,Cenozoic
+Crassatina,0.01,Het,33.5,Crassatina,extant,66,56,5.333,2.588,Paleogene,Neogene
+Crassinella,0.01,nonHet,10,Crassinella,extinct,201.3,190.8,132.9,129.4,Jurassic,Hauterivian
+Cratis,0.01,nonHet,7,Cratis,extant,21.7,19,0.126,0.0117,Neogene,Pleistocene
+Cremnoceramus,69.05,nonHet,77.01428571,Cremnoceramus,extinct,93.9,89.8,72.1,66,Turonian,Maastrichtian
+Crenatula,0.01,nonHet,94.3,Crenatula,extant,,,,,,
+Crenella,0.01,nonHet,10,Crenella,extant,105.3,99.6,0.0117,0,Albian,Cenozoic
+Crenotrapezium,178.4,nonHet,35.78,Crenotrapezium,extinct,199.3,190.8,145,130,Sinemurian,Hauterivian
+Crepispisula,0.01,nonHet,70,Crepispisula,extinct,61.6,59.2,48.6,37.2,Selandian,Eocene
+Criocardium,69.05,Het,19.25,Criocardium,extinct,,,,,,
+Cruciella,231.5,nonHet,16.155,Cruciella,extinct,,,,,,
+Cryptomactra,0.01,Het,23.25,Cryptomactra,extinct,15.97,11.608,12.7,11.608,Langhian,Tortonian
+Cryptomya,0.01,Het,37,Cryptomya,extant,47.8,38,0.0117,0,Lutetian,Holocene
+Cryptopecten,0.01,nonHet,43.52,Cryptopecten,extant,15.97,11.608,0.126,0.0117,Langhian,Pleistocene
+Ctenocardia,0.01,Het,59.5,Ctenocardia,extant,11.608,5.333,0.126,0,Tortonian,Holocene
+Ctenodonta,449.1,nonHet,28.84,Ctenodonta,extinct,485.4,477.7,345.3,323.2,Ordovician,Mississippian
+Ctenoides,0.01,nonHet,115.4,Ctenoides,extant,163.5,152.1,0.126,0.0117,Late Jurassic,Pleistocene
+Cubitostrea,6.29,nonHet,44.3,Cubitostrea,extinct,201.3,196.5,0.0117,0,Jurassic,Cenozoic
+Cucullaea,0.01,nonHet,136.5,Cucullaea,extant,364.7,360.7,0.126,0,Famennian,Cenozoic
+Cucullaria,51.9,nonHet,73.12857143,Cucullaria,extinct,66,61.6,11.608,5.333,Paleogene,Miocene
+Cucumerunio,0.01,nonHet,193.9,Cucumerunio,extant,,,,,,
+Cultellus,0.01,Het,155,Cultellus,extant,237,228,0.0117,0,Late Triassic,Cenozoic
+Cultriopsis,69.05,nonHet,39.85,Cultriopsis,extinct,247.2,242,189.6,182.7,Middle Triassic,Pliensbachian
+Cumberlandia,0.01,nonHet,95.26,Cumberlandia,extant,,,,,,
+Cumingia,0.01,nonHet,52,Cumingia,extant,41.3,38,0.126,0,Bartonian,Holocene
+Cuna,0.01,nonHet,81,Cuna,extant,83.5,70.6,2.588,0.0117,Campanian,Pleistocene
+Cunanax,0.01,nonHet,9,Cunanax,extant,,,,,,
+Cuneamya,338.8,nonHet,37.4,Cuneamya,extinct,478.6,468.1,387.7,382.7,Ordovician,Middle Devonian
+Cuneocorbula,39.65,Het,9.836,Cuneocorbula,extinct,145,132.9,13.82,11.62,Cretaceous,Serravallian
+Cuneopsis,0.01,nonHet,88.9,Cuneopsis,extant,170.3,168.3,41.3,33.9,Bajocian,Eocene
+Curionia,204.9,nonHet,21.77,Curionia,extinct,247.2,242,201.3,174.1,Middle Triassic,Early Jurassic
+Curvostrea,69.05,nonHet,38.06,Curvostrea,extinct,109,105.3,70.6,66,Albian,Late Cretaceous
+Cuspicorbula,51.9,Het,10.45333333,Cuspicorbula,extinct,41.3,38,41.3,38,Bartonian,
+Cuspidaria,0.01,nonHet,62.5,Cuspidaria,extant,242,235,3.6,2.588,Ladinian,Neogene
+Cyamiomactra,0.01,nonHet,11,Cyamiomactra,extant,,,,,,
+Cyamionema,0.01,nonHet,6.703571429,Cyamionema,extant,,,,,,
+Cycladicama,0.01,Het,18.205,Cycladicama,extant,55.8,48.6,0.126,0.0117,Eocene,Pleistocene
+Cyclina,0.01,Het,72,Cyclina,extant,99.6,93.5,2.588,0.0117,Late Cretaceous,Pleistocene
+Cyclinella,0.01,nonHet,81.3,Cyclinella,extant,56,47.8,0.0117,0,Eocene,Holocene
+Cyclocardia,0.01,Het,60,Cyclocardia,extant,100.5,93.9,0.0117,0,Late Cretaceous,Cenozoic
+Cycloconcha,449.1,nonHet,19.504,Cycloconcha,extinct,466,460.9,449.5,443.7,Darriwilian,Late Ordovician
+Cyclopecten,0.01,nonHet,25,Cyclopecten,extant,56,53,1.806,0.0117,Eocene,Pleistocene
+Cyclopellatia,127.2,nonHet,13.544,Cyclopellatia,extinct,,,,,,
+Cyclorisma,69.05,nonHet,71.12,Cyclorisma,extinct,145,139.8,70.6,66,Cretaceous,
+Cymatoica,0.01,Het,17.345,Cymatoica,extant,11.62,7.246,0.781,0.126,Tortonian,Middle Pleistocene
+Cymatonota,449.1,nonHet,58.73,Cymatonota,extinct,478.6,466,387.7,382.7,Ordovician,Middle Devonian
+Cymella,69.05,nonHet,27.78,Cymella,extinct,83.6,72.1,70.6,66,Campanian,Maastrichtian
+Cypricardella,305.35,nonHet,14.9,Cypricardella,extinct,449.5,443.7,259.9,254.17,Katian,Wuchiapingian
+Cypricardinia,262.5,nonHet,9.463333333,Cypricardinia,extinct,485.4,477.7,259.9,254.17,Ordovician,Wuchiapingian
+Cyprimeria,51.9,nonHet,50.82,Cyprimeria,extant,125,113,3.6,2.588,Aptian,Neogene
+Cyprogenia,0.01,nonHet,45.67,Cyprogenia,extant,,,,,,
+Cyrenopsis,119,nonHet,26.22857143,Cyrenopsis,extinct,125,113,125,113,Aptian,
+Cyrtodaria,0.01,Het,90,Cyrtodaria,extant,70.6,66,0.0117,0,Maastrichtian,Cenozoic
+Cyrtodonta,435.95,nonHet,18.9,Cyrtodonta,extinct,478.6,471.8,407.6,393.3,Ordovician,Early Devonian
+Cyrtodontula,428.95,nonHet,28.57,Cyrtodontula,extinct,478.6,473.9,303.4,298.9,Ordovician,Carboniferous
+Cyrtopinna,0.01,nonHet,550,Cyrtopinna,extant,,,,,,
+Cyrtopleura,0.01,Het,57.81,Cyrtopleura,extant,66,58.7,0.0117,0,Cenozoic,
+Cyrtorostra,251.7,nonHet,15.40333333,Cyrtorostra,extinct,298.9,295.5,254.17,251.3,Permian,Induan
+Dacrydium,0.01,nonHet,8.2,Dacrydium,extant,83.5,66,0.126,0.0117,Campanian,Pleistocene
+Daharina,186.75,nonHet,189.2,Daharina,extinct,,,,,,
+Dallocardia,0.01,nonHet,143.6,Dallocardia,extant,37.2,33.9,0.0117,0,Priabonian,Holocene
+Daonella,238.5,nonHet,44.01,Daonella,extinct,391.9,383.7,212,201.3,Middle Devonian,Triassic
+Darcinia,35.95,nonHet,21.84,Darcinia,extinct,37.2,33.9,37.2,33.9,Priabonian,
+Datta,204.9,nonHet,9.795,Datta,extinct,,,,,,
+Davidia,481.55,nonHet,23.16,Davidia,extinct,478.6,471.8,11.608,5.333,Ordovician,Miocene
+Decatopecten,0.01,nonHet,73.3,Decatopecten,extant,20.44,15.97,0.126,0.0117,Burdigalian,Pleistocene
+Deceptrix,400.45,nonHet,14.805,Deceptrix,extinct,485.4,478.6,407.6,393.3,Ordovician,Early Devonian
+Dechaseauxia,69.05,nonHet,101.25,Dechaseauxia,extinct,72.1,66,72.1,66,Maastrichtian,
+Delectopecten,0.01,nonHet,45,Delectopecten,extant,66,61.7,0.126,0.0117,Paleogene,Pleistocene
+Delia,160.4,nonHet,30.14,Delia,extinct,,,,,,
+Deltamya,69.05,nonHet,23.57,Deltamya,extinct,72.1,66,72.1,66,Maastrichtian,
+Deltoideum,148.55,nonHet,126.32,Deltoideum,extinct,163.5,157.3,139.8,132.9,Late Jurassic,Valanginian
+Deltopecten,262.5,nonHet,155.7555556,Deltopecten,extinct,358.9,336,254.17,252.17,Carboniferous,Permian
+Dendostrea,0.01,nonHet,120,Dendostrea,extant,113,93.5,0.0117,0,Albian,Cenozoic
+Dentonia,51.9,nonHet,31.55,Dentonia,extinct,100.5,93.9,47.8,38,Late Cretaceous,Bartonian
+Devonia,35.95,nonHet,3.148863636,Devonia,extinct,,,,,,
+Dexiobia,352.8,nonHet,9.195,Dexiobia,extinct,358.9,353.8,358.9,342.8,Tournaisian,Visean
+Diceras,154.7,nonHet,39.88,Diceras,extinct,163.5,157.3,105.3,99.6,Late Jurassic,Cenomanian
+Dicerocardium,204.9,nonHet,76.38,Dicerocardium,extinct,237,208.5,212,201.3,Late Triassic,
+Dictyoptychus,69.05,nonHet,386.25,Dictyoptychus,extinct,86.3,72.1,72.1,66,Santonian,Maastrichtian
+Didimacar,0.01,nonHet,20,Didimacar,extant,,,,,,
+Didymotis,88.05,nonHet,60.67142857,Didymotis,extinct,125,113,89.3,85.8,Aptian,Santonian
+Digitaria,0.01,nonHet,10,Digitaria,extant,28.1,23.03,2.588,0.781,Chattian,Calabrian
+Dimya,0.01,nonHet,21.3,Dimya,extant,70.6,66,1.806,0.781,Maastrichtian,Calabrian
+Dimyodon,69.05,nonHet,7.211764706,Dimyodon,extinct,247.2,237,5.333,3.6,Middle Triassic,Zanclean
+Dinocardium,0.01,Het,149,Dinocardium,extant,41.3,38,0.0117,0,Bartonian,Holocene
+Diotis,186.75,nonHet,15.76,Diotis,extinct,201.3,182.7,182.7,174.1,Early Jurassic,
+Dipleurodonta,449.1,nonHet,10.16333333,Dipleurodonta,extinct,478.6,466,453,445.2,Early Ordovician,Katian
+Diplodon,0.01,nonHet,48.68,Diplodon,extant,247.2,237,0.0117,0,Middle Triassic,Cenozoic
+Diplodonta,0.01,Het,13.15333333,Diplodonta,extant,140.2,136.4,0.0117,0,Cretaceous,Cenozoic
+Discomiltha,148.55,nonHet,30.92,Discomiltha,extinct,166.1,161.2,152.1,145,Callovian,Late Jurassic
+Ditypodon,4.47,nonHet,8.465,Ditypodon,extinct,,,,,,
+Divalinga,0.01,Het,17.89,Divalinga,extant,72.1,66,0.126,0.0117,Maastrichtian,Pleistocene
+Divalucina,0.01,nonHet,25.76666667,Divalucina,extant,11.608,5.333,0.126,0.0117,Tortonian,Pleistocene
+Divaricella,0.01,Het,41.93,Divaricella,extant,61.6,56,0.0117,0,Selandian,Holocene
+Divarilima,0.01,nonHet,10,Divarilima,extant,,,,,,
+Donax,0.01,Het,85.8,Donax,extant,208.5,201.3,0.0117,0,Rhaetian,Cenozoic
+Dosina,0.01,nonHet,66,Dosina,extant,37.2,33.9,0.126,0.0117,Priabonian,Pleistocene
+Dosinia,0.01,Het,156.5,Dosinia,extant,100.5,93.9,0.0117,0,Late Cretaceous,Cenozoic
+Dosiniopsis,35.95,nonHet,40.24,Dosiniopsis,extinct,83.5,70.6,28.4,23.03,Campanian,Paleogene
+Dreissenomya,4.47,Het,59.78,Dreissenomya,extinct,,,,,,
+Dualina,421.1,nonHet,26.47,Dualina,extinct,438.5,433.4,419.2,393.3,Telychian,Early Devonian
+Dubertretia,69.05,nonHet,65.92,Dubertretia,extinct,72.1,66,72.1,66,Maastrichtian,
+Dunbarella,257.05,nonHet,15.38,Dunbarella,extinct,346.7,330.9,254.17,252.17,Visean,Permian
+Duplipecten,0.01,nonHet,65.02857143,Duplipecten,extinct,41.3,38,37.2,33.9,Bartonian,Priabonian
+Durania,69.05,nonHet,45.07142857,Durania,extinct,105.3,99.6,70.6,66,Albian,Late Cretaceous
+Eamesiella,0.01,nonHet,18.175,Eamesiella,extant,,,,,,
+Eburneopecten,12.72,nonHet,16.035,Eburneopecten,extinct,125,113,5.333,2.588,Aptian,Neogene
+Echinopecten,169.3,nonHet,46.23,Echinopecten,extinct,,,,,,
+Ectenocardiomorpha,449.1,nonHet,9.05,Ectenocardiomorpha,extinct,453,445.2,453,445.2,Katian,
+Ectenodesma,365.55,nonHet,54.16,Ectenodesma,extinct,382.7,372.2,382.7,372.2,Frasnian,
+Edmondia,257.05,nonHet,44.16,Edmondia,extinct,457.5,455.8,254.17,252.17,Late Ordovician,Permian
+Egerella,35.95,nonHet,9.856666667,Egerella,extinct,47.8,41.3,41.3,38,Lutetian,Bartonian
+Ekstadia,424.3,nonHet,8.186666667,Ekstadia,extinct,430.5,427.4,427.4,423,Homerian,Ludlow
+Electroma,0.01,nonHet,77,Electroma,extant,85.8,83.5,0.126,0.0117,Santonian,Pleistocene
+Elegantinia,204.9,nonHet,19,Elegantinia,extinct,252.17,247.2,208.5,201.3,Triassic,
+Eligmus,164.8,nonHet,38.23,Eligmus,extinct,174.1,168.3,161.2,150.8,Middle Jurassic,Late Jurassic
+Elimata,257.05,nonHet,8.843333333,Elimata,extinct,290.1,279.3,254.17,252.17,Artinskian,Lopingian
+Elongaria,0.01,nonHet,66.05714286,Elongaria,extant,5.333,2.588,5.333,2.588,Pliocene,
+Empleconia,0.01,nonHet,40,Empleconia,extant,201.3,183,0.0117,0,Jurassic,Cenozoic
+Enantiostreon,204.9,nonHet,69.28571429,Enantiostreon,extinct,259.9,254.17,237,228,Lopingian,Carnian
+Enigmonia,0.01,nonHet,56,Enigmonia,extant,,,,,,
+Ennucula,0.01,nonHet,36.3,Ennucula,extant,237,228,0.0117,0,Late Triassic,Cenozoic
+Ensiculus,0.01,Het,93.86,Ensiculus,extant,41.3,38,0.126,0.0117,Bartonian,Pleistocene
+Ensis,0.01,nonHet,250,Ensis,extant,72.1,66,0.0117,0,Maastrichtian,Cenozoic
+Ensitellops,0.01,nonHet,12.1,Ensitellops,extant,3.6,2.588,0.126,0.0117,Piacenzian,Pleistocene
+Entolium,69.05,nonHet,37.33,Entolium,extinct,265.1,259.9,5.333,2.588,Capitanian,Neogene
+Entomonotis,218.25,nonHet,60.69,Entomonotis,extinct,,,,,,
+Eoastarte,284.7,nonHet,13.945,Eoastarte,extinct,303.4,298.9,254.17,252.17,Gzhelian,Permian
+Eocallista,148.55,Het,73.42,Eocallista,extinct,174.1,170.3,125.45,100.5,Middle Jurassic,Early Cretaceous
+Eocamptonectes,257.05,nonHet,11.0175,Eocamptonectes,extinct,279.3,272.3,259.9,254.17,Kungurian,Wuchiapingian
+Eocrassina,35.95,nonHet,2.426,Eocrassina,extinct,,,,,,
+Eodiceras,154.7,nonHet,36.25,Eodiceras,extinct,161.2,155.7,150.8,145,Late Jurassic,Tithonian
+Eodivaricella,0.01,Het,8.796969697,Eodivaricella,,,,,,,
+Eomiodon,96.9,nonHet,32.99,Eomiodon,extinct,201.3,199.3,100.5,93.9,Jurassic,Cenomanian
+Eonavicula,0.01,nonHet,40.66923077,Eonavicula,extant,228,208.5,70.6,66,Norian,Cretaceous
+Eontia,0.01,nonHet,78.3,Eontia,extant,13.82,11.62,0.0117,0,Serravallian,Holocene
+Eopecten,106.75,nonHet,95.18,Eopecten,extinct,247.2,242,109,99.6,Middle Triassic,Cenomanian
+Eopinctada,91.55,nonHet,106.48,Eopinctada,extinct,,,,,,
+Eoradiolites,96.9,nonHet,28.8,Eoradiolites,extinct,125,113,72.1,66,Aptian,Late Cretaceous
+Eoschizodus,244.6,nonHet,43.55,Eoschizodus,extinct,433.4,427.4,364.7,360.7,Wenlock,Devonian
+Eotrigonia,6.29,nonHet,28.545,Eotrigonia,extinct,33.9,28.4,11.608,5.333,Oligocene,Miocene
+Eoursivivas,0.01,Het,19.40666667,Eoursivivas,extinct,145,130,70.6,66,Cretaceous,
+Epicodakia,0.01,nonHet,17.01304348,Epicodakia,extant,41.3,33.9,0.126,0.0117,Bartonian,Pleistocene
+Epicyprina,106.75,nonHet,78.16666667,Epicyprina,extinct,129.4,125,105.3,99.6,Barremian,Cenomanian
+Epidiceras,148.55,nonHet,32.58,Epidiceras,extinct,161.2,155.7,155.7,150.8,Oxfordian,Tithonian
+Equichlamys,0.01,nonHet,135,Equichlamys,extant,11.608,5.333,2.588,0.781,Tortonian,Calabrian
+Erodona,0.01,Het,41.51666667,Erodona,extant,56,38,0.126,0.0117,Eocene,Pleistocene
+Ervilia,0.01,nonHet,15,Ervilia,extant,59.2,56,0.0117,0,Thanetian,Holocene
+Escalima,0.01,nonHet,14.9,Escalima,extant,,,,,,
+Etea,69.05,nonHet,31.62,Etea,extinct,93.9,89.8,55.8,47.8,Turonian,Ypresian
+Etheripecten,251.7,nonHet,21.015,Etheripecten,extinct,326.4,318.1,252.17,251.3,Serpukhovian,Induan
+Ethmocardium,69.05,Het,9.92,Ethmocardium,extinct,83.5,70.6,72.1,66,Campanian,Maastrichtian
+Euchondria,257.05,nonHet,11.076,Euchondria,extinct,364.7,360.7,254.17,252.17,Famennian,Permian
+Eucrassatella,0.01,Het,121,Eucrassatella,extant,66,56,0.126,0,Cenozoic,
+Eufistulana,0.01,Het,275,Eufistulana,extant,83.5,70.6,5.333,2.588,Campanian,Neogene
+Euloxa,6.29,nonHet,25.41,Euloxa,extinct,38,33.9,7.246,5.333,Priabonian,Miocene
+Eumarcia,0.01,nonHet,56.2,Eumarcia,extant,56,41.3,0.126,0.0117,Eocene,Pleistocene
+Eumorphotis,231.5,nonHet,52.4,Eumorphotis,extinct,259.9,254.17,208.5,201.3,Lopingian,Triassic
+Euphenax,39.65,nonHet,39.99,Euphenax,extinct,47.8,41.3,47.8,41.3,Lutetian,
+Eurhomalea,0.01,nonHet,106,Eurhomalea,extant,56,47.8,0.0117,0,Eocene,Holocene
+Europicardium,4.47,nonHet,50,Europicardium,extant,23.03,15.97,11.608,5.333,Miocene,
+Eurydesma,270.55,nonHet,67.71428571,Eurydesma,extinct,443.4,433.4,268.8,265.1,Silurian,Wordian
+Eurymya,455.7,nonHet,26.55,Eurymya,extinct,478.6,471.8,452,449.5,Early Ordovician,Katian
+Eurymyella,424.3,nonHet,30.46,Eurymyella,extinct,453,445.2,438.5,433.4,Katian,Llandovery
+Euthydesma,377.45,nonHet,37.38,Euthydesma,extinct,393.3,387.7,376.1,370.6,Middle Devonian,Late Devonian
+Eutylus,35.95,Het,42.46,Eutylus,extinct,,,,,,
+Euvola,0.01,nonHet,127.4,Euvola,extant,48.6,28.4,0.0117,0,Eocene,Holocene
+Excellichlamys,0.01,nonHet,44,Excellichlamys,extant,5.333,0.0117,5.333,0.0117,Pliocene,Pleistocene
+Eximiothracia,0.01,nonHet,35,Eximiothracia,extant,247.2,242,0.0117,0,Middle Triassic,Cenozoic
+Exitopinna,0.01,nonHet,370,Exitopinna,extant,,,,,,
+Exochorhynchus,284.7,nonHet,69.75714286,Exochorhynchus,extinct,323.2,315.2,268.8,265.1,Pennsylvanian,Wordian
+Exogyra,69.05,nonHet,86.25714286,Exogyra,extinct,201.3,196.5,11.62,7.246,Jurassic,Tortonian
+Exotica,0.01,Het,11.4,Exotica,extant,0.126,0.0117,0.126,0.0117,Late Pleistocene,
+Ezonuculana,69.05,nonHet,17.2,Ezonuculana,extinct,129.4,125,61.6,56,Barremian,Paleocene
+Fabagella,35.95,nonHet,9.026666667,Fabagella,extinct,,,,,,
+Fabella,0.01,Het,13.6,Fabella,extant,2.588,1.806,0.781,0.126,Gelasian,Middle Pleistocene
+Falcimytilus,148.55,nonHet,71.33,Falcimytilus,extinct,247.2,242,105.3,99.6,Middle Triassic,Cenomanian
+Fasciculiconcha,301.3,nonHet,28.71,Fasciculiconcha,extinct,372.2,360.7,254.17,252.17,Famennian,Permian
+Felaniella,0.01,Het,17.04,Felaniella,extant,140.2,136.4,0.0117,0,Cretaceous,Cenozoic
+Felicia,0.01,nonHet,80,Felicia,extant,201.3,183,0.0117,0,Jurassic,Cenozoic
+Fimbria,0.01,nonHet,133,Fimbria,extant,237,232,0.126,0.0117,Late Triassic,Pleistocene
+Fissilunula,69.05,nonHet,251.8,Fissilunula,extinct,125,113,125,113,Aptian,
+Flabellipecten,0.01,nonHet,78.7,Flabellipecten,extant,66,61.6,2.588,1.806,Paleogene,Gelasian
+Flaventia,69.05,nonHet,25.92,Flaventia,extinct,139.8,129.4,93.9,89.8,Valanginian,Turonian
+Flemingostrea,18.21,nonHet,125.08,Flemingostrea,extinct,99.6,93.5,28.1,23.03,Late Cretaceous,Paleogene
+Flexicorbula,0.01,Het,12.43333333,Flexicorbula,extinct,72.1,66,72.1,66,Maastrichtian,
+Flexopecten,0.01,nonHet,90.7,Flexopecten,extant,23.03,20.44,0.0117,0,Neogene,Holocene
+Florimetis,0.01,nonHet,49,Florimetis,extant,23.03,15.97,2.588,0.781,Neogene,Calabrian
+Fluviolanatus,0.01,nonHet,15,Fluviolanatus,,,,,,,
+Fortipecten,0.01,nonHet,131.125,Fortipecten,extant,33.9,20.44,3.6,2.588,Oligocene,Neogene
+Fossula,0.01,nonHet,84.5,Fossula,extant,,,,,,
+Fossulites,88.05,Het,23.1,Fossulites,extinct,100.5,93.9,70.6,66,Late Cretaceous,
+Foveadens,0.01,nonHet,26,Foveadens,extant,0.126,0,0.126,0,Late Pleistocene,Holocene
+Fragum,0.01,Het,76,Fragum,extant,89.8,86.3,0.0117,0,Coniacian,Cenozoic
+Freiastarte,69.05,Het,28.31428571,Freiastarte,extinct,157.3,145,72.1,66,Kimmeridgian,Cretaceous
+Frenguelliella,69.05,nonHet,56.1,Frenguelliella,extinct,228,215.56,72.1,66,Norian,Cretaceous
+Friersonia,0.01,nonHet,49,Friersonia,extant,,,,,,
+Frigidocardium,0.01,Het,29.7,Frigidocardium,extant,0.126,0.0117,0.126,0.0117,Late Pleistocene,
+Fugleria,0.01,nonHet,38.1,Fugleria,extant,5.333,3.6,0.126,0.0117,Pliocene,Pleistocene
+Fulcrella,0.01,nonHet,6.562264151,Fulcrella,extant,66,61.6,47.8,41.3,Paleocene,Lutetian
+Fulpia,96.9,nonHet,14.78,Fulpia,extinct,100.5,93.9,99.6,93.5,Cenomanian,Turonian
+Fulvia,0.01,nonHet,100,Fulvia,extant,33.9,28.1,0.126,0.0117,Oligocene,Pleistocene
+Fungiacava,0.01,nonHet,15,Fungiacava,extant,2.588,0.0117,2.588,0.0117,Pleistocene,
+Gafrarium,0.01,nonHet,42.1,Gafrarium,extant,66,61.6,0.0117,0,Cenozoic,
+Gaimardia,0.01,nonHet,32,Gaimardia,extant,56,47.8,56,47.8,Ypresian,
+Gardnerella,18.21,nonHet,25.5,Gardnerella,extinct,,,,,,
+Gari,0.01,Het,60,Gari,extant,150.8,145,0.0117,0,Tithonian,Cenozoic
+Gastrana,0.01,nonHet,24.42,Gastrana,extant,48.6,37.2,0.126,0.0117,Eocene,Pleistocene
+Gastrochaena,0.01,nonHet,57,Gastrochaena,extant,254.17,252.17,0.126,0,Changhsingian,Cenozoic
+Gastrochaenopsis,148.55,Het,41.8,Gastrochaenopsis,extinct,168.3,166.1,152.1,145,Bathonian,Late Jurassic
+Geltena,69.05,nonHet,26.33,Geltena,extinct,125.45,122.46,99.6,93.5,Barremian,Turonian
+Gemellima,0.01,nonHet,17.5,Gemellima,extant,37.2,33.9,37.2,33.9,Priabonian,
+Gemma,0.01,nonHet,4.25,Gemma,extant,47.8,41.3,0.0117,0,Lutetian,Holocene
+Genaxinus,0.01,Het,2.164,Genaxinus,extant,,,,,,
+Gervilleioperna,186.75,nonHet,121.84,Gervilleioperna,extinct,199.3,190.8,174.1,170.3,Sinemurian,Aalenian
+Gervillia,69.05,nonHet,67.74,Gervillia,extinct,313.8,305.9,41.3,38,Moscovian,Bartonian
+Geukensia,0.01,nonHet,133,Geukensia,extant,38,33.9,0.0117,0,Priabonian,Holocene
+Gibbolucina,0.01,Het,13.09,Gibbolucina,extant,66,61.6,11.608,5.333,Paleogene,Miocene
+Girardotia,142.4,nonHet,57.79,Girardotia,extinct,183,182,125,113,Pliensbachian,Aptian
+Girtypecten,257.05,nonHet,21.075,Girtypecten,extinct,358.9,353.8,254.17,252.17,Carboniferous,Permian
+Glans,0.01,Het,21.3,Glans,extant,99.6,93.5,0.126,0,Late Cretaceous,Cenozoic
+Glebula,0.01,nonHet,59.3375,Glebula,extant,,,,,,
+Globivenus,0.01,nonHet,121.7,Globivenus,extant,33.9,28.1,0.126,0,Oligocene,Holocene
+Gloripallium,0.01,nonHet,108.6,Gloripallium,extant,28.4,23.03,0.126,0.0117,Oligocene,Pleistocene
+Glossus,0.01,Het,100,Glossus,extant,105.3,99.6,1.806,0.781,Albian,Calabrian
+Glycymeris,0.01,nonHet,115,Glycymeris,extant,125,113,0.126,0,Aptian,Cenozoic
+Glycymerita,0.01,nonHet,57.02857143,Glycymerita,extinct,125,113,5.333,3.6,Aptian,Zanclean
+Glycymerula,0.01,nonHet,28,Glycymerula,extant,125,113,0.126,0,Aptian,Cenozoic
+Glyptoactis,12.72,Het,36.8,Glyptoactis,extant,221.5,215.56,3.6,2.588,Norian,Neogene
+Goethemia,0.01,nonHet,14,Goethemia,extant,0.781,0.126,0.0117,0,Middle Pleistocene,Holocene
+Gomphina,0.01,Het,91.5,Gomphina,extant,56,47.8,0.126,0.0117,Eocene,Pleistocene
+Gonilia,0.01,Het,7,Gonilia,extant,,,,,,
+Gonimyrtea,0.01,nonHet,9.0525,Gonimyrtea,extant,66,61.6,2.588,0.781,Paleogene,Calabrian
+Goniocardium,31,nonHet,47.98571429,Goniocardium,extinct,,,,,,
+Goniomya,69.05,nonHet,54.12,Goniomya,extinct,323.2,307,70.6,66,Pennsylvanian,Mesozoic
+Goniophorina,284.7,nonHet,26.395,Goniophorina,extinct,478.6,470,427.4,419.2,Ordovician,Silurian
+Goodallia,0.01,Het,3.4,Goodallia,extant,99.6,93.5,0.126,0.0117,Late Cretaceous,Pleistocene
+Goodalliopsis,39.65,nonHet,1.880625,Goodalliopsis,extinct,,,,,,
+Goossensia,35.95,nonHet,7.824,Goossensia,extinct,66,61.6,66,61.6,Danian,
+Gorjanovicia,77.85,nonHet,48.65714286,Gorjanovicia,extinct,93.9,86.3,72.1,66,Turonian,Maastrichtian
+Gouldia,0.01,Het,180,Gouldia,extant,145,132.9,0.126,0.0117,Cretaceous,Pleistocene
+Grammatodon,69.05,nonHet,19.355,Grammatodon,extinct,393.3,387.7,0.126,0.0117,Middle Devonian,Pleistocene
+Grammysia,352.8,nonHet,61.77142857,Grammysia,extinct,460.9,455.8,290.1,279.3,Darriwilian,Artinskian
+Grammysioidea,305.35,nonHet,96.98,Grammysioidea,extinct,433.4,423,382.7,372.2,Wenlock,Frasnian
+Granicorium,0.01,Het,55.1,Granicorium,extant,,,,,,
+Granocardium,69.05,Het,39.73,Granocardium,extinct,125,113,58.7,55.8,Aptian,Ypresian
+Grateloupia,12.72,Het,41.77,Grateloupia,extinct,41.3,38,23.03,20.44,Bartonian,Aquitanian
+Gregariella,0.01,nonHet,33.4,Gregariella,extant,72.1,66,0.126,0.0117,Maastrichtian,Pleistocene
+Gresslya,148.55,nonHet,49.12,Gresslya,extinct,247.2,242,145,132.9,Middle Triassic,Valanginian
+Gryphaea,148.55,nonHet,50.16,Gryphaea,extinct,242,237,37.2,33.9,Ladinian,Eocene
+Gryphaeostrea,6.29,nonHet,30.46,Gryphaeostrea,extinct,140.2,136.4,20.44,15.97,Cretaceous,Burdigalian
+Guebhardia,167.2,nonHet,16.85384615,Guebhardia,extinct,,,,,,
+Guizhoupecten,257.05,nonHet,50.02,Guizhoupecten,extinct,290.1,272.3,254.17,252.17,Artinskian,Lopingian
+Gyrostrea,69.05,nonHet,65.77,Gyrostrea,extinct,113,100.5,11.608,5.333,Albian,Miocene
+Gythemon,148.55,Het,60.24,Gythemon,extinct,166.1,161.2,164.7,155.7,Callovian,Kimmeridgian
+Haastina,167.2,nonHet,19.86,Haastina,extinct,168.3,163.5,168.3,163.5,Bathonian,Callovian
+Haenleinia,77.85,nonHet,99.85714286,Haenleinia,extinct,,,,,,
+Halobia,218.25,nonHet,83.41428571,Halobia,extinct,247.2,242,170.3,168.3,Middle Triassic,Bajocian
+Halonympha,0.01,nonHet,18.7,Halonympha,extant,72.1,66,3.6,2.588,Maastrichtian,Neogene
+Hamacuna,0.01,nonHet,3.5,Hamacuna,extant,,,,,,
+Hardaghia,69.05,nonHet,73.18571429,Hardaghia,extinct,72.1,66,72.1,66,Maastrichtian,
+Haumea,0.01,nonHet,40.3,Haumea,extant,122.46,109,0.0117,0,Aptian,Cenozoic
+Hedecardium,0.01,Het,51.6,Hedecardium,extinct,61.6,56,13.65,11.608,Selandian,Tortonian
+Heikea,449.1,nonHet,10.57,Heikea,extinct,453,445.2,445.2,443.4,Katian,Hirnantian
+Heligmina,18.21,nonHet,24.225,Heligmina,extinct,72.1,66,72.1,66,Maastrichtian,
+Heligmopsis,88.05,nonHet,40.47,Heligmopsis,extinct,,,,,,
+Hemicyclonosta,4.47,nonHet,20.53846154,Hemicyclonosta,extinct,41.3,38,41.3,38,Bartonian,
+Hemidonax,0.01,nonHet,47.8,Hemidonax,extant,3.6,2.588,0.126,0.0117,Piacenzian,Pleistocene
+Hemipecten,0.01,nonHet,39.5,Hemipecten,extant,,,,,,
+Hercodon,69.05,nonHet,45.07142857,Hercodon,extinct,99.6,93.5,99.6,93.5,Cenomanian,Turonian
+Hercynella,377.45,nonHet,85.5,Hercynella,extinct,443.4,427.4,393.3,382.7,Silurian,Middle Devonian
+Here,0.01,Het,14.63111111,Here,extant,66,61.6,0.126,0.0117,Paleogene,Pleistocene
+Heteranomia,0.01,nonHet,22,Heteranomia,extant,56,47.8,0.126,0.0117,Eocene,Pleistocene
+Heterodonax,0.01,nonHet,29.7,Heterodonax,extant,28.1,23.03,0.126,0.0117,Chattian,Pleistocene
+Heteropecten,262.5,nonHet,19.915,Heteropecten,extinct,323.2,307,252.17,251.3,Pennsylvanian,Induan
+Heteropholas,35.95,Het,15.925,Heteropholas,extinct,,,,,,
+Heterostrea,169.3,nonHet,184,Heterostrea,extinct,290.1,272.3,72.1,66,Artinskian,Mesozoic
+Heterotrigonia,96.9,nonHet,49.4,Heterotrigonia,extinct,,,,,,
+Heudeana,0.01,nonHet,91.9,Heudeana,extant,,,,,,
+Hexacorbula,0.01,Het,24,Hexacorbula,extant,23.03,20.44,0.0117,0,Neogene,Holocene
+Hiatella,0.01,Het,59.7,Hiatella,extant,242,235,0.0117,0,Ladinian,Cenozoic
+Hilberia,0.01,nonHet,40,Hilberia,extinct,38,33.9,28.1,23.03,Priabonian,Oligocene
+Hilgardia,39.65,nonHet,17.83272727,Hilgardia,extinct,66,56,37.2,33.9,Paleocene,Eocene
+Himeraelites,96.9,nonHet,105.4666667,Himeraelites,extinct,125.45,122.46,113,100.5,Barremian,Albian
+Hindsiella,35.95,nonHet,6.2575,Hindsiella,extinct,72.1,66,20.44,15.97,Maastrichtian,Burdigalian
+Hinnites,0.01,nonHet,180,Hinnites,extant,237,208.5,0.781,0.126,Late Triassic,Middle Pleistocene
+Hippopodium,148.55,nonHet,79.1875,Hippopodium,extinct,199.3,190.8,150.8,145,Sinemurian,Late Jurassic
+Hippopus,0.01,nonHet,475,Hippopus,extant,11.608,5.333,0.0117,0,Tortonian,Holocene
+Hippurites,69.05,nonHet,39.23076923,Hippurites,extinct,100.5,93.9,70.6,66,Late Cretaceous,
+Hoernesia,204.9,nonHet,35.5,Hoernesia,extinct,252.17,251.3,208.5,201.3,Triassic,
+Hoernesiella,231.5,nonHet,19.88,Hoernesiella,extinct,237,228,237,228,Carnian,
+Hoferia,231.5,nonHet,9.405,Hoferia,extant,247.2,242,221.5,201.3,Middle Triassic,Late Triassic
+Hokonuia,231.5,nonHet,72.82857143,Hokonuia,extinct,237,228,212,205.6,Carnian,Late Triassic
+Homomya,106.75,nonHet,122.9285714,Homomya,extinct,252.17,251.3,28.1,23.03,Mesozoic,Paleogene
+Horiopleura,96.9,nonHet,121.9066667,Horiopleura,extinct,130,125.45,112.03,100.5,Hauterivian,Albian
+Hubertschenckia,25.57,nonHet,65.4,Hubertschenckia,extinct,47.8,38,33.9,28.1,Lutetian,Rupelian
+Humilaria,0.01,nonHet,95,Humilaria,extant,3.6,2.588,0.781,0,Piacenzian,Holocene
+Hunkydora,0.01,nonHet,42,Hunkydora,extant,,,,,,
+Huxleyia,0.01,nonHet,4,Huxleyia,extant,47.8,38,0.781,0.126,Lutetian,Middle Pleistocene
+Hyalopecten,0.01,nonHet,19.52666667,Hyalopecten,extant,3.6,2.588,3.6,2.588,Piacenzian,
+Hyotissa,0.01,nonHet,271,Hyotissa,extant,93.5,89.3,0.0117,0,Turonian,Cenozoic
+Hypotrema,148.55,nonHet,42.86,Hypotrema,extinct,168.3,166.1,150.8,145,Bathonian,Late Jurassic
+Hyridella,0.01,nonHet,85.12857143,Hyridella,extant,100.5,89.3,100.5,89.3,Cenomanian,Coniacian
+Hysteroconcha,0.01,nonHet,100,Hysteroconcha,extant,20.44,15.97,0.126,0.0117,Burdigalian,Pleistocene
+Ibotrigonia,164.8,nonHet,15.84,Ibotrigonia,extinct,166.1,163.5,166.1,163.5,Callovian,
+Icanotia,69.05,nonHet,52.12857143,Icanotia,extinct,125,100.5,70.6,66,Aptian,Late Cretaceous
+Idas,0.01,nonHet,59,Idas,extant,66,56,11.62,5.333,Paleogene,Miocene
+Illionia,385.2,nonHet,62.85714286,Illionia,extinct,443.4,433.4,422.9,419.2,Silurian,
+Ilymatogyra,96.9,nonHet,29.6,Ilymatogyra,extinct,105.3,99.6,59.2,56,Albian,Paleocene
+Immanitas,96.9,nonHet,571.4,Immanitas,extinct,,,,,,
+Imparilarca,4.47,nonHet,86.2,Imparilarca,extant,139.8,132.9,0.0117,0,Valanginian,Cenozoic
+Incanopsis,0.01,nonHet,19.225,Incanopsis,extinct,56,47.8,56,47.8,Ypresian,
+Indopecten,218.25,nonHet,50.98571429,Indopecten,extinct,237,228,208.5,201.3,Late Triassic,
+Inoceramus,77.85,nonHet,129.04,Inoceramus,extinct,228,215.56,70.6,66,Norian,Cretaceous
+Inoceramya,96.9,nonHet,70.42857143,Inoceramya,extinct,100.5,86.3,100.5,86.3,Cenomanian,Coniacian
+Inoperna,69.05,nonHet,80.86,Inoperna,extinct,212,205.6,59.2,56,Norian,Paleocene
+Integricardium,63.8,Het,82.88333333,Integricardium,extinct,183,182,66,61.6,Pliensbachian,Danian
+Iphigenia,0.01,nonHet,87,Iphigenia,extant,23.03,15.97,20.44,15.97,Aquitanian,Burdigalian
+Iridina,0.01,nonHet,159.9666667,Iridina,extant,,,,,,
+Irus,0.01,Het,50.8,Irus,extant,23.03,20.44,0.0117,0,Neogene,Holocene
+Irusella,0.01,nonHet,53.3,Irusella,extant,3.6,2.588,0.126,0,Piacenzian,Holocene
+Ischadium,0.01,nonHet,68.9,Ischadium,extant,3.6,2.588,0.126,0.0117,Piacenzian,Pleistocene
+Ischyrodonta,449.1,nonHet,24.48,Ischyrodonta,extinct,478.6,468.1,443.4,433.4,Ordovician,Llandovery
+Isoarca,69.05,nonHet,26.99,Isoarca,extinct,221.5,215.56,105.3,99.6,Norian,Cenomanian
+Isocyprina,160.4,Het,25.27142857,Isocyprina,extinct,237,208.5,125,113,Late Triassic,Aptian
+Isognomon,0.01,nonHet,253.5,Isognomon,extant,254.17,252.17,0.126,0.0117,Changhsingian,Pleistocene
+Isomonia,0.01,nonHet,44.5,Isomonia,extant,15.97,11.608,15.97,11.608,Langhian,Tortonian
+Isopristes,218.25,nonHet,42.85714286,Isopristes,extinct,228,208.5,228,201.3,Norian,Rhaetian
+Izumia,69.05,nonHet,16.885,Izumia,extinct,83.6,72.1,72.1,66,Campanian,Maastrichtian
+Jactellina,0.01,Het,18.16666667,Jactellina,extinct,0.126,0.0117,0.126,0.0117,Late Pleistocene,
+Jagolucina,35.95,nonHet,19.52,Jagolucina,extinct,66,61.6,59.2,56,Paleocene,
+Janeia,0.01,nonHet,23.42,Janeia,extant,425.6,423,0.126,0.0117,Ludfordian,Pleistocene
+Jaworskiella,178.4,nonHet,104,Jaworskiella,extinct,199.3,190.8,189.6,182.7,Sinemurian,Pliensbachian
+Jouannetia,0.01,Het,50.9,Jouannetia,extant,161.2,155.7,3.6,2.588,Late Jurassic,Neogene
+Juliacorbula,0.01,nonHet,19,Juliacorbula,extant,83.5,70.6,0.126,0,Campanian,Cenozoic
+Jupiteria,0.01,nonHet,17.5,Jupiteria,extant,251.3,247.2,0.781,0.0117,Mesozoic,Pleistocene
+Juxtamusium,0.01,nonHet,35,Juxtamusium,extant,3.6,2.588,3.6,2.588,Piacenzian,
+Kaibabella,284.7,nonHet,12.805,Kaibabella,extinct,279.3,272.3,259.9,254.17,Kungurian,Wuchiapingian
+Kalentera,167.2,nonHet,48.46,Kalentera,extinct,208.5,201.6,175.6,161.2,Rhaetian,Oxfordian
+Katadesmia,0.01,nonHet,24.5,Katadesmia,extant,,,,,,
+Katelysia,0.01,Het,60,Katelysia,extant,37.2,33.9,0.0117,0,Priabonian,Holocene
+Kellia,0.01,nonHet,9.5825,Kellia,extant,56,41.3,0.126,0,Eocene,Holocene
+Kelliella,0.01,nonHet,15,Kelliella,extant,72.1,66,3.6,2.588,Maastrichtian,Neogene
+Kidderia,0.01,nonHet,8.4,Kidderia,extant,21.7,19,21.7,19,Aquitanian,Burdigalian
+Kitsonia,51.9,nonHet,14.716,Kitsonia,extinct,61.6,59.2,61.6,59.2,Selandian,
+Kobayashites,169.3,nonHet,30.86,Kobayashites,extinct,183,182,170.3,168.3,Pliensbachian,Bajocian
+Kochia,400.45,nonHet,59.19,Kochia,extinct,402.5,391.9,376.1,370.6,Emsian,Late Devonian
+Kokanostrea,35.95,nonHet,26.71,Kokanostrea,extinct,41.3,38,38,33.9,Bartonian,Priabonian
+Korobkovitrigonia,77.85,nonHet,71.54117647,Korobkovitrigonia,extinct,99.6,93.5,93.5,89.3,Cenomanian,Coniacian
+Krumbeckiella,218.25,nonHet,38.86,Krumbeckiella,extinct,247.2,242,208.5,201.3,Middle Triassic,Late Triassic
+Kugleria,96.9,nonHet,111.96,Kugleria,extinct,113,100.5,113,100.5,Albian,
+Kummelia,51.9,Het,66.76,Kummelia,extinct,70.6,66,59.2,56,Maastrichtian,Paleocene
+Labrostrea,51.9,nonHet,30.12,Labrostrea,extinct,72.1,66,72.1,66,Maastrichtian,
+Laciolina,0.01,Het,58.34,Laciolina,extant,125.45,122.46,0.0117,0,Barremian,Cenozoic
+Laevicardium,0.01,Het,190,Laevicardium,extant,145,130,0.0117,0,Cretaceous,Cenozoic
+Laevichlamys,0.01,nonHet,96.4,Laevichlamys,extant,5.333,2.588,0.126,0.0117,Pliocene,Pleistocene
+Laevitrigonia,91.55,nonHet,60.61176471,Laevitrigonia,extinct,190.8,183,70.6,66,Pliensbachian,Cretaceous
+Lahilleona,63.8,Het,76.46,Lahilleona,extinct,,,,,,
+Lahillia,69.05,Het,75.06,Lahillia,extinct,85.8,83.5,20.44,15.97,Santonian,Burdigalian
+Lajonkairia,0.01,Het,25,Lajonkairia,extant,7.246,5.333,7.246,5.333,Messinian,
+Lamelliconcha,0.01,nonHet,58.6,Lamelliconcha,extant,55.8,48.6,0.126,0,Eocene,Holocene
+Lapeirousia,69.05,nonHet,175.2727273,Lapeirousia,extinct,89.8,83.6,70.6,66,Coniacian,Maastrichtian
+Lasaea,0.01,nonHet,3.304,Lasaea,extant,28.4,23.03,0.0117,0,Oligocene,Holocene
+Lasaeina,18.21,nonHet,3.972972973,Lasaeina,extinct,23.03,15.97,15.97,11.608,Aquitanian,Tortonian
+Lasaeokellya,12.72,nonHet,4.975,Lasaeokellya,extinct,,,,,,
+Lasaeoneaera,35.95,nonHet,4.396296296,Lasaeoneaera,extinct,,,,,,
+Laubeia,231.5,nonHet,13.13076923,Laubeia,extinct,235,232,235,232,Carnian,
+Ledina,35.95,nonHet,27.25,Ledina,extinct,72.1,66,13.82,11.62,Maastrichtian,Serravallian
+Legrandina,0.01,nonHet,2.8,Legrandina,,,,,,,
+Leguminaia,0.01,nonHet,78.05,Leguminaia,extant,,,,,,
+Leila,0.01,nonHet,42.9,Leila,extant,,,,,,
+Leinzia,262.5,nonHet,35.93,Leinzia,extinct,268.8,265.1,268.8,259.9,Wordian,Capitanian
+Lentidium,0.01,Het,10,Lentidium,extant,99.6,93.5,0.0117,0,Late Cretaceous,Cenozoic
+Leopecten,0.01,nonHet,150,Leopecten,extant,33.9,28.4,0.126,0,Oligocene,Holocene
+Lepidocardia,0.01,nonHet,30,Lepidocardia,extant,,,,,,
+Leptochondria,218.25,nonHet,29.09,Leptochondria,extinct,303.7,295.5,170.3,168.3,Gzhelian,Bajocian
+Leptodesma,262.5,nonHet,61.43,Leptodesma,extinct,460.9,455.8,254.17,252.17,Darriwilian,Permian
+Leptomya,0.01,Het,43.2,Leptomya,extant,0.126,0.0117,0.126,0.0117,Late Pleistocene,
+Lepton,0.01,Het,8.9875,Lepton,extant,66,61.6,0.0117,0,Cenozoic,
+Leptopecten,0.01,nonHet,71,Leptopecten,extant,28.1,23.03,0.126,0,Chattian,Holocene
+Leptosolen,69.05,nonHet,48.9,Leptosolen,extinct,125,113,66,61.6,Aptian,Danian
+Leuroactis,0.01,Het,100.7,Leuroactis,extinct,,,,,,
+Liebea,257.05,nonHet,17.23666667,Liebea,extinct,298.9,295.5,254.17,252.17,Permian,
+Lilangina,231.5,nonHet,86,Lilangina,extinct,247.2,237,247.2,237,Middle Triassic,
+Lima,0.01,nonHet,158,Lima,extant,307,298.9,0.126,0,Kasimovian,Cenozoic
+Limanomia,377.45,nonHet,55.9,Limanomia,extinct,383.7,382.4,382.7,370.6,Givetian,Late Devonian
+Limarca,31,nonHet,5.7525,Limarca,extinct,38,33.9,33.9,28.4,Priabonian,Rupelian
+Limaria,0.01,nonHet,58.4,Limaria,extant,242,237,0.0117,0,Ladinian,Cenozoic
+Limatulella,0.01,nonHet,20.37142857,Limatulella,extant,242,237,0.0117,0,Ladinian,Cenozoic
+Limea,0.01,nonHet,5.3,Limea,extant,247.2,242,0.781,0.126,Middle Triassic,Middle Pleistocene
+Limipecten,257.05,nonHet,53.39,Limipecten,extinct,358.9,345,254.17,252.17,Carboniferous,Permian
+Limnoperna,0.01,nonHet,47,Limnoperna,extant,,,,,,
+Limopsis,0.01,nonHet,33.67,Limopsis,extant,201.3,183,0.0117,0,Jurassic,Cenozoic
+Lindapecten,0.01,nonHet,100.7,Lindapecten,extant,28.1,23.03,0.126,0.0117,Chattian,Pleistocene
+Linetia,164.8,nonHet,38.6,Linetia,extinct,,,,,,
+Linga,0.01,Het,20.30555556,Linga,extant,56,47.8,0.126,0.0117,Eocene,Pleistocene
+Linotrigonia,69.05,nonHet,12.53,Linotrigonia,extinct,163.5,152.1,70.6,66,Late Jurassic,Cretaceous
+Linsdallia,169.3,nonHet,94.05714286,Linsdallia,extinct,,,,,,
+Linter,69.05,nonHet,5.355,Linter,extinct,100.5,93.9,70.6,66,Late Cretaceous,
+Lioberus,0.01,nonHet,50,Lioberus,extant,5.333,3.6,5.333,3.6,Zanclean,
+Lioconcha,0.01,nonHet,58.7,Lioconcha,extant,15.97,11.62,0.126,0,Langhian,Holocene
+Liocyma,0.01,nonHet,45,Liocyma,extant,33.9,28.4,0.126,0.0117,Oligocene,Pleistocene
+Liodonax,35.95,nonHet,26.84,Liodonax,extinct,,,,,,
+Liopistha,69.05,nonHet,25.7,Liopistha,extinct,125,112.03,70.6,66,Aptian,Late Cretaceous
+Liostrea,148.55,nonHet,41.21428571,Liostrea,extinct,242,237,41.3,33.9,Ladinian,Eocene
+Liothyris,69.05,Het,45.775,Liothyris,extinct,83.6,72.1,70.6,66,Campanian,Maastrichtian
+Liotrigonia,186.75,nonHet,56.82,Liotrigonia,extinct,242,237,189.6,182.7,Ladinian,Pliensbachian
+Lirodiscus,35.95,Het,25.17,Lirodiscus,extinct,66,59.2,38,33.9,Paleocene,Eocene
+Lirophora,0.01,nonHet,58,Lirophora,extant,38,33.9,0.0117,0,Priabonian,Holocene
+Lissarca,0.01,nonHet,8,Lissarca,extant,37.2,33.9,0.0117,0,Priabonian,Holocene
+Litharca,0.01,nonHet,87,Litharca,extant,,,,,,
+Lithophaga,0.01,nonHet,147,Lithophaga,extant,339.4,336,0.0117,0,Visean,Cenozoic
+Litorhadia,12.72,nonHet,16.16333333,Litorhadia,extant,61.6,59.2,15.97,13.82,Selandian,Langhian
+Lituyapecten,0.01,nonHet,125.4102564,Lituyapecten,extant,5.333,2.588,0.781,0.126,Pliocene,Middle Pleistocene
+Longimactra,0.01,Het,96.88,Longimactra,extant,41.3,38,41.3,38,Bartonian,
+Loparia,35.95,nonHet,6.903333333,Loparia,extinct,66,61.6,66,61.6,Danian,
+Lopatinia,69.05,nonHet,38.81,Lopatinia,extinct,163.5,157.3,163.5,157.3,Oxfordian,
+Lopha,0.01,nonHet,110,Lopha,extant,279.3,272.3,0.0117,0,Kungurian,Cenozoic
+Loringella,0.01,nonHet,34,Loringella,extant,201.3,183,0.0117,0,Jurassic,Cenozoic
+Loripes,0.01,nonHet,12.95416667,Loripes,extant,259.9,254.17,0.0117,0,Lopingian,Cenozoic
+Lortiella,0.01,nonHet,92.2,Lortiella,,,,,,,
+Loxocardium,18.21,nonHet,16.635,Loxocardium,extinct,66,61.6,5.333,2.588,Paleogene,Neogene
+Lucina,0.01,Het,54.7125,Lucina,extant,387.7,382.7,0.126,0,Givetian,Cenozoic
+Lucinella,0.01,nonHet,8.81,Lucinella,extant,28.1,23.03,0.126,0.0117,Chattian,Pleistocene
+Luciniola,186.75,nonHet,7.2,Luciniola,extant,208.5,201.3,182.7,168.3,Rhaetian,Bajocian
+Ludbrookia,96.9,nonHet,35.19,Ludbrookia,extinct,125,113,100.5,93.9,Aptian,Cenomanian
+Lunulicardia,0.01,nonHet,73,Lunulicardia,extant,23.03,15.97,0.126,0.0117,Neogene,Pleistocene
+Lutraria,0.01,Het,168,Lutraria,extant,37.2,33.9,0.0117,0,Priabonian,Holocene
+Lutromactra,0.01,Het,51.1,Lutromactra,,,,,,,
+Lycettia,69.05,nonHet,33.32,Lycettia,extinct,196.5,189.6,70.6,66,Sinemurian,Cretaceous
+Lyonsia,0.01,nonHet,57,Lyonsia,extant,201.3,196.5,0.0117,0,Jurassic,Cenozoic
+Lyratellina,0.01,Het,43.04285714,Lyratellina,extant,28.4,23.03,0.0117,0,Oligocene,Holocene
+Lyrocardium,0.01,Het,72.4,Lyrocardium,extant,2.588,0.0117,0.126,0.0117,Pleistocene,
+Lyrodesma,435.95,nonHet,10.42,Lyrodesma,extinct,478.6,466,419.2,410.8,Ordovician,Lochkovian
+Lyropecten,0.01,nonHet,187.2666667,Lyropecten,extinct,83.5,70.6,2.588,0.0117,Campanian,Pleistocene
+Macalia,0.01,nonHet,33.19,Macalia,extant,5.333,0.0117,5.333,0.0117,Pliocene,Pleistocene
+Maccoyella,106.75,nonHet,69.25714286,Maccoyella,extinct,171.6,168.3,105.3,99.6,Middle Jurassic,Cenomanian
+Machomya,148.55,nonHet,70.43,Machomya,extinct,182.7,168.3,155.7,150.8,Toarcian,Late Jurassic
+Macoma,0.01,Het,33.275,Macoma,extant,66,56,0.0117,0,Cenozoic,
+Macomona,0.01,Het,85.4,Macomona,extant,41.3,38,0.781,0.126,Bartonian,Middle Pleistocene
+Macrocallista,0.01,nonHet,188,Macrocallista,extant,113,100.5,0.0117,0,Albian,Cenozoic
+Macrochlamis,0.01,nonHet,59.87,Macrochlamis,extinct,28.4,23.03,7.246,5.333,Oligocene,Miocene
+Macrodontella,244.6,nonHet,23.21,Macrodontella,extinct,247.2,242,247.2,242,Anisian,
+Macrosolen,18.21,nonHet,120.25,Macrosolen,extinct,47.8,41.3,11.608,5.333,Lutetian,Miocene
+Mactra,0.01,Het,126,Mactra,extant,199.3,190.8,0.0117,0,Sinemurian,Cenozoic
+Mactrellona,0.01,nonHet,140.6,Mactrellona,extant,48.6,37.2,2.588,0.781,Eocene,Calabrian
+Mactrinula,0.01,Het,86,Mactrinula,extant,15.97,5.333,2.588,0.0117,Langhian,Pleistocene
+Mactroderma,0.01,nonHet,116,Mactroderma,extant,28.1,23.03,0.0117,0,Chattian,Holocene
+Mactromeris,0.01,Het,167,Mactromeris,extant,99.6,93.5,0.126,0.0117,Late Cretaceous,Pleistocene
+Mactromya,148.55,nonHet,22.528,Mactromya,extinct,247.2,242,125,113,Middle Triassic,Aptian
+Mactromyopsis,164.8,Het,19.6,Mactromyopsis,extinct,168.3,166.1,166.1,163.5,Bathonian,Callovian
+Mactropsis,35.95,nonHet,16.95333333,Mactropsis,extinct,56,47.8,56,47.8,Ypresian,
+Malayomaorica,154.7,nonHet,32.43333333,Malayomaorica,extinct,175.6,161.2,148.5,145,Toarcian,Late Jurassic
+Malletia,0.01,nonHet,62,Malletia,extant,254.17,252.17,0.0117,0,Changhsingian,Cenozoic
+Malleus,0.01,nonHet,314,Malleus,extant,23.03,20.44,0.126,0.0117,Neogene,Pleistocene
+Malvufundus,0.01,nonHet,127.06,Malvufundus,extant,,,,,,
+Maminka,424.3,nonHet,26.98,Maminka,extinct,433.4,430.5,427.4,419.2,Wenlock,Pridoli
+Mancikellia,0.01,nonHet,3.21875,Mancikellia,extant,,,,,,
+Manticula,231.5,nonHet,79.61428571,Manticula,extinct,242,228,145,139.8,Ladinian,Berriasian
+Manupecten,0.01,nonHet,86.5,Manupecten,extant,33.9,28.1,2.588,0.781,Oligocene,Calabrian
+Manzanella,270.55,nonHet,12.135,Manzanella,extinct,279.3,272.3,272.3,268.8,Kungurian,Roadian
+Maoricardium,0.01,Het,177.8,Maoricardium,extant,5.333,3.6,5.333,3.6,Zanclean,
+Maorithyas,0.01,nonHet,44.47,Maorithyas,extant,47.8,41.3,47.8,41.3,Lutetian,
+Maoritrigonia,218.25,nonHet,46.61,Maoritrigonia,extinct,237,228,205.6,201.3,Late Triassic,
+Marcia,0.01,Het,65,Marcia,extant,56,38,0.126,0.0117,Eocene,Pleistocene
+Margaritaria,4.47,nonHet,76.78,Margaritaria,extinct,41.3,38,3.6,2.588,Bartonian,Neogene
+Margaritifera,0.01,nonHet,129.38,Margaritifera,extant,237,201.3,0.0117,0,Late Triassic,Cenozoic
+Margostrea,69.05,nonHet,31.24,Margostrea,extinct,93.9,89.8,93.9,89.8,Turonian,
+Martesia,0.01,Het,45.23333333,Martesia,extant,190.8,170.3,0.126,0.0117,Pliensbachian,Pleistocene
+Matheria,428.95,nonHet,18.84,Matheria,extinct,460.9,449.5,443.4,427.4,Darriwilian,Wenlock
+Matheronia,119,Het,145.06,Matheronia,extinct,150.8,140.2,122.46,112.03,Tithonian,Early Cretaceous
+Matsumotoa,69.05,nonHet,35.04,Matsumotoa,extinct,113,100.5,93.9,89.8,Albian,Turonian
+Mclearnia,119,nonHet,91.52,Mclearnia,extinct,167.7,161.2,129.4,125,Bathonian,Barremian
+Mecynodon,390.5,nonHet,41.08,Mecynodon,extinct,393.3,387.7,387.7,382.7,Middle Devonian,
+Medionidus,0.01,nonHet,39.84,Medionidus,extant,,,,,,
+Mediraon,119,Het,21.44666667,Mediraon,extinct,125.45,122.46,125,113,Barremian,Aptian
+Meekia,69.05,Het,39.93,Meekia,extinct,112.03,109,70.6,66,Albian,Late Cretaceous
+Megacardita,0.01,nonHet,99.6,Megacardita,extant,55.8,48.6,0.126,0.0117,Eocene,Pleistocene
+Megalomoidea,424.3,nonHet,54.84285714,Megalomoidea,extinct,443.4,433.4,425.6,419.2,Silurian,
+Megalonaias,0.01,nonHet,110.0333333,Megalonaias,extant,41.3,38,41.3,38,Bartonian,
+Megatrigonia,69.05,nonHet,136.5777778,Megatrigonia,extinct,157.3,145,72.1,66,Kimmeridgian,Cretaceous
+Megaxinus,0.01,Het,20.2625,Megaxinus,extant,33.9,28.1,0.126,0.0117,Oligocene,Pleistocene
+Megayoldia,0.01,nonHet,73.1,Megayoldia,extant,72.1,66,3.6,2.588,Maastrichtian,Neogene
+Meiocardia,0.01,Het,60.8,Meiocardia,extant,72.1,66,0.126,0.0117,Maastrichtian,Pleistocene
+Melaxinaea,0.01,nonHet,52.3,Melaxinaea,extant,11.608,5.333,11.608,5.333,Tortonian,Messinian
+Meleagrinella,148.55,nonHet,12.425,Meleagrinella,extinct,251.3,247.2,72.1,66,Mesozoic,Cretaceous
+Melliteryx,0.01,nonHet,8.28125,Melliteryx,extant,3.6,2.588,0.126,0.0117,Piacenzian,Pleistocene
+Melosia,12.72,nonHet,25.16,Melosia,extinct,23.03,15.97,15.97,13.82,Aquitanian,Langhian
+Mercenaria,0.01,nonHet,168,Mercenaria,extant,28.4,23.03,0.0117,0,Oligocene,Holocene
+Meretrissa,31,nonHet,8.705,Meretrissa,extinct,,,,,,
+Meretrix,0.01,nonHet,138.9,Meretrix,extant,139.8,129.4,0.126,0.0117,Valanginian,Pleistocene
+Merisca,0.01,Het,40.86,Merisca,extant,28.4,23.03,0.0117,0,Oligocene,Holocene
+Merismopteria,262.5,nonHet,53.65,Merismopteria,extinct,323.2,307,254.17,252.17,Pennsylvanian,Permian
+Meroena,35.95,nonHet,42.38,Meroena,extinct,47.8,41.3,37.2,33.9,Lutetian,Priabonian
+Mesodesma,0.01,nonHet,100,Mesodesma,extant,56,47.8,0.0117,0,Eocene,Holocene
+Mesodiceras,154.7,nonHet,44.42857143,Mesodiceras,extinct,,,,,,
+Mesolinga,69.05,nonHet,11.23333333,Mesolinga,extinct,167.7,164.7,122.46,112.03,Bathonian,Early Cretaceous
+Mesopeplum,0.01,nonHet,70.7,Mesopeplum,extant,55.8,53,11.608,5.333,Eocene,Miocene
+Mesosaccella,57.6,nonHet,19.555,Mesosaccella,extinct,228,205.6,56,47.8,Norian,Ypresian
+Mesotrigonia,69.05,nonHet,22.42,Mesotrigonia,extinct,,,,,,
+Microcardium,0.01,Het,26.5,Microcardium,extant,37.2,33.9,3.6,2.588,Priabonian,Neogene
+Microcyprina,35.95,nonHet,18.59,Microcyprina,extinct,,,,,,
+Microfragum,0.01,Het,18,Microfragum,extant,,,,,,
+Microtrigonia,69.05,nonHet,10.865,Microtrigonia,extinct,86.3,72.1,72.1,66,Santonian,Maastrichtian
+Milneria,0.01,nonHet,18,Milneria,extant,2.588,0.126,0.126,0,Pleistocene,Holocene
+Milovanovicia,91.55,nonHet,60.67924528,Milovanovicia,extinct,93.9,89.3,72.1,66,Turonian,Maastrichtian
+Minepharus,231.5,nonHet,40.76,Minepharus,extinct,,,,,,
+Minetrigonia,218.25,nonHet,24.61333333,Minetrigonia,extinct,237,228,205.6,201.3,Late Triassic,
+Minnivola,0.01,nonHet,66.7,Minnivola,extant,11.608,5.333,5.333,2.588,Tortonian,Pliocene
+Miodomeris,35.95,Het,2.783,Miodomeris,extinct,66,61.6,66,56,Paleocene,
+Miodontiscus,0.01,nonHet,20,Miodontiscus,extant,61.6,59.2,0.126,0,Selandian,Holocene
+Mirapecten,0.01,nonHet,81.1,Mirapecten,extant,23.03,15.97,23.03,15.97,Aquitanian,Burdigalian
+Mitrocaprina,69.05,nonHet,50.44,Mitrocaprina,extinct,86.3,83.6,70.6,66,Santonian,Maastrichtian
+Mizuhopecten,0.01,nonHet,214,Mizuhopecten,extant,23.03,15.97,1.806,0.781,Neogene,Calabrian
+Modiolarca,0.01,nonHet,46,Modiolarca,extant,28.4,15.97,5.333,2.588,Oligocene,Neogene
+Modiolatus,0.01,nonHet,115,Modiolatus,extant,113,100.5,0.126,0.0117,Albian,Pleistocene
+Modiolodon,449.1,nonHet,34.06,Modiolodon,extinct,466,460.9,449.5,443.7,Darriwilian,Late Ordovician
+Modiolopsis,421.1,nonHet,39.725,Modiolopsis,extinct,485.4,477.7,259.9,254.17,Ordovician,Wuchiapingian
+Modiolus,0.01,nonHet,213,Modiolus,extant,407.6,393.3,0.0117,0,Emsian,Cenozoic
+Monitilora,0.01,Het,12.47037037,Monitilora,extant,66,61.6,5.333,2.588,Paleogene,Neogene
+Monodacna,0.01,Het,40,Monodacna,extant,0.126,0.0117,0.126,0.0117,Late Pleistocene,
+Monopleura,69.05,nonHet,41.86,Monopleura,extinct,140.2,136.4,70.6,66,Cretaceous,Late Cretaceous
+Monopteria,305.35,nonHet,25.635,Monopteria,extinct,313.8,305.9,303.4,298.9,Moscovian,Gzhelian
+Monothyra,0.01,Het,167,Monothyra,extant,,,,,,
+Monotis,218.25,nonHet,47.74,Monotis,extinct,265.1,259.9,208.5,201.3,Capitanian,Triassic
+Montacuta,0.01,nonHet,3.3925,Montacuta,extant,59.2,56,0.0117,0,Thanetian,Holocene
+Mulinia,0.01,nonHet,78,Mulinia,extant,37.2,33.9,0.0117,0,Priabonian,Holocene
+Mulinoides,69.05,nonHet,53.92,Mulinoides,extinct,72.1,66,56,47.8,Maastrichtian,Ypresian
+Musculus,0.01,nonHet,80,Musculus,extant,170.3,168.3,0.0117,0,Bajocian,Cenozoic
+Mutiella,69.05,nonHet,22.16,Mutiella,extinct,125.45,122.46,70.6,66,Barremian,Late Cretaceous
+Mweruella,0.01,nonHet,42.46,Mweruella,extant,,,,,,
+Mya,0.01,Het,200,Mya,extant,167.7,164.7,0.0117,0,Bathonian,Cenozoic
+Myadesma,18.21,nonHet,70.46,Myadesma,extinct,48.6,37.2,15.97,11.608,Eocene,Tortonian
+Myadora,0.01,nonHet,46,Myadora,extant,33.9,28.4,0.126,0.0117,Oligocene,Pleistocene
+Myalina,257.05,nonHet,97.77142857,Myalina,extinct,453,445.2,235,228,Katian,Carnian
+Myllitella,0.01,nonHet,3.025,Myllitella,extant,,,,,,
+Myochama,0.01,nonHet,30,Myochama,extant,3.6,2.588,3.6,2.588,Piacenzian,
+Myoconcha,69.05,Het,43.85,Myoconcha,extinct,290.1,272.3,72.1,66,Artinskian,Mesozoic
+Myonia,257.05,nonHet,166.2352941,Myonia,extinct,323.2,307,254.17,252.17,Pennsylvanian,Permian
+Myopholas,106.75,nonHet,60.99,Myopholas,extinct,201.3,175.6,105.3,99.6,Jurassic,Cenomanian
+Myophorella,127.2,nonHet,110.7777778,Myophorella,extinct,201.3,183,125.45,100.5,Jurassic,Early Cretaceous
+Myophoria,218.25,nonHet,15.89,Myophoria,extinct,453,445.2,189.6,174.1,Katian,Early Jurassic
+Myophoricardium,231.5,nonHet,14.00769231,Myophoricardium,extinct,251.2,242,208.5,201.3,Olenekian,Late Triassic
+Myophorigonia,169.3,nonHet,13.11,Myophorigonia,extinct,242,237,189.6,183,Ladinian,Pliensbachian
+Myophoriopis,204.9,nonHet,16,Myophoriopis,extinct,259.9,254.17,208.5,201.3,Lopingian,Triassic
+Myoplusia,455.7,nonHet,8.63,Myoplusia,extinct,477.7,470,433.4,423,Floian,Ludlow
+Myrakeena,0.01,nonHet,98.6,Myrakeena,extant,259.9,254.17,0.0117,0,Lopingian,Cenozoic
+Myrtea,0.01,Het,25.37142857,Myrtea,extant,105.3,99.6,1.806,0.0117,Albian,Pleistocene
+Mysella,0.01,Het,4.14375,Mysella,extant,66,61.6,0.0117,0,Cenozoic,
+Mysia,0.01,nonHet,38,Mysia,extant,180.1,170.3,3.6,2.588,Toarcian,Neogene
+Mysidiella,204.9,nonHet,81.94285714,Mysidiella,extinct,247.2,242,208.5,201.3,Middle Triassic,Late Triassic
+Mytella,0.01,nonHet,110,Mytella,extant,61.6,47.8,0.126,0,Selandian,Holocene
+Mytilarca,377.45,nonHet,42.4,Mytilarca,extinct,460.9,452,259.9,254.17,Darriwilian,Wuchiapingian
+Mytilaster,0.01,nonHet,25,Mytilaster,extant,174.1,168.4,0.126,0.0117,Middle Jurassic,Pleistocene
+Mytiloides,77.85,nonHet,162.96,Mytiloides,extinct,190.8,183,85.8,66,Pliensbachian,Cretaceous
+Mytiloperna,0.01,nonHet,32.96153846,Mytiloperna,extinct,201.3,196.5,150.8,145,Jurassic,
+Mytilops,377.45,nonHet,52.09,Mytilops,extinct,387.7,382.7,387.7,382.7,Givetian,
+Mytilopsis,0.01,Het,38,Mytilopsis,extant,48.6,28.4,0.0117,0,Eocene,Holocene
+Nanaochlamys,0.01,nonHet,42.575,Nanaochlamys,extinct,15.97,11.62,5.333,3.6,Langhian,Zanclean
+Nannomactra,0.01,Het,23.99333333,Nannomactra,,,,,,,
+Nannonaia,0.01,nonHet,31.04,Nannonaia,extant,,,,,,
+Nanogyra,142.4,nonHet,19.94,Nanogyra,extinct,196.5,189.6,2.588,0.781,Sinemurian,Calabrian
+Nanonavis,69.05,nonHet,29.275,Nanonavis,extant,201.3,174.1,61.6,59.2,Jurassic,Selandian
+Nathorstella,400.45,nonHet,36.28,Nathorstella,extinct,,,,,,
+Nayadina,39.65,nonHet,56.95714286,Nayadina,extinct,105.3,93.9,37.2,33.9,Albian,Eocene
+Neaeromya,0.01,Het,21.33,Neaeromya,extant,3.6,2.588,0.126,0.0117,Piacenzian,Pleistocene
+Neilo,0.01,nonHet,53,Neilo,extant,83.6,72.1,12.7,0.0117,Campanian,Pleistocene
+Neilonella,0.01,nonHet,16,Neilonella,extant,72.1,66,5.333,2.588,Maastrichtian,Neogene
+Nelltia,69.05,nonHet,37.28,Nelltia,extinct,100.5,93.9,93.9,89.8,Cenomanian,Turonian
+Nemocardium,0.01,Het,81.5,Nemocardium,extant,242,237,0.126,0.0117,Ladinian,Pleistocene
+Nemodon,69.05,nonHet,27.77,Nemodon,extinct,201.3,196.5,41.3,38,Jurassic,Bartonian
+Neoburmesia,148.55,nonHet,80.64,Neoburmesia,extinct,157.3,152.1,157.3,152.1,Kimmeridgian,
+Neogaimardia,0.01,nonHet,5.026666667,Neogaimardia,extant,,,,,,
+Neoinoceramus,25.57,nonHet,154.9,Neoinoceramus,extinct,33.9,23.03,23.03,5.333,Oligocene,Miocene
+Neolepton,0.01,nonHet,6.1,Neolepton,extant,21.7,19,0.0117,0,Neogene,Holocene
+Neomegalodon,204.9,Het,63.88,Neomegalodon,extinct,242,237,208.5,201.3,Ladinian,Late Triassic
+Neopycnodonte,0.01,nonHet,80,Neopycnodonte,extant,66,61.6,0.126,0.0117,Paleogene,Pleistocene
+Neotapes,0.01,nonHet,58,Neotapes,extant,,,,,,
+Neotrigonia,0.01,nonHet,57.7,Neotrigonia,extant,15.97,11.608,5.333,3.6,Langhian,Zanclean
+Nesobornia,0.01,nonHet,10.815625,Nesobornia,extant,,,,,,
+Netastoma,0.01,Het,40,Netastoma,extant,56,47.8,0.781,0.126,Eocene,Middle Pleistocene
+Nettastomella,0.01,Het,9.76,Nettastomella,extant,56,47.8,0.781,0.126,Eocene,Middle Pleistocene
+Nevenulora,0.01,Het,16.485,Nevenulora,extant,72.1,66,41.3,38,Maastrichtian,Bartonian
+Newaagia,231.5,nonHet,46.88,Newaagia,extinct,247.2,242,72.1,66,Middle Triassic,Cretaceous
+Newellipecten,352.8,nonHet,27.51,Newellipecten,extinct,402.5,391.9,364.7,346.7,Emsian,Tournaisian
+Newsomella,424.3,nonHet,32.26,Newsomella,extinct,485.4,477.7,259.9,254.17,Ordovician,Wuchiapingian
+Nicaisolopha,69.05,nonHet,84.14285714,Nicaisolopha,extant,113,100.5,1.806,0.0117,Albian,Pleistocene
+Nicaniella,57.6,Het,5.295,Nicaniella,extinct,228,208.5,66,61.6,Norian,Danian
+Nipponicorbula,0.01,Het,10.296,Nipponicorbula,extinct,113,100.5,93.5,89.3,Albian,Coniacian
+Nipponitrigonia,77.85,nonHet,58.74,Nipponitrigonia,extinct,170.3,168.3,99.6,93.5,Bajocian,Turonian
+Nipponolimopsis,0.01,nonHet,14,Nipponolimopsis,extant,201.3,183,0.0117,0,Jurassic,Cenozoic
+Nitidavenus,0.01,Het,23.48,Nitidavenus,extinct,56,47.8,37.2,33.9,Eocene,
+Nodipecten,0.01,nonHet,226.5,Nodipecten,extant,28.4,23.03,0.0117,0,Oligocene,Holocene
+Noetia,0.01,nonHet,80,Noetia,extant,99.6,93.5,0.0117,0,Late Cretaceous,Cenozoic
+Noetiella,0.01,nonHet,34,Noetiella,extant,99.6,93.5,0.0117,0,Late Cretaceous,Cenozoic
+Noetiopsis,35.95,nonHet,29.76,Noetiopsis,extinct,47.8,38,47.8,38,Lutetian,Bartonian
+Nordenskjoeldia,69.05,nonHet,26.67333333,Nordenskjoeldia,extinct,83.5,66,72.1,66,Campanian,Maastrichtian
+Notobotula,0.01,nonHet,18.73666667,Notobotula,extant,,,,,,
+Notocallista,0.01,nonHet,80,Notocallista,extant,61.6,56,3.6,2.588,Selandian,Neogene
+Notolimea,0.01,nonHet,7,Notolimea,extant,5.333,3.6,5.333,3.6,Zanclean,
+Notostrea,31,nonHet,25.635,Notostrea,extinct,55.8,53,5.333,3.6,Eocene,Zanclean
+Nototeredo,0.01,Het,24.97333333,Nototeredo,extant,66,61.6,20.44,15.97,Paleogene,Burdigalian
+Nototrigonia,106.75,nonHet,50.59,Nototrigonia,extinct,125,100.5,105.3,99.6,Aptian,Cenomanian
+Nucinella,0.01,nonHet,25,Nucinella,extant,252.17,251.3,0.0117,0,Mesozoic,Cenozoic
+Nucula,0.01,nonHet,28.1,Nucula,extant,478.6,466,0.0117,0,Ordovician,Cenozoic
+Nuculana,0.01,nonHet,35.6,Nuculana,extant,478.6,466,0.0117,0,Ordovician,Cenozoic
+Nuculites,257.05,nonHet,30.86,Nuculites,extinct,485.4,477.7,254.17,252.17,Ordovician,Permian
+Nuculoidea,365.55,nonHet,30.34,Nuculoidea,extinct,460.9,449.5,161.2,150.8,Darriwilian,Jurassic
+Nuculoma,142.4,nonHet,17.685,Nuculoma,extinct,247.2,242,15.97,5.333,Middle Triassic,Miocene
+Nuculopsis,251.7,nonHet,14.2,Nuculopsis,extinct,407.6,393.3,72.1,66,Emsian,Mesozoic
+Numella,0.01,nonHet,11.2,Numella,extant,,,,,,
+Nutricola,0.01,nonHet,10,Nutricola,extant,7.246,5.333,0.126,0,Messinian,Holocene
+Nuttallia,0.01,Het,150,Nuttallia,extant,66,56,0.126,0.0117,Paleogene,Pleistocene
+Oblimopa,0.01,nonHet,31,Oblimopa,extant,201.3,183,0.0117,0,Jurassic,Cenozoic
+Obliquipecten,270.55,nonHet,32.19,Obliquipecten,extinct,346.7,330.9,259.9,252.17,Visean,Permian
+Odontogryphaea,39.65,nonHet,68.08,Odontogryphaea,extinct,72.1,66,38,33.9,Maastrichtian,Eocene
+Opertochasma,69.05,Het,13.00666667,Opertochasma,extinct,100.5,93.9,70.6,66,Late Cretaceous,
+Opis,69.05,Het,29.33,Opis,extinct,247.2,242,66,56,Middle Triassic,Paleocene
+Opisoma,160.4,nonHet,90.8,Opisoma,extinct,196.5,189.6,155.7,150.8,Sinemurian,Late Jurassic
+Opisthoptera,449.1,nonHet,60.7,Opisthoptera,extinct,452,449.5,449.5,443.7,Katian,Hirnantian
+Opisthotrigonia,119,nonHet,58.89,Opisthotrigonia,extinct,155.7,150.8,140.2,136.4,Kimmeridgian,Valanginian
+Oppenheimopecten,0.01,nonHet,69.54,Oppenheimopecten,extant,37.2,33.9,0.126,0.0117,Priabonian,Pleistocene
+Oretia,231.5,nonHet,75.14285714,Oretia,extinct,227.5,221.5,227.5,221.5,Norian,
+Ornithopecten,218.25,nonHet,26.41,Ornithopecten,extinct,254.17,252.17,235,232,Changhsingian,Carnian
+Orthonota,385.2,nonHet,54.67,Orthonota,extinct,458.4,455.8,364.7,360.7,Late Ordovician,Devonian
+Orthoptychus,96.9,nonHet,79.74,Orthoptychus,extinct,100.5,93.9,99.6,93.5,Cenomanian,Turonian
+Orthotrigonia,142.4,nonHet,38.03,Orthotrigonia,extinct,201.3,199.3,145,139.8,Jurassic,Berriasian
+Orthoyoldia,0.01,nonHet,18.3,Orthoyoldia,extant,66,61.6,2.588,0.0117,Paleogene,Pleistocene
+Ortonella,449.1,nonHet,24.15,Ortonella,extinct,458.4,453,315.2,307,Late Ordovician,Moscovian
+Ospriasolen,69.05,nonHet,42.86,Ospriasolen,extinct,,,,,,
+Osteomya,164.8,nonHet,64.37,Osteomya,extinct,247.2,242,93.5,89.3,Middle Triassic,Coniacian
+Ostomya,0.01,nonHet,12.595,Ostomya,extant,15.97,11.608,15.97,7.246,Langhian,Tortonian
+Ostrea,0.01,nonHet,190,Ostrea,extant,259.9,254.17,0.0117,0,Lopingian,Cenozoic
+Ostreinella,6.29,nonHet,13.575,Ostreinella,extinct,20.44,15.97,20.44,15.97,Burdigalian,
+Ostreola,0.01,nonHet,51,Ostreola,extant,13.82,11.62,3.6,2.588,Serravallian,Pliocene
+Ostreonella,77.85,nonHet,37.75384615,Ostreonella,extinct,93.5,89.3,93.5,89.3,Turonian,Coniacian
+Otapiria,148.55,nonHet,47.66,Otapiria,extinct,237,228,148.5,145,Late Triassic,Jurassic
+Ovalarca,0.01,nonHet,2.6525,Ovalarca,extinct,3.6,2.588,3.6,2.588,Piacenzian,
+Oxynaia,0.01,nonHet,48.8,Oxynaia,extant,,,,,,
+Oxyperas,0.01,Het,111,Oxyperas,extant,56,47.8,5.333,3.6,Eocene,Zanclean
+Oxytoma,69.05,nonHet,19.87,Oxytoma,extinct,265.1,259.9,66,61.6,Capitanian,Danian
+Pachecoa,35.95,nonHet,8.662,Pachecoa,extinct,56,47.8,41.3,33.9,Eocene,
+Pachydon,4.47,Het,15.215,Pachydon,extinct,56,33.9,11.62,7.246,Eocene,Tortonian
+Pachymyonia,257.05,nonHet,82.88,Pachymyonia,extinct,323.2,307,254.17,252.17,Pennsylvanian,Permian
+Pachymytilus,160.4,nonHet,80.97142857,Pachymytilus,extinct,155.7,150.8,150.8,145,Kimmeridgian,Tithonian
+Pachyperna,35.95,nonHet,37.63529412,Pachyperna,extinct,,,,,,
+Pachyrisma,167.2,Het,133.98,Pachyrisma,extinct,247.2,242,150.8,145,Middle Triassic,Jurassic
+Pachythaerus,0.01,Het,32.53333333,Pachythaerus,extinct,145,130,99.6,93.5,Early Cretaceous,Turonian
+Pachytraga,106.75,nonHet,53.9,Pachytraga,extinct,136.4,130,125.45,122.46,Valanginian,Aptian
+Pacipecten,0.01,nonHet,38.8,Pacipecten,extant,28.1,23.03,0.126,0,Chattian,Holocene
+Pacitrigonia,69.05,nonHet,57.36,Pacitrigonia,extinct,105.3,99.6,70.6,66,Albian,Late Cretaceous
+Palaeocardia,428.95,nonHet,40.62,Palaeocardia,extinct,443.4,427.4,443.4,427.4,Llandovery,Wenlock
+Palaeocardita,204.9,nonHet,25.51,Palaeocardita,extinct,237,232,170.3,168.3,Late Triassic,Bajocian
+Palaeoconcha,435.95,nonHet,4.535,Palaeoconcha,extinct,470,460.9,419.2,387.7,Middle Ordovician,Eifelian
+Palaeomoera,69.05,nonHet,24.13,Palaeomoera,extinct,125,113,72.1,66,Aptian,Late Cretaceous
+Palaeomya,63.8,Het,10.77,Palaeomya,extinct,460.9,455.8,387.7,382.7,Darriwilian,Middle Devonian
+Palaeoneilo,186.75,nonHet,23,Palaeoneilo,extinct,485.4,477.7,145,140.2,Ordovician,Berriasian
+Palaeonucula,148.55,nonHet,30.17,Palaeonucula,extinct,339.4,318.1,125,100.5,Visean,Early Cretaceous
+Paleyoldia,262.5,nonHet,12.975,Paleyoldia,extinct,407.6,393.3,259.9,254.17,Emsian,Wuchiapingian
+Palliolum,0.01,nonHet,37.15,Palliolum,extant,41.3,38,2.588,0.0117,Bartonian,Pleistocene
+Palus,96.9,nonHet,34.7,Palus,extinct,,,,,,
+Pandora,0.01,nonHet,48.3,Pandora,extant,66,61.6,0.0117,0,Cenozoic,
+Panomya,0.01,Het,179,Panomya,extant,28.1,23.03,0.0117,0,Chattian,Holocene
+Paphia,0.01,Het,110.8,Paphia,extant,113,100.5,0.0117,0,Albian,Cenozoic
+Paphies,0.01,nonHet,83,Paphies,extant,5.333,3.6,0.0117,0,Pliocene,Holocene
+Paphonotia,0.01,Het,40,Paphonotia,extant,0.126,0.0117,0.126,0.0117,Late Pleistocene,
+Papillicardium,0.01,nonHet,25,Papillicardium,extant,33.9,28.1,2.588,0.0117,Oligocene,Pleistocene
+Papyridea,0.01,nonHet,65.3,Papyridea,extant,41.3,38,0.126,0.0117,Bartonian,Pleistocene
+Paracaprinula,69.05,nonHet,232.15,Paracaprinula,extinct,83.5,70.6,72.1,66,Campanian,Maastrichtian
+Paradiceras,148.55,nonHet,38.05714286,Paradiceras,extinct,150.8,145,150.8,145,Tithonian,
+Paradoxia,186.75,nonHet,104.3857143,Paradoxia,extinct,190.8,182.7,190.8,182.7,Pliensbachian,
+Paraesa,69.05,nonHet,23.52,Paraesa,extinct,105.3,99.6,72.1,66,Albian,Late Cretaceous
+Paraglans,31,nonHet,14.345,Paraglans,extinct,55.8,48.6,41.3,38,Ypresian,Bartonian
+Parainoceramus,148.55,nonHet,54.5,Parainoceramus,extinct,279.3,272.3,132.9,125,Kungurian,Barremian
+Parallelodon,148.55,nonHet,116.325,Parallelodon,extinct,478.6,466,70.6,66,Ordovician,Mesozoic
+Parallelodus,455.7,nonHet,22.21,Parallelodus,extinct,478.6,471.8,460.9,449.5,Early Ordovician,Katian
+Paralucinella,31,nonHet,6.837777778,Paralucinella,extinct,33.9,28.4,33.9,23.03,Oligocene,
+Paramegalodus,204.9,nonHet,267.9666667,Paramegalodus,extinct,228,208.5,228,208.5,Norian,
+Paramodiola,455.7,nonHet,10.92,Paramodiola,extinct,460.9,452,460.9,449.5,Darriwilian,Katian
+Paramonopleura,57.6,nonHet,10.09333333,Paramonopleura,extinct,,,,,,
+Paramya,0.01,Het,15,Paramya,extant,13.82,11.62,0.0117,0,Serravallian,Holocene
+Paramytilarca,449.1,nonHet,12.53,Paramytilarca,extinct,460.9,452,453,445.2,Darriwilian,Katian
+Paranodonta,148.55,nonHet,52.36,Paranodonta,,145,130,145,130,Berriasian,Hauterivian
+Paranomia,69.05,nonHet,46,Paranomia,extinct,83.5,70.6,66,61.6,Campanian,Danian
+Parapholas,0.01,Het,158.6,Parapholas,extant,93.9,89.8,0.126,0,Turonian,Cenozoic
+Paraphtonia,455.7,nonHet,27.09,Paraphtonia,extinct,443.4,419.2,443.4,419.2,Silurian,
+Parasauvagesia,77.85,nonHet,248.4,Parasauvagesia,extinct,,,,,,
+Parastarte,0.01,nonHet,3.8,Parastarte,extant,37.2,33.9,0.0117,0,Priabonian,Holocene
+Parathyasira,0.01,nonHet,40.4,Parathyasira,extant,56,41.3,56,41.3,Ypresian,Lutetian
+Paraucellina,96.9,nonHet,8.465,Paraucellina,extinct,,,,,,
+Parisiella,39.65,nonHet,1.549,Parisiella,extinct,,,,,,
+Parmicorbula,35.95,Het,21.71333333,Parmicorbula,extinct,125.45,122.46,41.3,38,Barremian,Bartonian
+Parvamussium,0.01,nonHet,36,Parvamussium,extant,242,237,0.126,0.0117,Ladinian,Pleistocene
+Parvicardium,0.01,nonHet,20,Parvicardium,extant,66,61.6,0.0117,0,Cenozoic,
+Parvicorbis,35.95,nonHet,6.602222222,Parvicorbis,extinct,61.6,59.2,41.3,38,Selandian,Bartonian
+Parvilucina,4.47,Het,10.80227273,Parvilucina,extant,113,100.5,0.0117,0,Albian,Cenozoic
+Parvithracia,0.01,nonHet,6.5,Parvithracia,extant,,,,,,
+Passya,35.95,nonHet,6.360416667,Passya,extinct,,,,,,
+Patinopecten,0.01,nonHet,288,Patinopecten,extant,28.4,23.03,0.126,0.0117,Oligocene,Pleistocene
+Patro,0.01,nonHet,72.8,Patro,extant,5.333,3.6,5.333,3.6,Zanclean,
+Pecchiolia,4.47,nonHet,28.77,Pecchiolia,extinct,41.3,38,5.333,3.6,Bartonian,Zanclean
+Pecten,0.01,nonHet,197.9,Pecten,extant,345,336,0.0117,0,Visean,Cenozoic
+Pectinula,186.75,nonHet,17.26,Pectinula,extinct,199.3,190.8,182.7,174.1,Sinemurian,Toarcian
+Pectunculina,0.01,nonHet,18.61,Pectunculina,extant,201.3,183,0.0117,0,Jurassic,Cenozoic
+Pectunculus,0.01,Het,60.3,Pectunculus,extant,125,113,0.126,0,Aptian,Cenozoic
+Pedum,0.01,nonHet,108,Pedum,extant,,,,,,
+Pelecyora,0.01,Het,47.6,Pelecyora,extant,56,47.8,0.0117,0,Eocene,Holocene
+Penicillus,0.01,nonHet,193.4333333,Penicillus,extant,11.608,5.333,0.0117,0,Tortonian,Holocene
+Penitella,0.01,nonHet,132,Penitella,extant,28.4,23.03,0.126,0,Oligocene,Holocene
+Pentagrammysia,338.8,nonHet,56.45,Pentagrammysia,extinct,307,303.7,279.3,272.3,Kasimovian,Cisuralian
+Perampliata,160.4,nonHet,61.07142857,Perampliata,extinct,166.1,157.3,161.2,155.7,Callovian,Kimmeridgian
+Pergamidia,218.25,nonHet,72.54285714,Pergamidia,extinct,237,228,221.5,201.3,Late Triassic,
+Periglypta,0.01,nonHet,153.1,Periglypta,extant,47.8,41.3,0.126,0,Lutetian,Holocene
+Periploma,0.01,nonHet,65.6,Periploma,extant,125,113,0.0117,0,Aptian,Cenozoic
+Periplomya,69.05,nonHet,44.18,Periplomya,extinct,136.4,130,59.2,56,Valanginian,Paleocene
+Permophorus,257.05,nonHet,22.85757576,Permophorus,extinct,358.9,336,201.3,189.6,Carboniferous,Pliensbachian
+Perna,0.01,nonHet,191,Perna,extant,,,,,,
+Pernopecten,257.05,nonHet,21.65,Pernopecten,extinct,364.7,360.7,251.3,247.2,Famennian,Early Triassic
+Pernostrea,164.8,nonHet,189.0333333,Pernostrea,extinct,164.7,161.2,164.7,161.2,Callovian,Oxfordian
+Perrierina,0.01,nonHet,3.5,Perrierina,extant,5.333,2.588,5.333,2.588,Pliocene,
+Perucardia,0.01,Het,53.64,Perucardia,extinct,83.5,70.6,70.6,66,Campanian,Maastrichtian
+Petalocardia,31,nonHet,4.7325,Petalocardia,extinct,56,47.8,47.8,37.2,Ypresian,Eocene
+Petalodontia,69.05,Het,40.36,Petalodontia,extinct,132.9,125,99.6,93.5,Hauterivian,Turonian
+Petkovicia,84.95,nonHet,71.89333333,Petkovicia,extinct,93.9,89.8,70.6,66,Turonian,Maastrichtian
+Petricola,0.01,Het,63,Petricola,extant,113,100.5,0.0117,0,Albian,Cenozoic
+Phaenodesmia,218.25,nonHet,25.1,Phaenodesmia,extinct,247.2,242,83.5,70.6,Middle Triassic,Cretaceous
+Pharella,0.01,nonHet,99.9,Pharella,extant,113,100.5,100.5,93.9,Albian,Cenomanian
+Pharodina,96.9,nonHet,31.35,Pharodina,extinct,100.5,93.9,93.5,89.3,Cenomanian,Coniacian
+Pharus,0.01,nonHet,135,Pharus,extant,23.03,20.44,20.44,15.97,Aquitanian,Burdigalian
+Phaxas,0.01,Het,41,Phaxas,extant,48.6,41.3,2.588,0.781,Eocene,Calabrian
+Phelopteria,69.05,nonHet,55.54,Phelopteria,extinct,130,125.45,66,61.6,Hauterivian,Danian
+Philobrya,0.01,nonHet,15,Philobrya,extant,21.7,19,0.0117,0,Neogene,Holocene
+Pholadella,305.35,nonHet,61.02,Pholadella,extinct,407.6,393.3,259.9,254.17,Emsian,Wuchiapingian
+Pholadidea,0.01,Het,51.2,Pholadidea,extant,83.6,72.1,5.333,3.6,Campanian,Zanclean
+Pholadomorpha,449.1,nonHet,76.56,Pholadomorpha,extinct,460.9,449.5,449.5,443.7,Darriwilian,Late Ordovician
+Pholadomya,0.01,nonHet,120,Pholadomya,extant,251.3,247.2,3.6,2.588,Mesozoic,Neogene
+Pholas,0.01,Het,159,Pholas,extant,125.45,122.46,0.0117,0,Barremian,Cenozoic
+Phragmorisma,0.01,nonHet,71.3,Phragmorisma,extant,28.4,15.97,28.4,15.97,Oligocene,Burdigalian
+Phrynelima,0.01,nonHet,11.1,Phrynelima,extant,201.3,183,0.0117,0,Jurassic,Cenozoic
+Phthonia,377.45,nonHet,38.65,Phthonia,extinct,427.4,425.6,387.7,382.7,Ludlow,Middle Devonian
+Phylloda,0.01,Het,86.1,Phylloda,,,,,,,
+Physocardia,231.5,nonHet,64.27142857,Physocardia,extinct,247.2,242,228,208.5,Middle Triassic,Norian
+Physoida,0.01,nonHet,12.31666667,Physoida,extant,56,47.8,56,47.8,Ypresian,
+Physunio,0.01,nonHet,89.34,Physunio,extant,,,,,,
+Pilea,0.01,nonHet,42.46,Pilea,extant,7.246,3.6,5.333,0.0117,Messinian,Pleistocene
+Pillucina,0.01,Het,6.173214286,Pillucina,extant,15.97,13.82,0.0117,0,Langhian,Holocene
+Pinctada,0.01,nonHet,359.3,Pinctada,extant,237,201.3,0.0117,0,Late Triassic,Cenozoic
+Pinguitellina,0.01,Het,11.99,Pinguitellina,extant,0.126,0.0117,0.126,0.0117,Late Pleistocene,
+Pinna,0.01,nonHet,1200,Pinna,extant,358.9,342.8,0.126,0.0117,Carboniferous,Pleistocene
+Pinzonella,262.5,nonHet,23.06153846,Pinzonella,extinct,268.8,265.1,265.1,254.17,Wordian,Wuchiapingian
+Pitar,0.01,Het,90,Pitar,extant,100.5,93.9,0.0117,0,Late Cretaceous,Cenozoic
+Placamen,0.01,nonHet,45,Placamen,extant,37.2,33.9,0.126,0.0117,Priabonian,Pleistocene
+Placopecten,0.01,nonHet,230,Placopecten,extant,41.3,38,0.0117,0,Bartonian,Holocene
+Placuna,0.01,nonHet,225.7,Placuna,extant,23.03,15.97,0.0117,0,Neogene,Holocene
+Placunanomia,0.01,nonHet,107.94,Placunanomia,extant,28.1,23.03,2.588,0.781,Chattian,Calabrian
+Placunopsis,63.8,nonHet,33.79,Placunopsis,extinct,251.3,247.2,66,61.6,Mesozoic,Danian
+Plagioptychus,69.05,Het,140.75,Plagioptychus,extinct,99.6,93.5,70.6,66,Late Cretaceous,Maastrichtian
+Plagiostoma,69.05,nonHet,78.65333333,Plagiostoma,extinct,295.5,290.1,66,61.6,Sakmarian,Danian
+Planospirites,69.05,nonHet,71.21428571,Planospirites,extinct,,,,,,
+Plastomiltha,4.47,Het,40.61,Plastomiltha,extinct,66,61.6,41.3,37.2,Paleocene,Eocene
+Platilimaria,0.01,nonHet,37,Platilimaria,extant,,,,,,
+Platycardia,148.55,nonHet,55.51,Platycardia,extinct,,,,,,
+Platygena,35.95,nonHet,144.4583333,Platygena,extinct,37.2,33.9,37.2,33.9,Priabonian,
+Platymyoidea,127.2,nonHet,103.5857143,Platymyoidea,extinct,212,205.6,89.3,70.6,Norian,Cretaceous
+Platyodon,0.01,Het,55.94,Platyodon,extant,28.1,23.03,0.126,0.0117,Chattian,Pleistocene
+Plebidonax,0.01,Het,78,Plebidonax,extant,,,,,,
+Plectodon,0.01,nonHet,34,Plectodon,extant,33.9,28.1,0.781,0.0117,Oligocene,Pleistocene
+Plectomya,69.05,nonHet,51.92,Plectomya,extinct,166.1,163.5,70.6,66,Callovian,Cretaceous
+Pleiorytis,4.47,nonHet,49.94,Pleiorytis,extinct,28.1,23.03,3.6,2.588,Chattian,Neogene
+Plesiastarte,35.95,nonHet,2.988571429,Plesiastarte,extinct,,,,,,
+Plesiocyprina,164.8,nonHet,11.12352941,Plesiocyprina,extinct,201.3,199.3,174.1,170.3,Early Jurassic,Aalenian
+Plesiocyprinella,262.5,nonHet,37.71333333,Plesiocyprinella,extinct,268.8,254.17,265.1,254.17,Wordian,Wuchiapingian
+Plesiodiceras,154.7,nonHet,44.17,Plesiodiceras,extinct,161.2,155.7,150.8,145,Late Jurassic,Tithonian
+Pleurodesma,6.29,Het,21.41,Pleurodesma,extinct,23.03,20.44,23.03,20.44,Aquitanian,
+Pleurogrammatodon,69.05,nonHet,114.22,Pleurogrammatodon,extinct,83.6,72.1,72.1,66,Campanian,Maastrichtian
+Pleuromeris,0.01,nonHet,20,Pleuromeris,extant,66,61.6,0.126,0.0117,Paleogene,Pleistocene
+Pleuromya,69.05,nonHet,45.69,Pleuromya,extinct,252.17,251.3,59.2,56,Mesozoic,Paleocene
+Pleurophopsis,25.57,nonHet,245.5,Pleurophopsis,extinct,38,33.9,11.608,5.333,Priabonian,Miocene
+Plicacesta,0.01,nonHet,130,Plicacesta,extant,72.1,66,28.1,23.03,Maastrichtian,Paleogene
+Plicatula,0.01,nonHet,52.1,Plicatula,extant,251.2,247.2,0.0117,0,Olenekian,Cenozoic
+Pliocardia,18.21,nonHet,114,Pliocardia,extant,47.8,41.3,0.126,0.0117,Lutetian,Pleistocene
+Pododesmus,0.01,nonHet,88.3,Pododesmus,extant,33.9,28.4,0.126,0.0117,Oligocene,Pleistocene
+Pollex,69.05,nonHet,34.15,Pollex,extinct,113,100.5,93.5,89.3,Albian,Coniacian
+Polyconites,96.9,nonHet,109.4133333,Polyconites,extinct,129.4,122.46,99.6,93.5,Barremian,Turonian
+Popenaias,0.01,nonHet,58.6625,Popenaias,extant,,,,,,
+Poroleda,0.01,nonHet,20,Poroleda,extant,41.3,38,20.44,15.97,Bartonian,Burdigalian
+Poromya,0.01,nonHet,64,Poromya,extant,105.3,93.9,0.781,0.126,Albian,Middle Pleistocene
+Porterius,0.01,nonHet,53,Porterius,extant,66,61.6,3.6,2.588,Paleogene,Neogene
+Portlandia,0.01,nonHet,31,Portlandia,extant,129.4,125,0.0117,0,Barremian,Cenozoic
+Posidoniella,319.2,nonHet,43.32,Posidoniella,extinct,358.9,346.7,254.17,252.17,Carboniferous,Permian
+Posidonotis,172.2,nonHet,15.915,Posidonotis,extinct,199.3,190.8,182.7,174.1,Sinemurian,Toarcian
+Postligata,69.05,nonHet,8.9775,Postligata,extinct,83.6,72.1,70.6,66,Campanian,Maastrichtian
+Potomida,0.01,nonHet,37.97,Potomida,extant,174.1,168.3,2.588,0.781,Middle Jurassic,Calabrian
+Praeanomalodonta,444.3,nonHet,15.11,Praeanomalodonta,extinct,453,445.2,445.2,443.4,Katian,Hirnantian
+Praebarrettia,69.05,nonHet,190.2333333,Praebarrettia,extinct,86.3,83.6,70.6,66,Santonian,Maastrichtian
+Praecaprina,119,nonHet,110.42,Praecaprina,extinct,130,122.46,125,113,Hauterivian,Aptian
+Praecaprotina,119,nonHet,95.68,Praecaprotina,extinct,125,113,122.46,112.03,Aptian,Albian
+Praecardium,365.55,nonHet,42.01,Praecardium,extinct,433.4,427.4,387.7,372.2,Wenlock,Frasnian
+Praeconia,148.55,nonHet,36.99,Praeconia,extinct,212,205.6,150.8,145,Norian,Jurassic
+Praegonia,238.5,nonHet,43.43,Praegonia,extinct,242,237,242,237,Ladinian,
+Praemytilus,167.2,nonHet,28.81666667,Praemytilus,extinct,168.3,166.1,168.3,166.1,Bathonian,
+Praenucula,428.95,nonHet,10.47,Praenucula,extinct,478.6,471.8,422.9,421.3,Ordovician,Silurian
+Praeradiolites,69.05,nonHet,91.4,Praeradiolites,extinct,125,112.03,70.6,66,Aptian,Late Cretaceous
+Priscomactra,69.05,nonHet,23.89,Priscomactra,extinct,100.5,93.9,100.5,93.9,Cenomanian,
+Prisodontopsis,0.01,nonHet,48.81,Prisodontopsis,extant,125.45,122.46,105.3,99.6,Barremian,Cenomanian
+Pristigloma,0.01,nonHet,3.5,Pristigloma,extant,20.44,15.97,20.44,15.97,Burdigalian,
+Procardia,0.01,nonHet,57.58,Procardia,extinct,161.2,155.7,72.1,66,Late Jurassic,Cretaceous
+Procyprina,136.35,nonHet,21.1,Procyprina,extinct,166.1,163.5,150.8,145,Callovian,Late Jurassic
+Prohinnites,119,nonHet,33.82,Prohinnites,extinct,140.2,130,113,100.5,Early Cretaceous,Albian
+Prolaria,204.9,nonHet,51.1,Prolaria,extinct,237,201.3,237,201.3,Late Triassic,
+Prolobella,455.7,nonHet,25.85,Prolobella,extinct,460.9,449.5,452,449.5,Darriwilian,Katian
+Promacrus,352.8,nonHet,113.4666667,Promacrus,extinct,358.9,323.2,358.9,323.2,Mississippian,
+Promantellum,0.01,nonHet,40,Promantellum,extant,242,237,0.0117,0,Ladinian,Cenozoic
+Promyalina,249.2,nonHet,20.84,Promyalina,extinct,279.3,272.3,251.2,247.2,Kungurian,Early Triassic
+Pronoella,148.55,Het,45.64,Pronoella,extinct,190.8,183,140.2,136.4,Pliensbachian,Valanginian
+Propeamussium,0.01,nonHet,89.8,Propeamussium,extant,237,228,7.246,3.6,Late Triassic,Zanclean
+Propeleda,0.01,nonHet,26,Propeleda,extant,38,33.9,3.6,2.588,Priabonian,Neogene
+Prophetilora,0.01,Het,37.15,Prophetilora,extant,66,61.6,11.608,5.333,Paleogene,Miocene
+Prorokia,148.55,nonHet,10.81,Prorokia,extinct,171.6,168.3,145,139.8,Middle Jurassic,Berriasian
+Prorotrigonia,218.25,nonHet,35.56,Prorotrigonia,extinct,228,215.56,221.5,208.5,Norian,
+Prosocoelus,409.2,Het,93.83333333,Prosocoelus,extinct,407.6,393.3,402.5,391.9,Emsian,Eifelian
+Prosogyrotrigonia,195.05,nonHet,67.61428571,Prosogyrotrigonia,extinct,228,208.5,196.5,189.6,Norian,Pliensbachian
+Protarca,69.05,nonHet,67.9,Protarca,extinct,100.5,93.9,86.3,83.6,Cenomanian,Santonian
+Protocardia,69.05,Het,41.02,Protocardia,extinct,237,228,2.588,0.0117,Late Triassic,Pleistocene
+Protodiceras,186.75,nonHet,44.86,Protodiceras,extinct,189.6,183,189.6,183,Pliensbachian,
+Protohyridella,0.01,nonHet,71.48,Protohyridella,,,,,,,
+Protomya,385.2,nonHet,67.15714286,Protomya,extinct,460.9,455.8,387.7,382.7,Darriwilian,Middle Devonian
+Protonoetia,39.65,nonHet,28.29,Protonoetia,extinct,56,41.3,37.2,33.9,Eocene,
+Proveniella,69.05,nonHet,51.28,Proveniella,extinct,139.8,129.4,85.8,83.5,Valanginian,Campanian
+Psammotella,0.01,Het,92.8,Psammotella,extant,2.588,0.781,2.588,0.781,Gelasian,Calabrian
+Psammotellina,0.01,Het,51.76,Psammotellina,extant,2.588,0.0117,0.0117,0,Pleistocene,Holocene
+Psammotreta,0.01,Het,27.86,Psammotreta,extant,56,33.9,0.0117,0,Eocene,Holocene
+Psathura,35.95,nonHet,24.95,Psathura,extinct,47.8,41.3,47.8,41.3,Lutetian,
+Psephidia,0.01,nonHet,7.283333333,Psephidia,extant,7.246,5.333,0.126,0,Messinian,Holocene
+Pseudamussium,0.01,nonHet,62,Pseudamussium,extant,358.9,323.2,0.781,0.126,Carboniferous,Middle Pleistocene
+Pseudanodonta,0.01,nonHet,66.41428571,Pseudanodonta,extant,,,,,,
+Pseudarcopagia,0.01,Het,58.24,Pseudarcopagia,,,,,,,
+Pseudasaphis,69.05,nonHet,28.46,Pseudasaphis,extinct,113,100.5,99.6,93.5,Albian,Turonian
+Pseudaucella,186.75,nonHet,38.87,Pseudaucella,extinct,190.8,182.7,182.7,174.1,Pliensbachian,Toarcian
+Pseudavicula,106.75,nonHet,37.43,Pseudavicula,extant,125.45,122.46,105.3,99.6,Barremian,Cenomanian
+Pseudaviculopecten,352.8,nonHet,78.77,Pseudaviculopecten,extinct,409.1,402.5,336,326.4,Pragian,Mississippian
+Pseudisocardia,164.8,nonHet,63.65,Pseudisocardia,extinct,175.6,171.6,163.5,157.3,Toarcian,Oxfordian
+Pseudocardinia,167.2,nonHet,34.82,Pseudocardinia,extinct,166.1,152.1,166.1,152.1,Callovian,Kimmeridgian
+Pseudocardium,0.01,Het,67.6,Pseudocardium,extant,56,48.6,2.588,0.781,Eocene,Calabrian
+Pseudochama,0.01,Het,90,Pseudochama,extant,41.3,38,0.126,0,Bartonian,Holocene
+Pseudocorbula,204.9,nonHet,6.956666667,Pseudocorbula,extinct,252.17,251.3,208.5,201.3,Triassic,
+Pseudocucullaea,69.05,nonHet,26.26666667,Pseudocucullaea,extinct,93.5,89.3,72.1,66,Turonian,Maastrichtian
+Pseudocuspidaria,35.95,nonHet,36.93,Pseudocuspidaria,extinct,56,47.8,47.8,41.3,Ypresian,Lutetian
+Pseudodon,0.01,nonHet,59.89333333,Pseudodon,extant,,,,,,
+Pseudoglomus,0.01,nonHet,3.878333333,Pseudoglomus,extant,,,,,,
+Pseudoheligmus,39.65,nonHet,44.82,Pseudoheligmus,extinct,66,56,59.2,56,Paleocene,
+Pseudomiltha,4.47,Het,91.02857143,Pseudomiltha,extant,183,175.6,0.0117,0,Pliensbachian,Cenozoic
+Pseudomonotis,257.05,nonHet,28.16,Pseudomonotis,extinct,339.4,326.4,139.8,132.9,Visean,Valanginian
+Pseudomulleria,0.01,nonHet,48.3,Pseudomulleria,extant,,,,,,
+Pseudomyalina,275.8,nonHet,161.2,Pseudomyalina,extinct,295.5,290.1,272.3,268.8,Sakmarian,Roadian
+Pseudomytiloides,172.2,nonHet,39.37,Pseudomytiloides,extinct,208.5,201.3,175.6,171.6,Rhaetian,Aalenian
+Pseudopecten,169.3,nonHet,116.625,Pseudopecten,extinct,208.5,201.3,157.3,150.8,Rhaetian,Jurassic
+Pseudoperna,84.95,nonHet,23.645,Pseudoperna,extinct,93.9,89.8,70.6,66,Turonian,Maastrichtian
+Pseudopleurophorus,69.05,nonHet,18.76,Pseudopleurophorus,extinct,,,,,,
+Pseudosaxicava,0.01,Het,12.865,Pseudosaxicava,extinct,201.3,196.5,201.3,196.5,Hettangian,Sinemurian
+Pseudospatha,0.01,nonHet,88.87272727,Pseudospatha,extant,,,,,,
+Pseudotrapezium,148.55,nonHet,42.15714286,Pseudotrapezium,extinct,201.3,196.5,125,113,Jurassic,Aptian
+Pseudovola,167.2,nonHet,38.78,Pseudovola,extinct,161.2,155.7,161.2,155.7,Oxfordian,Kimmeridgian
+Pterelectroma,0.01,nonHet,18.59230769,Pterelectroma,,,,,,,
+Pteria,0.01,nonHet,322,Pteria,extant,419.2,410.8,0.126,0,Devonian,Cenozoic
+Pterinea,390.5,nonHet,56.09,Pterinea,extinct,460.9,452.5,247.2,242,Darriwilian,Anisian
+Pterinopecten,352.8,nonHet,37.96,Pterinopecten,extinct,440.8,433.4,259.9,254.17,Aeronian,Wuchiapingian
+Pterinopectinella,270.55,nonHet,31.56,Pterinopectinella,extinct,382.7,372.2,268.8,265.1,Late Devonian,Wordian
+Pterocardia,119,nonHet,89.91428571,Pterocardia,extinct,183,182,150.8,145,Pliensbachian,Late Jurassic
+Pterochaenia,377.45,nonHet,8.655,Pterochaenia,extinct,423,419.2,382.7,372.2,Pridoli,Frasnian
+Pterolucina,18.21,nonHet,24.57,Pterolucina,extinct,56,47.8,15.97,11.608,Eocene,Tortonian
+Pteromeris,0.01,Het,9,Pteromeris,extant,66,61.6,0.126,0.0117,Paleogene,Pleistocene
+Pteromya,200.3,nonHet,39.58,Pteromya,extinct,208.5,201.3,201.3,196.5,Rhaetian,Sinemurian
+Pteromyrtea,1.3,Het,17.29090909,Pteromyrtea,extinct,72.1,66,11.608,5.333,Maastrichtian,Miocene
+Pteronitella,421.1,nonHet,48.12,Pteronitella,extinct,443.4,433.4,419.2,391.9,Silurian,Eifelian
+Pteronites,262.5,nonHet,96.08,Pteronites,extinct,433.4,427.4,254.17,252.17,Wenlock,Permian
+Pteroperna,148.55,nonHet,53.8,Pteroperna,extinct,228,208.5,150.8,145,Norian,Jurassic
+Pteropsella,39.65,nonHet,66.1,Pteropsella,extinct,48.6,41.3,41.3,37.2,Ypresian,Priabonian
+Pterotrigonia,69.05,nonHet,64.53,Pterotrigonia,extinct,164.7,161.2,70.6,66,Callovian,Cretaceous
+Ptychobranchus,0.01,nonHet,98.06,Ptychobranchus,extant,,,,,,
+Ptychomya,69.05,Het,70.66,Ptychomya,extinct,157.3,152.1,113,100.5,Kimmeridgian,Early Cretaceous
+Ptychopteria,327.05,nonHet,34.87,Ptychopteria,extinct,433.4,427.4,315.2,295.5,Wenlock,Asselian
+Pulsidis,0.01,Het,9.9,Pulsidis,extinct,145,130,93.5,89.3,Early Cretaceous,Coniacian
+Pulvinites,0.01,nonHet,130,Pulvinites,extant,190.8,183,58.7,55.8,Pliensbachian,Ypresian
+Pulvinostrea,39.65,nonHet,42.4,Pulvinostrea,extinct,,,,,,
+Punipagia,0.01,Het,21.2,Punipagia,extant,,,,,,
+Purpurocardia,0.01,nonHet,50,Purpurocardia,extant,83.6,66,0.781,0.126,Campanian,Middle Pleistocene
+Puyseguria,0.01,nonHet,1.7,Puyseguria,extant,,,,,,
+Pycnodonte,0.01,nonHet,138,Pycnodonte,extant,140.2,136.4,0.126,0.0117,Cretaceous,Pleistocene
+Pygocardia,4.47,nonHet,60.16,Pygocardia,extant,28.1,23.03,2.588,0.0117,Chattian,Pleistocene
+Pythina,0.01,nonHet,12.946875,Pythina,extant,11.608,5.333,0.126,0.0117,Tortonian,Pleistocene
+Quadrans,0.01,Het,33.41,Quadrans,extant,83.5,70.6,3.6,0.0117,Campanian,Pleistocene
+Quadratia,327.05,art,35.52,Quadratia,extinct,247.2,242,247.2,237,Middle Triassic,
+Quadratonucula,292.8,nonHet,6.596666667,Quadratonucula,extinct,323.2,307,265.1,259.9,Pennsylvanian,Guadalupian
+Quadratotrigonia,69.05,nonHet,73.57142857,Quadratotrigonia,extinct,139.8,132.9,93.9,89.8,Valanginian,Turonian
+Quadrostrea,77.85,nonHet,69.13,Quadrostrea,extinct,,,,,,
+Quantulopinna,0.01,nonHet,250,Quantulopinna,extant,,,,,,
+Quenstedtia,148.55,nonHet,45.78,Quenstedtia,extinct,443.4,419.2,105.3,99.6,Silurian,Cenomanian
+Quidnipagus,0.01,Het,65.1,Quidnipagus,extant,0.781,0.0117,0.126,0.0117,Middle Pleistocene,Late Pleistocene
+Quoiecchia,127.2,nonHet,20.865,Quoiecchia,extinct,129.4,125,129.4,125,Barremian,
+Radiolitella,69.05,nonHet,23.89,Radiolitella,extinct,86.3,83.5,70.6,66,Santonian,Maastrichtian
+Radiopecten,0.01,nonHet,53.18571429,Radiopecten,extinct,83.6,72.1,70.6,66,Campanian,Maastrichtian
+Radulonectites,186.75,nonHet,48.2,Radulonectites,extinct,237,208.5,189.6,174.1,Late Triassic,Early Jurassic
+Radulopecten,0.01,nonHet,25.54,Radulopecten,extinct,174.1,168.3,150.8,145,Middle Jurassic,Late Jurassic
+Raeta,0.01,Het,130,Raeta,extant,72.1,66,0.0117,0,Maastrichtian,Cenozoic
+Raetomya,35.95,Het,90.36,Raetomya,extinct,66,55.8,37.2,33.9,Paleocene,Eocene
+Rakhia,51.9,nonHet,47.98,Rakhia,extinct,,,,,,
+Ramsetia,69.05,Het,28.71,Ramsetia,extinct,72.1,66,72.1,66,Maastrichtian,
+Rangia,0.01,Het,78,Rangia,extant,100.5,93.9,0.0117,0,Late Cretaceous,Cenozoic
+Recurvella,31,nonHet,8.879166667,Recurvella,extinct,41.3,38,41.3,38,Bartonian,
+Redonia,462.85,nonHet,28.58,Redonia,extinct,485.4,477.7,460.9,449.5,Early Ordovician,Katian
+Requienia,77.85,nonHet,94.5,Requienia,extinct,157.3,145,72.1,66,Kimmeridgian,Cretaceous
+Resania,0.01,nonHet,109.5,Resania,extant,11.608,5.333,11.608,5.333,Tortonian,Messinian
+Retha,119,nonHet,73.7,Retha,extinct,132.9,129.4,132.9,129.4,Hauterivian,
+Retroceramus,142.4,nonHet,113.2142857,Retroceramus,extinct,199.3,190.8,148.5,145,Sinemurian,Late Jurassic
+Reubenia,231.5,nonHet,32.56,Reubenia,extinct,252.17,251.3,208.5,201.3,Triassic,
+Rhaetavicula,204.9,nonHet,15.82666667,Rhaetavicula,extinct,237,201.3,208.5,201.3,Late Triassic,
+Rhaetidia,218.25,nonHet,11.91,Rhaetidia,extinct,247.2,237,235,208.5,Middle Triassic,Norian
+Rhectomyax,69.05,nonHet,6.015,Rhectomyax,extinct,99.6,93.5,83.5,70.6,Cenomanian,Maastrichtian
+Rhenania,385.2,nonHet,11.65,Rhenania,extinct,,,,,,
+Rhipidodonta,0.01,nonHet,45.7875,Rhipidodonta,extant,,,,,,
+Rhomboidella,0.01,nonHet,10,Rhomboidella,extant,,,,,,
+Rhombopteria,424.3,nonHet,19.64,Rhombopteria,extinct,443.4,430.5,412.3,409.1,Silurian,Pragian
+Rhynchomytilus,160.4,nonHet,38.13,Rhynchomytilus,extinct,,,,,,
+Rhynchostreon,69.05,nonHet,83.41428571,Rhynchostreon,extinct,140.2,136.4,86.3,83.6,Early Cretaceous,Santonian
+Rimmyjimina,284.7,nonHet,7.826,Rimmyjimina,extinct,290.1,279.3,259.9,254.17,Artinskian,Wuchiapingian
+Robertella,69.05,nonHet,35.71428571,Robertella,extinct,,,,,,
+Rochefortula,0.01,nonHet,2.68,Rochefortula,extant,,,,,,
+Rollierella,167.2,nonHet,25.69,Rollierella,extinct,190.8,182.7,150.8,145,Pliensbachian,Late Jurassic
+Rostroperna,0.01,nonHet,136.32,Rostroperna,extinct,166.1,161.2,150.8,145,Callovian,Late Jurassic
+Roxoa,262.5,Het,18.87,Roxoa,extinct,268.8,254.17,265.1,254.17,Wordian,Wuchiapingian
+Ruditapes,0.01,nonHet,70,Ruditapes,extant,5.333,3.6,0.781,0.126,Pliocene,Middle Pleistocene
+Rupellaria,0.01,Het,31.6,Rupellaria,extant,13.82,11.62,5.333,2.588,Serravallian,Pliocene
+Rutitrigonia,69.05,nonHet,50.79,Rutitrigonia,extinct,157.3,152.1,99.6,93.5,Kimmeridgian,Turonian
+Ryderia,186.75,nonHet,31.55,Ryderia,extinct,208.5,201.3,174.1,163.5,Rhaetian,Middle Jurassic
+Rzehakia,12.72,nonHet,40.74,Rzehakia,extinct,,,,,,
+Saccella,0.01,nonHet,43,Saccella,extant,72.1,66,0.0117,0,Maastrichtian,Cenozoic
+Saccostrea,0.01,nonHet,255,Saccostrea,extant,47.8,41.3,0.0117,0,Lutetian,Holocene
+Saffordia,449.1,nonHet,27.71,Saffordia,extinct,460.9,449.5,452,445.2,Darriwilian,Katian
+Sainschandia,84.95,nonHet,46.13,Sainschandia,extinct,,,,,,
+Sakawanella,231.5,nonHet,15.405,Sakawanella,extinct,237,228,237,228,Carnian,
+Salaputium,0.01,nonHet,12.465,Salaputium,extant,41.3,38,5.333,3.6,Bartonian,Zanclean
+Samacar,0.01,nonHet,25,Samacar,extant,,,,,,
+Sanguinolaria,0.01,Het,78.3,Sanguinolaria,extant,59.2,47.8,3.6,2.588,Thanetian,Neogene
+Sanguinolites,262.5,nonHet,25.58,Sanguinolites,extinct,430.5,425.6,254.17,252.17,Homerian,Permian
+Sarepta,0.01,nonHet,12,Sarepta,extant,254.17,252.17,19,15.9,Changhsingian,Langhian
+Sawkinsia,18.21,nonHet,40.43,Sawkinsia,extinct,37.2,33.9,33.9,28.4,Priabonian,Rupelian
+Saxicavella,0.01,Het,12,Saxicavella,extant,59.2,56,23.03,15.97,Thanetian,Burdigalian
+Saxidomus,0.01,nonHet,148,Saxidomus,extant,56,48.6,0.126,0,Eocene,Holocene
+Saxolucina,31,Het,20.85294118,Saxolucina,extinct,66,61.6,15.97,13.82,Paleogene,Langhian
+Scacchia,0.01,Het,6.2,Scacchia,extant,20.44,15.97,3.6,2.588,Burdigalian,Pliocene
+Scalpomactra,0.01,nonHet,32,Scalpomactra,extant,47.8,41.3,1.63,0.34,Lutetian,Middle Pleistocene
+Scambula,69.05,nonHet,12.145,Scambula,extinct,83.6,72.1,3.6,2.588,Campanian,Neogene
+Scapharca,0.01,nonHet,150,Scapharca,extant,48.6,28.4,0.0117,0,Eocene,Holocene
+Scaphellina,262.5,nonHet,53.15454546,Scaphellina,extinct,290.1,272.3,259.9,252.17,Artinskian,Lopingian
+Scaphula,0.01,nonHet,13,Scaphula,extant,,,,,,
+Schafhaeutlia,218.25,nonHet,28.44,Schafhaeutlia,extinct,252.17,251.3,189.6,182.7,Triassic,Pliensbachian
+Schedotrapezium,69.05,nonHet,9.046666667,Schedotrapezium,extinct,,,,,,
+Schizocardita,218.25,nonHet,13.635,Schizocardita,extinct,,,,,,
+Schizodus,257.05,nonHet,51.26,Schizodus,extinct,430.5,425.6,0.781,0.126,Homerian,Middle Pleistocene
+Scintillona,0.01,nonHet,6.226086957,Scintillona,extant,,,,,,
+Scittila,119,nonHet,24.47,Scittila,extinct,145,130,125,113,Berriasian,Aptian
+Scrobiculabra,35.95,nonHet,23.555,Scrobiculabra,extinct,66,58.7,66,58.7,Danian,Paleocene
+Scrobicularia,0.01,nonHet,65,Scrobicularia,extant,11.608,5.333,0.126,0.0117,Tortonian,Pleistocene
+Scutarcopagia,0.01,Het,68.52,Scutarcopagia,extant,11.608,5.333,0.126,0.0117,Tortonian,Pleistocene
+Sectipecten,0.01,nonHet,108.5,Sectipecten,extinct,28.1,23.03,6.5,5.333,Chattian,Miocene
+Selenimyalina,284.7,nonHet,24.57,Selenimyalina,extinct,345.3,345,254.17,252.17,Visean,Permian
+Sellaea,96.9,nonHet,108.12,Sellaea,extinct,122.46,109,105.3,99.6,Aptian,Cenomanian
+Semelangulus,0.01,Het,27.31,Semelangulus,extant,5.333,0.0117,0.126,0.0117,Pliocene,Pleistocene
+Semele,0.01,nonHet,119.2,Semele,extant,66,56,0.0117,0,Cenozoic,
+Semelina,0.01,nonHet,9.39,Semelina,extant,33.9,28.1,2.588,0.781,Oligocene,Calabrian
+Semicorallidomus,449.1,nonHet,7.236,Semicorallidomus,extinct,457.5,455.8,445.2,443.4,Late Ordovician,Hirnantian
+Semierycina,0.01,Het,2.34137931,Semierycina,extant,11.62,7.246,2.588,1.806,Tortonian,Gelasian
+Semimodiola,35.95,nonHet,24.38,Semimodiola,extinct,66,58.7,47.8,37.2,Paleocene,Eocene
+Semimytilus,0.01,nonHet,72,Semimytilus,extant,0.126,0.0117,0.126,0.0117,Late Pleistocene,
+Semipallium,0.01,nonHet,75.8,Semipallium,extant,37.2,33.9,0.126,0.0117,Priabonian,Pleistocene
+Semuridia,195.05,nonHet,57.68,Semuridia,extinct,199.3,190.8,196.5,189.6,Sinemurian,Pliensbachian
+Senectidens,0.01,nonHet,25,Senectidens,extant,201.3,183,0.0117,0,Jurassic,Cenozoic
+Senilia,0.01,nonHet,135,Senilia,extant,23.03,15.97,0.781,0.126,Neogene,Middle Pleistocene
+Senis,69.05,nonHet,22.10666667,Senis,extinct,150.8,145,72.1,66,Tithonian,Cretaceous
+Septeuilia,35.95,nonHet,5.736666667,Septeuilia,extinct,,,,,,
+Septihoernesia,231.5,nonHet,46.03,Septihoernesia,extinct,237,232,228,208.5,Carnian,Norian
+Septimyalina,270.55,nonHet,38.78,Septimyalina,extinct,345,336,254.17,252.17,Visean,Permian
+Septocardia,218.25,nonHet,26.89,Septocardia,extinct,242,235,208.5,201.3,Ladinian,Late Triassic
+Serania,218.25,nonHet,48.21,Serania,extinct,247.2,242,208.5,201.3,Middle Triassic,Late Triassic
+Serratina,0.01,Het,28.1,Serratina,extant,23.03,15.97,1.63,0.34,Neogene,Middle Pleistocene
+Serripecten,0.01,nonHet,109.1,Serripecten,extinct,61.6,56,11.608,3.6,Selandian,Zanclean
+Serripes,0.01,nonHet,137,Serripes,extant,33.9,23.03,0.0117,0,Oligocene,Holocene
+Servatrina,0.01,nonHet,600,Servatrina,extant,,,,,,
+Shanina,462.85,nonHet,22.97,Shanina,extinct,,,,,,
+Shaninopsis,449.1,nonHet,22.65,Shaninopsis,extinct,453,445.2,449.5,443.4,Katian,Hirnantian
+Sheldonella,0.01,nonHet,43.1,Sheldonella,extant,23.03,20.44,0.0117,0,Neogene,Holocene
+Shistodesmus,0.01,nonHet,53.59,Shistodesmus,,145,100.5,145,100.5,Early Cretaceous,
+Siliqua,0.01,Het,131.6333333,Siliqua,extant,145,132.9,0.0117,0,Cretaceous,Cenozoic
+Simacia,96.9,nonHet,21.25333333,Simacia,extinct,99.6,93.5,99.6,93.5,Cenomanian,Turonian
+Similipecten,0.01,nonHet,32.5,Similipecten,extant,33.9,28.1,0.0117,0,Oligocene,Holocene
+Similodonta,428.95,nonHet,16.275,Similodonta,extinct,470,467.3,427.4,423,Middle Ordovician,Ludlow
+Simomactra,0.01,Het,103.3,Simomactra,extant,38,33.9,0.126,0,Priabonian,Holocene
+Sinonia,96.9,nonHet,32.49,Sinonia,extinct,100.5,93.9,93.5,89.3,Cenomanian,Coniacian
+Sinonovacula,0.01,nonHet,92.2,Sinonovacula,extant,,,,,,
+Sita,39.65,nonHet,5.985,Sita,extinct,72.1,66,47.8,41.3,Maastrichtian,Lutetian
+Slava,424.3,nonHet,46.92,Slava,extinct,438.5,433.4,427.4,419.2,Telychian,Pridoli
+Sluha,449.1,nonHet,26.535,Sluha,extinct,478.6,471.8,438.5,433.4,Ordovician,Llandovery
+Sogamosa,35.95,nonHet,24.36,Sogamosa,extinct,,,,,,
+Sokolowia,35.95,nonHet,130.1,Sokolowia,extinct,55.8,48.6,38,33.9,Eocene,Priabonian
+Solamen,0.01,nonHet,44,Solamen,extant,41.3,33.9,0.126,0.0117,Bartonian,Pleistocene
+Solecardia,0.01,nonHet,18.8875,Solecardia,extant,13.82,11.62,2.588,0.781,Serravallian,Calabrian
+Solecurtus,0.01,nonHet,100,Solecurtus,extant,155.7,150.8,0.0117,0,Kimmeridgian,Cenozoic
+Solemya,0.01,nonHet,93,Solemya,extant,425.6,423,0.126,0.0117,Ludfordian,Pleistocene
+Solen,0.01,nonHet,184.8,Solen,extant,208.5,201.3,0.0117,0,Rhaetian,Cenozoic
+Solena,0.01,Het,160,Solena,extant,66,61.6,2.588,1.806,Paleogene,Gelasian
+Soletellina,0.01,Het,123,Soletellina,extant,47.8,41.3,0.126,0.0117,Lutetian,Pleistocene
+Solyma,69.05,nonHet,24.53,Solyma,extinct,100.5,93.9,55.8,48.6,Late Cretaceous,Ypresian
+Somapecten,148.55,nonHet,21.59,Somapecten,extinct,183,182,152.1,130,Pliensbachian,Hauterivian
+Somapteria,154.7,nonHet,29.2,Somapteria,extinct,157.3,152.1,157.3,152.1,Kimmeridgian,
+Sowerbya,136.35,nonHet,30.34,Sowerbya,extinct,201.3,196.5,152.1,145,Jurassic,
+Sowteria,462.85,nonHet,27.86,Sowteria,extinct,466,457.5,466,457.5,Darriwilian,Sandbian
+Spanila,424.3,nonHet,23.81,Spanila,extinct,433.4,430.5,409.1,402.5,Wenlock,Early Devonian
+Spaniorinus,0.01,nonHet,8.363888889,Spaniorinus,extant,72.1,66,5.333,3.6,Maastrichtian,Zanclean
+Spathochlamys,0.01,nonHet,28.1,Spathochlamys,extant,11.62,7.246,1.806,0.781,Tortonian,Calabrian
+Sphaeriola,167.2,nonHet,16.968,Sphaeriola,extinct,254.17,252.17,161.2,155.7,Changhsingian,Kimmeridgian
+Sphenia,0.01,Het,30.1,Sphenia,extant,66,61.6,0.0117,0,Cenozoic,
+Spheniopsis,0.01,Het,4.424,Spheniopsis,extant,38,33.9,5.333,3.6,Priabonian,Zanclean
+Sphenotomorpha,415,nonHet,32.72,Sphenotomorpha,extinct,433.4,419.2,393.3,372.2,Wenlock,Frasnian
+Sphenotrigonia,106.75,nonHet,122.5857143,Sphenotrigonia,extinct,122.46,112.03,112.03,109,Aptian,Albian
+Spinearca,0.01,nonHet,12,Spinearca,extant,72.1,66,0.0117,0,Maastrichtian,Cenozoic
+Spissatella,0.01,Het,43.90666667,Spissatella,extant,66,61.6,5.333,2.588,Paleogene,Neogene
+Spisula,0.01,Het,130,Spisula,extant,66,56,0.126,0.0117,Paleogene,Pleistocene
+Spondylopecten,148.55,nonHet,12.155,Spondylopecten,extinct,190.8,182.7,150.8,145,Pliensbachian,Late Jurassic
+Spondylus,0.01,nonHet,400,Spondylus,extant,251.2,247.2,0.0117,0,Olenekian,Cenozoic
+Sportella,18.21,Het,20.835,Sportella,extant,66,61.6,0.126,0.0117,Paleogene,Pleistocene
+Spyridoceramus,69.05,nonHet,60.77,Spyridoceramus,extinct,125,100.5,70.6,66,Aptian,Late Cretaceous
+Staffinella,167.2,nonHet,23.41764706,Staffinella,extinct,168.3,166.1,152.1,130,Bathonian,Hauterivian
+Standella,0.01,Het,80,Standella,extant,56,41.3,0.126,0.0117,Eocene,Pleistocene
+Stavelia,0.01,nonHet,146,Stavelia,,,,,,,
+Stefaninia,238.5,nonHet,29.98,Stefaninia,extinct,242,237,235,228,Ladinian,Carnian
+Stefaniniella,96.9,nonHet,91.87142857,Stefaniniella,extinct,,,,,,
+Stegoconcha,57.6,nonHet,159.78,Stegoconcha,extinct,168.3,166.1,145,140.2,Bathonian,Berriasian
+Steinmanella,69.05,nonHet,89.71428571,Steinmanella,extinct,152.1,145,83.6,66,Tithonian,Cretaceous
+Steinmannia,178.4,nonHet,51.01,Steinmannia,extinct,259.9,252.17,180.1,175.6,Lopingian,Early Jurassic
+Stereomactra,0.01,Het,111.7666667,Stereomactra,extinct,,,,,,
+Stirpulina,0.01,nonHet,76.98507463,Stirpulina,extant,93.5,89.3,5.333,3.6,Turonian,Zanclean
+Stralopecten,0.01,nonHet,101.9,Stralopecten,extinct,3.6,2.588,3.6,0.781,Piacenzian,Calabrian
+Streblochondria,257.05,nonHet,33.35,Streblochondria,extinct,372.2,360.7,251.3,247.2,Famennian,Early Triassic
+Streblopteria,257.05,nonHet,39.99,Streblopteria,extinct,372.2,360.7,254.17,252.17,Famennian,Permian
+Striarca,0.01,nonHet,20.27,Striarca,extant,100.5,72.1,0.0117,0,Late Cretaceous,Cenozoic
+Strigilla,0.01,Het,17.63,Strigilla,extant,37.2,33.9,0.0117,0,Priabonian,Holocene
+Striostrea,0.01,nonHet,250,Striostrea,extant,66,56,0.781,0.126,Paleogene,Middle Pleistocene
+Strophitus,0.01,nonHet,52.34,Strophitus,extant,72.1,66,72.1,66,Maastrichtian,
+Strophocardia,0.01,nonHet,60.2,Strophocardia,extant,11.608,5.333,0.126,0.0117,Tortonian,Pleistocene
+Subitopinna,0.01,nonHet,400,Subitopinna,extant,,,,,,
+Sunetta,0.01,Het,54.4,Sunetta,extant,33.9,28.4,0.126,0.0117,Oligocene,Pleistocene
+Symmorphomactra,0.01,Het,40.7,Symmorphomactra,extant,38,33.9,0.126,0,Priabonian,Holocene
+Syncyclonema,69.05,nonHet,3.40625,Syncyclonema,extinct,237,201.3,66,61.6,Late Triassic,Danian
+Synodontites,84.95,nonHet,30.46666667,Synodontites,extinct,,,,,,
+Syrotrigonia,77.85,nonHet,47.27,Syrotrigonia,extinct,145,125,129.4,100.5,Early Cretaceous,
+Taeniodon,200.3,nonHet,19.91,Taeniodon,extinct,208.5,201.3,208.5,201.3,Rhaetian,
+Tagelus,0.01,Het,150,Tagelus,extant,37.2,33.9,0.0117,0,Priabonian,Holocene
+Talabrica,0.01,nonHet,24.52,Talabrica,extant,2.588,0.781,2.588,0.781,Gelasian,Calabrian
+Tancredia,63.8,Het,38.74,Tancredia,extinct,247.2,242,66,61.6,Middle Triassic,Danian
+Tancrediopsis,385.2,nonHet,15.17,Tancrediopsis,extinct,471.8,460.9,393.3,387.7,Floian,Eifelian
+Tapes,0.01,Het,108,Tapes,extant,247.2,242,0.0117,0,Middle Triassic,Cenozoic
+Taria,0.01,nonHet,92.7,Taria,extant,5.333,3.6,0.0117,0,Pliocene,Holocene
+Tawera,0.01,Het,58.5,Tawera,extant,41.3,38,0.0117,0,Bartonian,Holocene
+Tellidora,0.01,nonHet,36.19,Tellidora,extant,70.6,66,0.0117,0,Maastrichtian,Cenozoic
+Tellidorella,0.01,nonHet,5.6,Tellidorella,extant,47.8,41.3,3.6,2.588,Lutetian,Neogene
+Tellimya,0.01,nonHet,7.5075,Tellimya,extant,5.333,3.6,0.0117,0,Pliocene,Holocene
+Tellina,0.01,Het,70.95714286,Tellina,extant,247.2,242,0.0117,0,Middle Triassic,Cenozoic
+Tellinides,0.01,Het,29.63,Tellinides,extant,5.333,0.0117,5.333,0.0117,Pliocene,Pleistocene
+Tellinimera,63.8,nonHet,15.515,Tellinimera,extinct,83.6,72.1,66,61.6,Campanian,Danian
+Tellinopsis,385.2,nonHet,21.46,Tellinopsis,extinct,393.3,382.7,387.7,382.7,Middle Devonian,
+Tellurimya,164.8,nonHet,26.62,Tellurimya,extinct,166.1,163.5,166.1,163.5,Callovian,
+Temblornia,0.01,Het,6.135897436,Temblornia,extinct,23.03,15.97,11.62,7.246,Aquitanian,Tortonian
+Temnoconcha,0.01,Het,43.11,Temnoconcha,extant,48.6,28.4,0.126,0,Eocene,Holocene
+Tenea,69.05,nonHet,22.77,Tenea,extinct,105.3,99.6,59.2,56,Albian,Paleocene
+Tentidonax,0.01,Het,36,Tentidonax,extant,,,,,,
+Tenuipteria,69.05,nonHet,31.86,Tenuipteria,extinct,72.1,66,70.6,66,Maastrichtian,
+Terebrimya,96.9,Het,10.8225,Terebrimya,extinct,112.03,109,99.6,93.5,Albian,Turonian
+Teredinopsis,1.3,Het,8.393333333,Teredinopsis,extinct,,,,,,
+Teredo,0.01,Het,5.861666667,Teredo,extant,145,139.8,0.126,0.0117,Cretaceous,Pleistocene
+Terquemia,160.4,nonHet,68.94285714,Terquemia,extinct,252.17,251.3,182.7,163.5,Triassic,Middle Jurassic
+Tetoria,0.01,Het,34.94,Tetoria,extinct,163.5,145,99.6,93.5,Late Jurassic,Turonian
+Tetorimya,160.4,nonHet,48.21,Tetorimya,extinct,174.1,168.4,164.7,161.2,Middle Jurassic,Oxfordian
+Texigryphaea,96.9,nonHet,74.46,Texigryphaea,extinct,113,100.5,105.3,99.6,Albian,Cenomanian
+Theora,0.01,Het,26.2,Theora,extant,3.6,2.588,0.0117,0,Piacenzian,Holocene
+Thorslundia,449.1,nonHet,25.32,Thorslundia,extinct,453,445.2,453,445.2,Katian,
+Thracia,0.01,nonHet,120,Thracia,extant,247.2,242,0.0117,0,Middle Triassic,Cenozoic
+Thyasira,0.01,Het,16.21,Thyasira,extant,113,109,0.0117,0,Albian,Cenozoic
+Timoclea,0.01,Het,35,Timoclea,extant,48.6,37.2,0.0117,0,Eocene,Holocene
+Tindaria,0.01,nonHet,15,Tindaria,extant,61.6,56,3.6,2.588,Selandian,Neogene
+Tindariopsis,0.01,nonHet,26.3,Tindariopsis,extant,5.333,3.6,0.0117,0,Pliocene,Holocene
+Titanosarcolites,69.05,nonHet,120.6571429,Titanosarcolites,extinct,83.6,72.1,70.6,66,Campanian,Maastrichtian
+Tivela,0.01,Het,176,Tivela,extant,152.1,145,0.126,0,Tithonian,Cenozoic
+Tiza,31,Het,23.02,Tiza,extinct,33.9,28.1,33.9,28.1,Rupelian,
+Tommasina,231.5,nonHet,78.58,Tommasina,extinct,251.3,247.2,232,215.56,Early Triassic,Norian
+Torastarte,204.9,nonHet,27.75,Torastarte,extinct,208.5,201.6,196.5,189.6,Rhaetian,Pliensbachian
+Tosapecten,167.2,nonHet,37.69,Tosapecten,extinct,247.2,242,208.5,201.3,Middle Triassic,Late Triassic
+Toucasia,88.05,nonHet,42.26,Toucasia,extinct,136.4,130,99.6,93.5,Valanginian,Turonian
+Trachycardium,0.01,Het,95.3,Trachycardium,extant,113,105.3,0.0117,0,Albian,Cenozoic
+Transennella,0.01,nonHet,46,Transennella,extant,61.6,59.2,0.0117,0,Selandian,Holocene
+Trapezium,0.01,Het,138.3,Trapezium,extant,251.2,242,0.126,0.0117,Olenekian,Pleistocene
+Tresus,0.01,nonHet,280,Tresus,extant,28.4,23.03,0.126,0,Oligocene,Holocene
+Triaphorus,231.5,nonHet,60.63,Triaphorus,extinct,247.2,242,221.5,201.3,Middle Triassic,Late Triassic
+Trichomya,0.01,nonHet,99.56,Trichomya,extant,19,15.9,0.126,0.0117,Burdigalian,Pleistocene
+Tridacna,0.01,Het,1368.7,Tridacna,extant,23.03,20.44,0.0117,0,Neogene,Holocene
+Trigonarca,69.05,nonHet,86.2,Trigonarca,extinct,168.3,166.1,70.6,56,Bathonian,Paleocene
+Trigonia,69.05,nonHet,79.71428571,Trigonia,extinct,298.9,295.5,66,56,Permian,Paleocene
+Trigoniocardia,0.01,Het,17.8,Trigoniocardia,extant,38,33.9,0.126,0,Priabonian,Holocene
+Trigonocallista,69.05,nonHet,74.16,Trigonocallista,extinct,100.5,93.9,72.1,66,Late Cretaceous,
+Trigonodesma,35.95,nonHet,4.148333333,Trigonodesma,extinct,56,47.8,47.8,37.2,Ypresian,Eocene
+Trigonopis,69.05,Het,10.38,Trigonopis,extinct,201.3,189.6,155.7,150.8,Early Jurassic,Jurassic
+Trigonulina,0.01,nonHet,8,Trigonulina,extant,56,47.8,0.126,0.0117,Eocene,Pleistocene
+Trinacria,39.65,nonHet,7.0825,Trinacria,extinct,93.9,89.8,13.82,11.62,Turonian,Serravallian
+Trinitasia,18.21,nonHet,39.98666667,Trinitasia,extinct,20.44,15.97,5.333,3.6,Burdigalian,Zanclean
+Triplicosta,51.9,nonHet,43.48,Triplicosta,extinct,,,,,,
+Trisidos,0.01,nonHet,132.3,Trisidos,extant,33.9,28.4,2.588,0.0117,Oligocene,Pleistocene
+Tucetilla,0.01,nonHet,41,Tucetilla,extant,,,,,,
+Tucetonella,0.01,nonHet,11.5,Tucetonella,extant,,,,,,
+Tugonia,0.01,Het,45,Tugonia,extant,48.6,37.2,48.6,37.2,Ypresian,Priabonian
+Turkostrea,0.01,nonHet,46.33,Turkostrea,extinct,72.1,66,38,33.9,Maastrichtian,Eocene
+Turnus,69.05,Het,22.69,Turnus,extinct,166.1,163.5,66,61.6,Callovian,Danian
+Turtonia,0.01,nonHet,4,Turtonia,extant,2.588,0.0117,0.0117,0,Pleistocene,Holocene
+Tutcheria,178.4,nonHet,3.22375,Tutcheria,extinct,228,215.56,180.1,174.1,Norian,Early Jurassic
+Tylophora,409.2,nonHet,37.65,Tylophora,extinct,,,,,,
+Uddenia,69.05,nonHet,8.044,Uddenia,extinct,83.6,72.1,66,61.6,Campanian,Danian
+Undulostrea,0.01,nonHet,100.6,Undulostrea,extant,48.6,28.4,0.126,0,Eocene,Holocene
+Unicardiopsis,154.7,nonHet,16.875,Unicardiopsis,extinct,,,,,,
+Unio,0.01,nonHet,81.8,Unio,extant,247.2,242,0.0117,0,Middle Triassic,Cenozoic
+Unionites,218.25,nonHet,29.98,Unionites,extinct,268.8,265.1,155.7,145,Wordian,Jurassic
+Vaccinites,69.05,nonHet,56.09,Vaccinites,extinct,100.5,93.9,70.6,66,Late Cretaceous,
+Vacunella,262.5,nonHet,179.375,Vacunella,extinct,323.2,307,254.17,252.17,Pennsylvanian,Permian
+Valletia,136.35,nonHet,64.65333333,Valletia,extinct,,,,,,
+Vanuxemia,449.1,nonHet,24.93,Vanuxemia,extinct,470,458.4,449.5,443.4,Middle Ordovician,Late Ordovician
+Vasconella,35.95,nonHet,25,Vasconella,extinct,,,,,,
+Vaugonia,148.55,nonHet,44.02,Vaugonia,extinct,201.3,199.3,148.5,145,Jurassic,
+Velesunio,0.01,nonHet,62.6,Velesunio,,0.781,0.0117,0.126,0.0117,Middle Pleistocene,Late Pleistocene
+Venericardia,0.01,Het,45.25,Venericardia,extant,190.8,183,0.126,0.0117,Pliensbachian,Pleistocene
+Venericyprina,119,nonHet,13.045,Venericyprina,extinct,157.3,152.1,157.3,152.1,Kimmeridgian,
+Venerupis,0.01,Het,58,Venerupis,extant,132.9,129.4,0.0117,0,Hauterivian,Cenozoic
+Veniella,57.6,nonHet,50.49,Veniella,extinct,122.46,112.03,55.8,48.6,Aptian,Ypresian
+Ventricolaria,0.01,Het,60.22,Ventricolaria,extant,33.9,28.1,0.126,0,Oligocene,Holocene
+Venus,0.01,Het,72,Venus,extant,237,201.3,0.126,0.0117,Late Triassic,Pleistocene
+Vepricardium,0.01,Het,80,Vepricardium,extant,56,47.8,0.0117,0,Eocene,Holocene
+Verilarca,0.01,nonHet,22.3,Verilarca,extant,72.1,66,0.0117,0,Maastrichtian,Cenozoic
+Versipella,0.01,nonHet,30,Versipella,extant,201.3,183,0.0117,0,Jurassic,Cenozoic
+Verticipronus,0.01,nonHet,5.5,Verticipronus,extant,,,,,,
+Verticordia,0.01,nonHet,36,Verticordia,extant,72.1,66,0.781,0.126,Maastrichtian,Middle Pleistocene
+Vertipecten,0.01,nonHet,135.025,Vertipecten,extinct,41.3,33.9,15.97,5.333,Bartonian,Miocene
+Vesicomya,0.01,Het,263,Vesicomya,extant,83.6,72.1,0.126,0.0117,Campanian,Pleistocene
+Vetoarca,69.05,nonHet,11.105,Vetoarca,extinct,,,,,,
+Viaderella,18.21,Het,17.75,Viaderella,extant,,,,,,
+Vigorniella,421.1,nonHet,8.16,Vigorniella,extinct,423,419.2,423,419.2,Pridoli,
+Vilasina,0.01,nonHet,27,Vilasina,extant,,,,,,
+Villorita,0.01,nonHet,29.66,Villorita,extant,,,,,,
+Vlasta,424.3,nonHet,80.44,Vlasta,extinct,457.5,455.8,419.2,393.3,Late Ordovician,Early Devonian
+Vokesula,0.01,Het,8.408,Vokesula,extinct,61.7,59.2,5.333,3.6,Paleogene,Zanclean
+Volachlamys,0.01,nonHet,79.4,Volachlamys,extant,2.588,0.0117,2.588,0.0117,Pleistocene,
+Volsellina,262.5,nonHet,23.125,Volsellina,extinct,323.2,314.6,254.17,252.17,Pennsylvanian,Permian
+Volupia,35.95,nonHet,5.811666667,Volupia,extinct,41.3,38,41.3,38,Bartonian,
+Vulsella,0.01,nonHet,121,Vulsella,extant,100.5,93.9,0.126,0.0117,Late Cretaceous,Pleistocene
+Vulsellina,39.65,nonHet,6.196666667,Vulsellina,extinct,,,,,,
+Vultogryphaea,69.05,nonHet,114.8285714,Vultogryphaea,extinct,93.9,89.8,83.5,70.6,Turonian,Maastrichtian
+Waagenoperna,218.25,nonHet,47.72941177,Waagenoperna,extinct,242,237,228,208.5,Ladinian,Norian
+Wallucina,0.01,nonHet,10.88125,Wallucina,extant,2.588,0.0117,0.126,0.0117,Pleistocene,
+Warburgia,449.1,nonHet,21.37,Warburgia,extinct,453,445.2,453,445.2,Katian,
+Weyla,167.2,nonHet,72.66,Weyla,extinct,221.5,215.56,164.7,161.2,Norian,Oxfordian
+Whiteavesia,455.7,nonHet,33.92,Whiteavesia,extinct,460.9,455.8,445.2,443.4,Darriwilian,Late Ordovician
+Wilkingia,257.05,nonHet,47.77,Wilkingia,extinct,345,336,254.17,252.17,Visean,Permian
+Xenocardita,119,nonHet,8.18,Xenocardita,extinct,125.45,122.46,125,113,Barremian,Aptian
+Xylophagella,69.05,Het,17.91,Xylophagella,extinct,112.03,109,59.2,56,Albian,Paleocene
+Xylophomya,69.05,Het,37.74,Xylophomya,extinct,,,,,,
+Yaadia,69.05,nonHet,90.55714286,Yaadia,extinct,125,113,72.1,66,Aptian,Late Cretaceous
+Yabepecten,0.01,nonHet,43.27777778,Yabepecten,extinct,3.6,2.588,3.6,2.588,Piacenzian,
+Yokoyamaina,200.3,nonHet,46.8,Yokoyamaina,extinct,201.3,199.3,196.5,174.1,Early Jurassic,
+Yoldia,0.01,nonHet,60,Yoldia,extant,345,336,0.0117,0,Visean,Cenozoic
+Yoldiella,0.01,nonHet,18,Yoldiella,extant,72.1,66,0.0117,0,Maastrichtian,Cenozoic
+Yvaniella,69.05,nonHet,65.88571429,Yvaniella,extinct,83.5,70.6,72.1,66,Campanian,Maastrichtian
+Zealeda,0.01,nonHet,3.955,Zealeda,extant,12.7,11.608,12.7,11.608,Serravallian,Tortonian
+Zelithophaga,0.01,nonHet,49,Zelithophaga,extant,,,,,,
+Zirfaea,0.01,Het,143,Zirfaea,extant,28.1,23.03,0.126,0.0117,Chattian,Pleistocene
+Zirlona,18.21,Het,20.16333333,Zirlona,extinct,,,,,,
+Zygochlamys,0.01,nonHet,97,Zygochlamys,extant,33.9,28.4,0.0117,0,Oligocene,Holocene
