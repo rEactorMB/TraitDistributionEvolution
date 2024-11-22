@@ -1,4 +1,5 @@
-Data = readtable("/Users/Elliot/Documents/University/UoB/PhD/EvolutionComplexityAndThermodynamics/Data/Mammals/MOMv3.3.txt");
+% Import data from MOMv3.3.txt and extract the relevant columns
+Data = readtable("MOMv3.3.txt");
 continent = Data(:, "Var1");
 status = Data(:, "Var2");
 % mass = Data(:, "Var7");
@@ -8,16 +9,7 @@ continent = table2cell(continent);
 mass = table2cell(mass);
 mass = cell2mat(mass);
 
-% name1 = Data(:, "Var3");
-% name2 = Data(:, "Var4");
-% name3 = Data(:, "Var5");
-% name1 = table2cell(name1);
-% name2 = table2cell(name2);
-% name3 = table2cell(name3);
-
-% count = sum(mass < 1000);
-% disp("There are " + count + " out of " + length(mass) + " under 1kg.");
-
+% Separate out the extant and extinct mammal data
 extinct_mass = mass;
 extant_mass = mass;
 for i = 1:length(status)
@@ -35,20 +27,13 @@ for i = 1:length(status)
     if extant_mass(i) == -999
         extant_mass(i) = NaN;
     end
-    % if strcmp(continent(i), 'Oceanic')
-    %     % choose from AF, AUS, EA, Insular, NA, Oceanic or SA.
-    %     extant_mass(i) = NaN;
-    % end
 end
 extinct_mass = extinct_mass(~isnan(extinct_mass));
 extant_mass = extant_mass(~isnan(extant_mass));
 
-% extant_mass = extant_mass ./ 1000;
-% extant_mass = extant_mass .^ (1/3);
-% extant_mass = log(extant_mass);
+% Take log of all mass values with minimum value mapping to 0
 extant_mass = log(extant_mass / min(extant_mass));
 
-% [number, edges] = histcounts(extant_mass(extant_mass < 10), 20);
 [number, edges] = histcounts(extant_mass, 20, "Normalization", "pdf");
 [number2, edges2] = histcounts(extant_mass, 50, "Normalization", "pdf");
 [number3, edges3] = histcounts(extant_mass, 100, "Normalization", "pdf");
