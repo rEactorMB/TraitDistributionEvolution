@@ -24,12 +24,14 @@ BrSum_size = BrSum_size(BrTruth);
 BrSum_fad = BrSum_fad(BrTruth);
 BrSum_lad = BrSum_lad(BrTruth);
 
-% warning("data removed from dataset (line 27).");
-% for i = 1:2
-%     BiSum_lad = BiSum_lad(BiSum_size ~= max(BiSum_size));
-%     BiSum_fad = BiSum_fad(BiSum_size ~= max(BiSum_size));
-%     BiSum_size = BiSum_size(BiSum_size ~= max(BiSum_size));
-% end
+% Use this code to remove bivalve outliers: two outliers (i = 1:2) are
+% Tridacna and Pinna.
+warning("data removed from dataset bivalve (line 29).");
+for i = 1:2
+    BiSum_lad = BiSum_lad(BiSum_size ~= max(BiSum_size));
+    BiSum_fad = BiSum_fad(BiSum_size ~= max(BiSum_size));
+    BiSum_size = BiSum_size(BiSum_size ~= max(BiSum_size));
+end
 
 % Make sure the minimum size is not less than 1 so no negative values
 % appear when you look at log10(size)
@@ -46,33 +48,12 @@ end
 disp("Bivalve size data scaled by 10^" + Bi_10_scale);
 disp("Brachiopod size data scaled by 10^" + Br_10_scale);
 
-% Make a histogram of the interval midpoints for Brachiopods and Bivalves
-BiSum_im = table2array(Bivalvia_summary(:, "int_midpoint"));
-BrSum_im = table2array(Brachiopoda_summary(:, "int_midpoint"));
-minmin = min([min(BrSum_im), min(BiSum_im)]);
-maxmax = max([max(BrSum_im), max(BiSum_im)]);
-tiledlayout(2, 1);
-nexttile;
-histogram(-BiSum_im);
-title("Bivalve interval midpoints");
-xlabel("Million years from now");
-ylabel("Numbers");
-xlim([-maxmax, -minmin]);
-nexttile;
-histogram(-BrSum_im);
-title("Brachiopod interval midpoints");
-xlabel("Million years from now");
-ylabel("Numbers");
-xlim([-maxmax, -minmin]);
-
 % If you only want to look at data before or after the Permian-Triassic
 % extinction event then use these boolean objects to set which time period
 % you wish to look at (true -> include data).
 prePTE = true;
 postPTE = true;
 
-pause(1);
-close("all");
 %%
 % Bivalve analysis
 BiSum_fad = -BiSum_fad;
@@ -85,38 +66,17 @@ Bi_min_size = min(BiSum_log_size);
 Bi_dates = linspace(Bi_min_fad, Bi_max_lad, 101);
 Bi_dates = Bi_dates(1:100) + (0.5 * (Bi_dates(2) - Bi_dates(1)));
 
-% Add dates you want for the histograms
+% Add dates you want for the histograms (for plotting specific
+% dates later)
 % Bi_plot_dates = [-485.4, -359.2, -145.5, -2.588];
 % Bi_dates(end+1:end+4) = Bi_plot_dates;
 % Bi_dates = sort(Bi_dates);
 
-% figure;
-% Bi_peak_position = zeros(1, length(Bi_dates));
-% for i = 1:length(Bi_dates)
-%     date_in_interval = logical((BiSum_fad <= Bi_dates(i) .* (BiSum_lad > Bi_dates(i))));
-%     histogram(BiSum_log_size(date_in_interval));
-%     [counts, edges] = histcounts(BiSum_log_size(date_in_interval), 10);
-%     [KDFx, KDFy] = KernelDensityFunction(edges(1:end-1) + (0.5 * (edges(2) - edges(1))), counts, false);
-%     hold on
-%     plot(KDFx, KDFy)
-%     hold off
-%     xlim([0, Bi_max_size]);
-%     xlabel("log10(size)");
-%     ylabel("Counts");
-%     title("Time = " + Bi_dates(i) + " million years from now.")
-%     pause(0.1);
-%     [~, Bi_peak_position(i)] = PeakandBulkMotion(Bi_dates(i), KDFx, KDFy, "");
-%     % pause(0.1);
-% end
-% plot(Bi_dates, Bi_peak_position);
-% ylabel("Peak position");
-% xlabel("Time from now (million years)");
-% xline(-251.9, Label="Permian-Triassic extinction", LabelVerticalAlignment="bottom");
-
 %%
-% Bivalve log likelihood analysis
-% Find all the time intervals which have a unique histogram and the
-% midpoints of these intervals.
+% Bivalve log likelihood analysis V1 (analytical solution)
+% --> Dirichlet boundaries only.
+% Find all the time intervals which have a unique histogram (i.e.
+% a unique set of species) and the midpoints of these intervals.
 Bi_unique_dates = zeros(1, 2 * length(BiSum_lad));
 next_fill = 1;
 for i = 1:length(BiSum_fad)
@@ -150,22 +110,6 @@ for i = 1:(next_fill-2)
     Bi_sample_size(i) = sum((BiSum_fad <= Bi_unique_im(i)) .* (BiSum_lad > Bi_unique_im(i)));
 end
 
-% Old Method
-% Bi_indices = [0, cumsum(Bi_sample_size)];
-% Bi_log_sizes = zeros(1, sum(Bi_sample_size));
-% Bi_times = zeros(1, sum(Bi_sample_size));
-% for i = 1:(next_fill-2)
-%     Bi_times(Bi_indices(i)+1:Bi_indices(i+1)) = Bi_unique_im(i);
-%     Bi_log_sizes(Bi_indices(i)+1:Bi_indices(i+1)) = BiSum_log_size(logical((BiSum_fad <= Bi_unique_im(i) .* (BiSum_lad > Bi_unique_im(i)))));
-% end
-% 
-% func2min = @(theta) -LogLikelihoodSSConAb(Bi_log_sizes, theta(1), theta(2), max(BiSum_log_size), theta(3), Bi_times - theta(4));
-% 
-% tic
-% Bi_OptVals = fminsearch(func2min, [0.001, 0.001, 0.5*max(BiSum_log_size), min(BiSum_fad)]);
-% toc
-% disp(Bi_OptVals);
-
 % New faster method
 Bi_times = Bi_unique_im;
 Bi_log_sizes = zeros(next_fill-2, max(Bi_sample_size));
@@ -173,22 +117,19 @@ for i = 1:(next_fill-2)
     Bi_log_sizes(i, 1:Bi_sample_size(i)) = BiSum_log_size(logical((BiSum_fad <= Bi_unique_im(i)) .* (BiSum_lad > Bi_unique_im(i))));
 end
 
+% Set the furthest point back in time you will allow the search algorithm
+% to go.  e.g. -514 -> 514 mya
 Bi_t_offset = -514;
 Bi_log_sizes(Bi_log_sizes == 0) = NaN;
 
-% func2min = @(theta) -LogLikelihoodSSConAb(Bi_log_sizes, theta(1), theta(2), Bi_max_size, theta(3), Bi_times - theta(4));
 func2min = @(theta) -LogLikelihoodSSConAb(Bi_log_sizes - theta(5), theta(1), theta(2), theta(4), theta(3), Bi_times - theta(6));
 
-tic
-% options = optimset('PlotFcns', @optimplotfval, 'MaxFunEvals', 5000);
-% Bi_OptVals = fminsearch(func2min, [0, 0.001, 0.5*Bi_max_size, Bi_max_size - 0.5, 0, Bi_t_offset], options);
 options = optimoptions('fmincon', 'PlotFcn','optimplotfval', 'Algorithm', 'interior-point', 'EnableFeasibilityMode', true, 'SubproblemAlgorithm', 'cg', 'MaxFunctionEvaluations', 5000);
 Bi_OptVals = fmincon(func2min, [0.0001, 0.0005, 1.4, 3, 0.2, -510], [0, 0, 1, -1, 0, 0; 0, -1, 0, 0, 0, 0; 0, 0, 0, 0, 1, 0; 0, 0, -1, 0, 0, 0; 0, 0, 0, -1, -1, 0; 0, 0, 0, 0, 0, 1; 0, 0, 0, 0, 0, -1], [0; 0; Bi_min_size; 0; -Bi_max_size; min(Bi_times); -Bi_t_offset], [], [], [], [], [], options);
-toc
 
-% Bi_OptVals = [5.628e-4, 4.676e-4, 1.254, 3.032, 0.2050, -514.0];
-disp(-func2min(Bi_OptVals));
-
+% Warn user if search algorithm returns values close to the constraints.
+% Proximity can be set to determine how close the value needs to be
+% before a warning is issued.
 proximity = 0.001;
 if abs(Bi_OptVals(5) - Bi_min_size) < abs(proximity * Bi_min_size)
     disp("WARNING: Bi_OptVals(5) (size offset) is sitting near the constraing boundary.");
@@ -202,6 +143,7 @@ end
 
 %%
 % Bivalve log likelihood analysis V2 (numerical solution)
+% --> Dirichlet, Neumann or no flux (Robin type) boundaries.
 % Find all the time intervals which have a unique histogram and the
 % midpoints of these intervals.
 Bi_unique_dates = zeros(1, 2 * length(BiSum_lad));
@@ -244,23 +186,22 @@ for i = 1:(next_fill-2)
     Bi_log_sizes(i, 1:Bi_sample_size(i)) = BiSum_log_size(logical((BiSum_fad <= Bi_unique_im(i)) .* (BiSum_lad > Bi_unique_im(i))));
 end
 
+% Set the furthest point back in time you will allow the search algorithm
+% to go.  e.g. -514 -> 514 mya
 Bi_t_offset = -514;
 Bi_log_sizes(Bi_log_sizes == 0) = NaN;
 
-func2min = @(theta) -NumericalLogLikelihood(Bi_times - theta(6), Bi_log_sizes - theta(5), theta(1), theta(2), theta(3), theta(4), "CrankNicolsonUpperRrob");
+% Set the upper boundary type by specifying the method
+% (Corresponds to methods in NumericalPDESolve.m)
+method = "CrankNicolsonUpperRrob";
+func2min = @(theta) -NumericalLogLikelihood(Bi_times - theta(6), Bi_log_sizes - theta(5), theta(1), theta(2), theta(3), theta(4), method);
 
-% tic
-% % options = optimset('PlotFcns', @optimplotfval, 'MaxFunEvals', 5000);
-% % Bi_OptVals = fminsearch(func2min, [0.0005628, 0.0004676, 1.254, 3.032, 0.205, -514], options);
-% options = optimoptions('fmincon', 'PlotFcn','optimplotfval', 'Algorithm', 'interior-point', 'EnableFeasibilityMode', true, 'SubproblemAlgorithm', 'cg', 'MaxFunctionEvaluations', 5000);
-% Bi_OptVals = fmincon(func2min, [0.0005628, 0.0004676, 1.254, 3.032, 0.205, -514], [0, 0, 1, -1, 0, 0; 0, -1, 0, 0, 0, 0; 0, 0, 0, 0, 1, 0; 0, 0, -1, 0, 0, 0; 0, 0, 0, -1, -1, 0; 0, 0, 0, 0, 0, 1; 0, 0, 0, 0, 0, -1], [0; 0; Bi_min_size; 0; -Bi_max_size; min(Bi_times); -Bi_t_offset], [], [], [], [], [], options);
-% toc
+options = optimoptions('fmincon', 'PlotFcn','optimplotfval', 'Algorithm', 'interior-point', 'EnableFeasibilityMode', true, 'SubproblemAlgorithm', 'cg', 'MaxFunctionEvaluations', 5000);
+Bi_OptVals = fmincon(func2min, [0.0005628, 0.0004676, 1.254, 3.032, 0.205, -514], [0, 0, 1, -1, 0, 0; 0, -1, 0, 0, 0, 0; 0, 0, 0, 0, 1, 0; 0, 0, -1, 0, 0, 0; 0, 0, 0, -1, -1, 0; 0, 0, 0, 0, 0, 1; 0, 0, 0, 0, 0, -1], [0; 0; Bi_min_size; 0; -Bi_max_size; min(Bi_times); -Bi_t_offset], [], [], [], [], [], options);
 
-% Bi_OptVals = [5.628e-4, 4.676e-4, 1.254, 3.032, 0.2050, -514.0];
-% Bi_OptVals = [5.411e-4, 4.636e-4, 1.256, 3.043, 0.1747, -513.9];
-Bi_OptVals = [5.464e-4, 4.704e-4, 1.259, 3.064, 0.1640, -513.9];
-disp(-func2min(Bi_OptVals));
-
+% Warn user if search algorithm returns values close to the constraints.
+% Proximity can be set to determine how close the value needs to be
+% before a warning is issued.
 proximity = 0.001;
 if abs(Bi_OptVals(5) - Bi_min_size) < abs(proximity * Bi_min_size)
     disp("WARNING: Bi_OptVals(5) (size offset) is sitting near the constraing boundary.");
@@ -493,7 +434,8 @@ Br_dates = sort(Br_dates);
 % xline(-251.9, Label="Permian-Triassic extinction", LabelVerticalAlignment="bottom");
 
 %%
-% Brachiopod log likelihood analysis
+% Brachiopod log likelihood analysis V1 (analytical solution)
+% --> Dirichlet upper boundary
 % Find all the time intervals which have a unique histogram and the
 % midpoints of these intervals.
 Br_unique_dates = zeros(1, 2 * length(BrSum_lad));
@@ -529,22 +471,6 @@ for i = 1:(next_fill-2)
     Br_sample_size(i) = sum((BrSum_fad <= Br_unique_im(i)) .* (BrSum_lad > Br_unique_im(i)));
 end
 
-% Old Method
-% Br_indices = [0, cumsum(Br_sample_size)];
-% Br_log_sizes = zeros(1, sum(Br_sample_size));
-% Br_times = zeros(1, sum(Br_sample_size));
-% for i = 1:(next_fill-2)
-%     Br_times(Br_indices(i)+1:Br_indices(i+1)) = Br_unique_im(i);
-%     Br_log_sizes(Br_indices(i)+1:Br_indices(i+1)) = BrSum_log_size(logical((BrSum_fad < Br_unique_im(i) .* (BrSum_lad > Br_unique_im(i)))));
-% end
-% 
-% func2min = @(theta) -LogLikelihoodSSConAb(Br_log_sizes, theta(1), theta(2), max(BrSum_log_size), theta(3), Br_times - theta(4));
-% 
-% tic
-% Br_OptVals = fminsearch(func2min, [0.001, 0.001, 0.5*max(BrSum_log_size), min(BrSum_fad)]);
-% toc
-% disp(Br_OptVals);
-
 % New faster method
 Br_times = Br_unique_im;
 Br_log_sizes = zeros(next_fill-2, max(Br_sample_size));
@@ -552,32 +478,19 @@ for i = 1:(next_fill-2)
     Br_log_sizes(i, 1:Br_sample_size(i)) = BrSum_log_size(logical((BrSum_fad <= Br_unique_im(i)) .* (BrSum_lad > Br_unique_im(i))));
 end
 
+% Set the furthest point back in time you will allow the search algorithm
+% to go.  e.g. -607 -> 607 mya
 Br_t_offset = -607;
 Br_log_sizes(Br_log_sizes == 0) = NaN;
 
-Br_log_sizes = Br_log_sizes(Br_times > -252, :);
-Br_times = Br_times(Br_times > -252);
-
 func2min = @(theta) -LogLikelihoodSSConAb(Br_log_sizes - theta(5), theta(1), theta(2), theta(4), theta(3), Br_times - theta(6));
 
-% tic
-% % options = optimset('PlotFcns', @optimplotfval);
-% % Br_OptVals = fminsearch(func2min, [0.0011, 0.0002, 1, 2.5, min(BrSum_log_size)], options);
 % options = optimoptions('fmincon', 'PlotFcn','optimplotfval', 'Algorithm', 'interior-point', 'EnableFeasibilityMode', true, 'SubproblemAlgorithm', 'cg', 'MaxFunctionEvaluations', 5000);
-% % options = optimoptions('fmincon', 'PlotFcn','optimplotfval');
-% % Br_OptVals = fmincon(func2min, [0.0015, 0.001, 3.2, 4.6, -0.5], [0, 0, 1, -1, 0; 0, -1, 0, 0, 0; 0, 0, 0, 0, 1; 0, 0, -1, 0, 0; 0, 0, 0, -1, -1], [0; 0; min(BrSum_log_size); 0; -Br_max_size], [], [], [], [], [], options);
 % Br_OptVals = fmincon(func2min, [0.002, 0.0007, 1.4, 2.8, 0.5, -600], [0, 0, 1, -1, 0, 0; 0, -1, 0, 0, 0, 0; 0, 0, 0, 0, 1, 0; 0, 0, -1, 0, 0, 0; 0, 0, 0, -1, -1, 0; 0, 0, 0, 0, 0, 1; 0, 0, 0, 0, 0, -1], [0; 0; Br_min_size; 0; -Br_max_size; min(Br_times); -Br_t_offset], [], [], [], [], [], options);
-% % Br_OptVals = fmincon(func2min, [0.007, 0.03, 1.3, 2.7, 0.6, -600], [0, 0, 1, -1, 0, 0; 0, -1, 0, 0, 0, 0; 0, 0, 0, 0, 1, 0; 0, 0, -1, 0, 0, 0; 0, 0, 0, -1, -1, 0; 0, 0, 0, 0, 0, 1; 0, 0, 0, 0, 0, -1], [0; 0; Br_min_size; 0; -Br_max_size; min(Br_times); -Br_t_offset], [], [], [], [], [], options);
-% % Br_OptVals = fmincon(func2min, [0.005,0.004,1,2.7,1.5,-600], [0, 0, 1, -1, 0, 0; 0, -1, 0, 0, 0, 0; 0, 0, 0, 0, 1, 0; 0, 0, -1, 0, 0, 0; 0, 0, 0, -1, -1, 0; 0, 0, 0, 0, 0, 1], [0; 0; Br_min_size; 0; -Br_max_size; min(Br_times)], [], [], [], [], [], options);
-% toc
-% disp(Br_OptVals);
 
-% Br_OptVals = [2.753e-3, 7.539e-4, 1.316, 2.930, 0.3441, -607.0];
-Br_OptVals = [0.1370, 0.1352, 1.281, 2.642, 0.6283, -606.9];
-% Br_OptVals = [1.493e-3, 7.410e-4, 1.411, 2.797, 0.4759, -607.0];
-
-disp(-func2min(Br_OptVals));
-
+% Warn user if search algorithm returns values close to the constraints.
+% Proximity can be set to determine how close the value needs to be
+% before a warning is issued.
 proximity = 0.001;
 if abs(Br_OptVals(5) - Br_min_size) < abs(proximity * Br_min_size)
     disp("WARNING: Br_OptVals(5) (size offset) is sitting near the constraing boundary.");
@@ -591,6 +504,7 @@ end
 
 %%
 % Brachiopod log likelihood analysis V2 (numerical solution)
+% --> Dirichlet, Neumann and no flux (Robin type) upper boundary.
 % Find all the time intervals which have a unique histogram and the
 % midpoints of these intervals.
 Br_unique_dates = zeros(1, 2 * length(BrSum_lad));
@@ -633,34 +547,22 @@ for i = 1:(next_fill-2)
     Br_log_sizes(i, 1:Br_sample_size(i)) = BrSum_log_size(logical((BrSum_fad <= Br_unique_im(i)) .* (BrSum_lad > Br_unique_im(i))));
 end
 
+% Set the furthest point back in time you will allow the search algorithm
+% to go.  e.g. -607 -> 607 mya
 Br_t_offset = -607;
 Br_log_sizes(Br_log_sizes == 0) = NaN;
 
-% Br_log_sizes = Br_log_sizes(Br_times > -252, :);
-% Br_times = Br_times(Br_times > -252);
+% Set the upper boundary type by specifying the method
+% (Corresponds to methods in NumericalPDESolve.m)
+method = "CrankNicolsonUpperRrob";
+func2min = @(theta) -NumericalLogLikelihood(Br_times - theta(6), Br_log_sizes - theta(5), theta(1), theta(2), theta(3), theta(4), method);
 
-func2min = @(theta) -NumericalLogLikelihood(Br_times - theta(6), Br_log_sizes - theta(5), theta(1), theta(2), theta(3), theta(4), "CrankNicolsonUpperRrob");
+options = optimoptions('fmincon', 'PlotFcn','optimplotfval', 'Algorithm', 'interior-point', 'EnableFeasibilityMode', true, 'SubproblemAlgorithm', 'cg', 'MaxFunctionEvaluations', 5000);
+Br_OptVals = fmincon(func2min, [0.001493, 0.000741, 1.411, 2.797, 0.4759, -607], [0, 0, 1, -1, 0, 0; 0, -1, 0, 0, 0, 0; 0, 0, 0, 0, 1, 0; 0, 0, -1, 0, 0, 0; 0, 0, 0, -1, -1, 0; 0, 0, 0, 0, 0, 1; 0, 0, 0, 0, 0, -1], [0; 0; Br_min_size; 0; -Br_max_size; min(Br_times); -Br_t_offset], [], [], [], [], [], options);
 
-% tic
-% % options = optimset('PlotFcns', @optimplotfval);
-% % Br_OptVals = fminsearch(func2min, [0.0011, 0.0002, 1, 2.5, min(BrSum_log_size)], options);
-% options = optimoptions('fmincon', 'PlotFcn','optimplotfval', 'Algorithm', 'interior-point', 'EnableFeasibilityMode', true, 'SubproblemAlgorithm', 'cg', 'MaxFunctionEvaluations', 5000);
-% % options = optimoptions('fmincon', 'PlotFcn','optimplotfval');
-% % Br_OptVals = fmincon(func2min, [0.0015, 0.001, 3.2, 4.6, -0.5], [0, 0, 1, -1, 0; 0, -1, 0, 0, 0; 0, 0, 0, 0, 1; 0, 0, -1, 0, 0; 0, 0, 0, -1, -1], [0; 0; min(BrSum_log_size); 0; -Br_max_size], [], [], [], [], [], options);
-% % Br_OptVals = fmincon(func2min, [0.002, 0.0007, 1.4, 2.8, 0.5, -600], [0, 0, 1, -1, 0, 0; 0, -1, 0, 0, 0, 0; 0, 0, 0, 0, 1, 0; 0, 0, -1, 0, 0, 0; 0, 0, 0, -1, -1, 0; 0, 0, 0, 0, 0, 1; 0, 0, 0, 0, 0, -1], [0; 0; Br_min_size; 0; -Br_max_size; min(Br_times); -Br_t_offset], [], [], [], [], [], options);
-% Br_OptVals = fmincon(func2min, [0.001493, 0.000741, 1.411, 2.797, 0.4759, -607], [0, 0, 1, -1, 0, 0; 0, -1, 0, 0, 0, 0; 0, 0, 0, 0, 1, 0; 0, 0, -1, 0, 0, 0; 0, 0, 0, -1, -1, 0; 0, 0, 0, 0, 0, 1; 0, 0, 0, 0, 0, -1], [0; 0; Br_min_size; 0; -Br_max_size; min(Br_times); -Br_t_offset], [], [], [], [], [], options);
-% % Br_OptVals = fmincon(func2min, [0.005,0.004,1,2.7,1.5,-600], [0, 0, 1, -1, 0, 0; 0, -1, 0, 0, 0, 0; 0, 0, 0, 0, 1, 0; 0, 0, -1, 0, 0, 0; 0, 0, 0, -1, -1, 0; 0, 0, 0, 0, 0, 1], [0; 0; Br_min_size; 0; -Br_max_size; min(Br_times)], [], [], [], [], [], options);
-% toc
-% disp(Br_OptVals);
-
-% Br_OptVals = [2.753e-3, 7.539e-4, 1.316, 2.930, 0.3441, -607.0];
-% Br_OptVals = [0.1370, 0.1352, 1.281, 2.642, 0.6283, -606.9];
-% Br_OptVals = [1.493e-3, 7.410e-4, 1.411, 2.797, 0.4759, -607.0];
-Br_OptVals = [9.273e-4, 6.380e-4, 1.404, 2.767, 0.5609, -606.9];
-% Br_OptVals = [1.089e-3, 6.444e-4, 1.430, 2.874, 0.4909, -606.9];
-
-disp(-func2min(Br_OptVals));
-
+% Warn user if search algorithm returns values close to the constraints.
+% Proximity can be set to determine how close the value needs to be
+% before a warning is issued.
 proximity = 0.001;
 if abs(Br_OptVals(5) - Br_min_size) < abs(proximity * Br_min_size)
     disp("WARNING: Br_OptVals(5) (size offset) is sitting near the constraing boundary.");
