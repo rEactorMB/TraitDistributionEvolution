@@ -1,10 +1,29 @@
-function [extract_times, bin_values, population_history] = SimulationDis(a, D, b, d, x0, a_params, D_params, b_params, d_params, lower_boundary, lower_boundary_type, upper_boundary, upper_boundary_type, extract_times, traitspace_splits, runs, wtf)
+function [extract_times, bin_values, population_history] = SimulationDis(a, D, b, d, x0, a_params, D_params, b_params, d_params, lower_boundary, lower_boundary_type, upper_boundary, upper_boundary_type, extract_times, traitspace_splits, runs)
+% Gillespie style algorithm so simulate the evolution of a population
+% where each population member gives birth with rate b, dies with rate
+% d, mutates symmetrically with rate D and mutates in a deterministic
+% direction with rate |a|.  The direction of the deterministic mutation
+% is given by the sign of a.  The space in which the population lives
+% is a discrete, one dimensional space.
+
+% a, D, b and d are function inputs such whose arguments are x (the
+space) and a set of parameters: a_params, D_params, b_params and d_params.
+% lower_boundary and upper_boundary set the position of the boundaries on
+% the space.  x0 sets the position the initial population member is placed
+% in the space.  The boundary types (lower_boundary_type and
+% upper_boundary_type) are 'A' (Dirichlet), 'N' (Neumann), or 'R' (zero-
+% flux (Robin-type)).
+% extract_times are the times the algorithm will output the state of the
+% population for.
+% traitspace_splits is the number of bins the space is split into.
+% runs is an integer which can be used to perform multiple simulations
+% and average the results.
 
 if upper_boundary_type ~= 'A' && upper_boundary_type ~= 'R' && upper_boundary_type ~= 'N'
-    error('Error : Not a valid upper boundary type.  Use "A" (absorbing (Dirichlet)), "R" (Robin) or "N" (reflecting (Neumann))')
+    error('Error : Not a valid upper boundary type.  Use "A" (absorbing (Dirichlet)), "R" (zero-flux (Robin-type)) or "N" (reflecting (Neumann))')
 end
 if lower_boundary_type ~= 'A' && upper_boundary_type ~= 'R' && upper_boundary_type ~= 'N'
-    error('Error : Not a valid upper boundary type.  Use "A" (absorbing (Dirichlet)), "R" (Robin) or "N" (reflecting (Neumann))')
+    error('Error : Not a valid upper boundary type.  Use "A" (absorbing (Dirichlet)), "R" (zero-flux (Robin-type)) or "N" (reflecting (Neumann))')
 end
 
 if extract_times < 0
@@ -143,9 +162,6 @@ while event_time < t_stop && extinction == false
     end
 end
 
-disp("Simulation finished at t = " + event_time)
-disp("Final population size : " + sum(population_history(end, :)))
-
 if runs > 1
     runs_completed = 1;
     while runs_completed < runs
@@ -161,20 +177,4 @@ if runs > 1
     end
     population_history = population_history / runs;
 end
-
-if wtf == true
-    info = "a_params = " + strjoin(compose('%f', a_params), ',') + "; D_params = " + strjoin(compose('%f', D_params), ',') + "; b_params = " + strjoin(compose('%f', b_params), ',') + "; d_params = " + strjoin(compose('%f', d_params), ',') + "; x0 = " + x0 + "; lower boundary : " + lower_boundary + lower_boundary_type + "; upper boundary : " + upper_boundary + upper_boundary_type + " -- Discrete Simulation; " + runs + " runs.";
-    file = fopen('DiscreteSimulationResults.txt', 'w');
-    fprintf(file, info + '\n');
-    fprintf(file, strjoin(compose('%f', extract_times), ','));
-    fprintf(file, '\n');
-    fprintf(file', strjoin(compose('%f', bin_values), ','));
-    for i = 1:length(extract_times)
-        fprintf(file, '\n');
-        fprintf(file, strjoin(compose('%f', population_history(i, :)), ','));
-    end
-    fclose(file);
-    disp("'DiscreteSimulationResults.txt' written.")
-end
-
 end
