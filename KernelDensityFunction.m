@@ -1,4 +1,6 @@
 function [x_values, y_values] = KernelDensityFunction(bins, fill_levels, normalise)
+% Function to smooth over a histogram by making every point in the histogram
+% a Gaussian curve and finding the sum of these curves.
 sigma_0 = bins(end) - bins(1);
 sigma_min = sigma_0 / (length(bins) * 2);
 x_values = linspace(bins(1), bins(end), 1000);
