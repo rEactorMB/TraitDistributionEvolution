@@ -1,4 +1,10 @@
 function [times, peak_pos, bulk_pos, varargout] = PeakandBulkMotion(times, x_values, y_values, label1, varargin)
+% Function to find the motion of the peak and mean (bulk) of a distribution
+% when the data is structured such that times is of length n, x_values is
+% of length m and y_values is an nxm matrix, with the ith row representing
+% bin fill levels of a histogram with bins representing the values in
+% x_values, at time = times(i).
+
 % 4 input arguments plots just the first data set of peak and mean position
 % values against time.  The label must be given to force future clarity.
 % If 5 arguments are given the 5th argument is assumed to be L so that the
