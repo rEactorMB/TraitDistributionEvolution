@@ -1,5 +1,6 @@
-Bivalvia_summary = readtable("/Users/Elliot/Documents/University/UoB/PhD/EvolutionComplexityAndThermodynamics/Data/Brachiopods&Bivalves/BivalveSummary.csv");
-Brachiopoda_summary = readtable("/Users/Elliot/Documents/University/UoB/PhD/EvolutionComplexityAndThermodynamics/Data/Brachiopods&Bivalves/BrachiopodSummary.csv");
+% Import data from BivalveSummary.csv and BrachiopodSummary.csv
+Bivalvia_summary = readtable("BivalveSummary.csv");
+Brachiopoda_summary = readtable("BrachiopodSummary.csv");
 
 % Get out size, first appearance date (fad) and last appearance date (lad)
 % fad is the maximum value (mya), i.e. furthest back in time
