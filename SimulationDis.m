@@ -7,7 +7,7 @@ function [extract_times, bin_values, population_history] = SimulationDis(a, D, b
 % is a discrete, one dimensional space.
 
 % a, D, b and d are function inputs such whose arguments are x (the
-space) and a set of parameters: a_params, D_params, b_params and d_params.
+% space) and a set of parameters: a_params, D_params, b_params and d_params.
 % lower_boundary and upper_boundary set the position of the boundaries on
 % the space.  x0 sets the position the initial population member is placed
 % in the space.  The boundary types (lower_boundary_type and
