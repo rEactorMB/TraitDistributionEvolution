@@ -1,30 +1,13 @@
-% Old method
-% function [solution_value] = SSConAb(x, a, D, L, x0, t)
-% if isscalar(t)
-%     k_max = 100;
-% 
-%     outside_sum = ((2 / L) * exp((a * (x - x0) / D) - ((a * a) * t / (2 * D))));
-%     k = (1:k_max).';
-%     k_sum = sum(sin(k * x0 * pi / L) .* sin(k .* x * pi / L) .* exp(-(k .* k * pi * pi) * t * D / (2 * L * L)));
-% 
-%     temp_x = linspace(0, L, 100);
-%     temp_outside_sum = ((2 / L) * exp((a * (temp_x - x0) / D) - ((a * a) * t / (2 * D))));
-%     temp_k_sum = sum(sin(k * x0 * pi / L) .* sin(k .* temp_x * pi / L) .* exp(-(k .* k * pi * pi) * t * D / (2 * L * L)));
-%     temp_y = temp_outside_sum .* temp_k_sum;
-%     temp_y = temp_y / min(temp_y(temp_y ~= 0));
-% 
-%     integral_value = sum((2 / L) * exp(-(a * x0 / D) - ((a * a) * t / (2 * D))) * sum(sin(k * x0 * pi / L) .* exp(-(k .* k * pi * pi) * t * D / (2 * L * L)) .* (pi * D * D * k * L .* (1 - (((-1).^k) * exp(a * L / D))) ./ ((D * D * pi * pi * k .* k) + (a * a * L * L)))));
-%     disp(integral_value);
-%     solution_value = (outside_sum .* k_sum) / NumericalIntegrator(temp_x, temp_y);
-% else
-%     solution_value = zeros(length(t), length(x));
-%     for i = 1:length(t)
-%         solution_value(i, :) = SSConAb(x, a, D, L, x0, t(i));
-%     end
-% end
-% end
-
 function [solution_value] = SSConAb(x, a, D, L, x0, t)
+% Function to return the value of the solution to the partial
+% differential equation dy/dt = -a dy/dx + D/2 d^2y/dx^2 (y = y(x,t))
+% given a delta function initial condition: y(x,0) = delta(x - x0)
+% and Dirichlet boundaries at x=0,L: y(0,t) = y(L,t) = 0.
+% The code works for single or multiple values of time (t).
+% Since the analytical solution is an infinite series solution, this
+% calculation is truncated at k_max terms.
+% The solution is normalised so that the area under the solution
+% curve is one.
 if isscalar(t)
     k_max = 100;
     

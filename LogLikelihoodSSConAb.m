@@ -1,4 +1,9 @@
 function log_sum = LogLikelihoodSSConAb(trait_values, a, D, L, x0, t_values, varargin)
+% Log likelihood calculation for data whose probability is given by the solution
+% to the partial differential equation dy/dt = -a dy/dx + D/2 d^2y/dx^2, (y=y(x,t))
+% subject to a delta function initial condition: y(x,0) = delta(x - x0)
+% and Dirichlet boundaries at x=0,L: y(0,t) = y(L,t) = 0
+% trait_values represent x and t_values represent t
 if nargin == 6
     weight = 100;
 elseif nargin == 7
