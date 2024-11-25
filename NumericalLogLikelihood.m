@@ -8,7 +8,7 @@ function [LogLikelihood] = NumericalLogLikelihood(data_t, data_x, a, D, x0, L, m
 % is set by the method argument which corresponds to the methods in 
 % NumericalPDESolve.m
 data_count = length(data_t);
-t_counts = 10000;
+t_counts = ceil(100 * max(data_t));
 x_counts = 200;
 t_points = linspace(0, max(data_t), t_counts);
 [~, num_x, num_y] = NumericalPDESolve(a, D, x0, 0, L, t_points, x_counts, false, method, false);
